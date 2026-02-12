@@ -1,0 +1,3276 @@
+{
+  "version": "rb-content-1.1",
+  "generator": "converter 4.5",
+  "contentHash": "f62273a8dabe9d4f215b5be3e87a30c0",
+  "id": "rashomon",
+  "title": "羅生門",
+  "author": "芥川龍之介",
+  "charCount": 5694,
+  "readingTimeMinutes": 15,
+  "headings": [],
+  "source": {
+    "credits": "底本：「芥川龍之介全集1」ちくま文庫、筑摩書房\n　　　1986（昭和61）年9月24日第1刷発行\n　　　1997（平成9）年4月15日第14刷発行\n底本の親本：「筑摩全集類聚　芥川龍之介全集第一巻」筑摩書房\n　　　1971（昭和46）年3月5日初版第1刷発行\n初出：「帝国文学」\n　　　1915（大正4）年11月号\n※底本の編者による脚注は省略しました。\n入力：平山誠、野口英司\n校正：もりみつじゅんじ\n1997年10月29日公開\n2022年7月16日修正\n青空文庫作成ファイル：\nこのファイルは、インターネットの図書館、青空文庫（https://www.aozora.gr.jp/）で作られました。入力、校正、制作にあたったのは、ボランティアの皆さんです。"
+  },
+  "sentences": [
+    {
+      "sid": "s000001",
+      "globalOffset": 0,
+      "charCount": 12,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "ある日の暮方の事である。"
+        }
+      ]
+    },
+    {
+      "sid": "s000002",
+      "globalOffset": 12,
+      "charCount": 23,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "一人の"
+        },
+        {
+          "type": "ruby",
+          "base": "下人",
+          "ruby": "げにん"
+        },
+        {
+          "type": "text",
+          "value": "が、"
+        },
+        {
+          "type": "ruby",
+          "base": "羅生門",
+          "ruby": "らしょうもん"
+        },
+        {
+          "type": "text",
+          "value": "の下で雨やみを待っていた。"
+        }
+      ]
+    },
+    {
+      "sid": "s000003",
+      "globalOffset": 35,
+      "charCount": 21,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "広い門の下には、この男のほかに誰もいない。"
+        }
+      ]
+    },
+    {
+      "sid": "s000004",
+      "globalOffset": 56,
+      "charCount": 31,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "ただ、所々"
+        },
+        {
+          "type": "ruby",
+          "base": "丹塗",
+          "ruby": "にぬり"
+        },
+        {
+          "type": "text",
+          "value": "の"
+        },
+        {
+          "type": "ruby",
+          "base": "剥",
+          "ruby": "は"
+        },
+        {
+          "type": "text",
+          "value": "げた、大きな"
+        },
+        {
+          "type": "ruby",
+          "base": "円柱",
+          "ruby": "まるばしら"
+        },
+        {
+          "type": "text",
+          "value": "に、"
+        },
+        {
+          "type": "ruby",
+          "base": "蟋蟀",
+          "ruby": "きりぎりす"
+        },
+        {
+          "type": "text",
+          "value": "が一匹とまっている。"
+        }
+      ]
+    },
+    {
+      "sid": "s000005",
+      "globalOffset": 87,
+      "charCount": 58,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "羅生門が、"
+        },
+        {
+          "type": "ruby",
+          "base": "朱雀大路",
+          "ruby": "すざくおおじ"
+        },
+        {
+          "type": "text",
+          "value": "にある以上は、この男のほかにも、雨やみをする"
+        },
+        {
+          "type": "ruby",
+          "base": "市女笠",
+          "ruby": "いちめがさ"
+        },
+        {
+          "type": "text",
+          "value": "や"
+        },
+        {
+          "type": "ruby",
+          "base": "揉烏帽子",
+          "ruby": "もみえぼし"
+        },
+        {
+          "type": "text",
+          "value": "が、もう二三人はありそうなものである。"
+        }
+      ]
+    },
+    {
+      "sid": "s000006",
+      "globalOffset": 145,
+      "charCount": 18,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "それが、この男のほかには誰もいない。"
+        }
+      ]
+    },
+    {
+      "sid": "s000007",
+      "globalOffset": 163,
+      "charCount": 47,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "何故かと云うと、この二三年、京都には、地震とか"
+        },
+        {
+          "type": "ruby",
+          "base": "辻風",
+          "ruby": "つじかぜ"
+        },
+        {
+          "type": "text",
+          "value": "とか火事とか饑饉とか云う"
+        },
+        {
+          "type": "ruby",
+          "base": "災",
+          "ruby": "わざわい"
+        },
+        {
+          "type": "text",
+          "value": "がつづいて起った。"
+        }
+      ]
+    },
+    {
+      "sid": "s000008",
+      "globalOffset": 210,
+      "charCount": 19,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "そこで"
+        },
+        {
+          "type": "ruby",
+          "base": "洛中",
+          "ruby": "らくちゅう"
+        },
+        {
+          "type": "text",
+          "value": "のさびれ方は一通りではない。"
+        }
+      ]
+    },
+    {
+      "sid": "s000009",
+      "globalOffset": 229,
+      "charCount": 68,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "旧記によると、仏像や仏具を打砕いて、その"
+        },
+        {
+          "type": "ruby",
+          "base": "丹",
+          "ruby": "に"
+        },
+        {
+          "type": "text",
+          "value": "がついたり、金銀の"
+        },
+        {
+          "type": "ruby",
+          "base": "箔",
+          "ruby": "はく"
+        },
+        {
+          "type": "text",
+          "value": "がついたりした木を、路ばたにつみ重ねて、"
+        },
+        {
+          "type": "ruby",
+          "base": "薪",
+          "ruby": "たきぎ"
+        },
+        {
+          "type": "text",
+          "value": "の"
+        },
+        {
+          "type": "ruby",
+          "base": "料",
+          "ruby": "しろ"
+        },
+        {
+          "type": "text",
+          "value": "に売っていたと云う事である。"
+        }
+      ]
+    },
+    {
+      "sid": "s000010",
+      "globalOffset": 297,
+      "charCount": 40,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "洛中がその始末であるから、羅生門の修理などは、元より誰も捨てて顧る者がなかった。"
+        }
+      ]
+    },
+    {
+      "sid": "s000011",
+      "globalOffset": 337,
+      "charCount": 25,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "するとその荒れ果てたのをよい事にして、"
+        },
+        {
+          "type": "ruby",
+          "base": "狐狸",
+          "ruby": "こり"
+        },
+        {
+          "type": "text",
+          "value": "が"
+        },
+        {
+          "type": "ruby",
+          "base": "棲",
+          "ruby": "す"
+        },
+        {
+          "type": "text",
+          "value": "む。"
+        }
+      ]
+    },
+    {
+      "sid": "s000012",
+      "globalOffset": 362,
+      "charCount": 6,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "ruby",
+          "base": "盗人",
+          "ruby": "ぬすびと"
+        },
+        {
+          "type": "text",
+          "value": "が棲む。"
+        }
+      ]
+    },
+    {
+      "sid": "s000013",
+      "globalOffset": 368,
+      "charCount": 47,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "とうとうしまいには、引取り手のない死人を、この門へ持って来て、棄てて行くと云う習慣さえ出来た。"
+        }
+      ]
+    },
+    {
+      "sid": "s000014",
+      "globalOffset": 415,
+      "charCount": 57,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "そこで、日の目が見えなくなると、誰でも気味を悪るがって、この門の近所へは足ぶみをしない事になってしまったのである。"
+        }
+      ]
+    },
+    {
+      "sid": "s000015",
+      "globalOffset": 472,
+      "charCount": 24,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "その代りまた"
+        },
+        {
+          "type": "ruby",
+          "base": "鴉",
+          "ruby": "からす"
+        },
+        {
+          "type": "text",
+          "value": "がどこからか、たくさん集って来た。"
+        }
+      ]
+    },
+    {
+      "sid": "s000016",
+      "globalOffset": 496,
+      "charCount": 45,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "昼間見ると、その鴉が何羽となく輪を描いて、高い"
+        },
+        {
+          "type": "ruby",
+          "base": "鴟尾",
+          "ruby": "しび"
+        },
+        {
+          "type": "text",
+          "value": "のまわりを啼きながら、飛びまわっている。"
+        }
+      ]
+    },
+    {
+      "sid": "s000017",
+      "globalOffset": 541,
+      "charCount": 43,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "ことに門の上の空が、夕焼けであかくなる時には、それが"
+        },
+        {
+          "type": "ruby",
+          "base": "胡麻",
+          "ruby": "ごま"
+        },
+        {
+          "type": "text",
+          "value": "をまいたようにはっきり見えた。"
+        }
+      ]
+    },
+    {
+      "sid": "s000018",
+      "globalOffset": 584,
+      "charCount": 28,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "鴉は、勿論、門の上にある死人の肉を、"
+        },
+        {
+          "type": "ruby",
+          "base": "啄",
+          "ruby": "ついば"
+        },
+        {
+          "type": "text",
+          "value": "みに来るのである。"
+        }
+      ]
+    },
+    {
+      "sid": "s000019",
+      "globalOffset": 612,
+      "charCount": 27,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "――もっとも今日は、"
+        },
+        {
+          "type": "ruby",
+          "base": "刻限",
+          "ruby": "こくげん"
+        },
+        {
+          "type": "text",
+          "value": "が遅いせいか、一羽も見えない。"
+        }
+      ]
+    },
+    {
+      "sid": "s000020",
+      "globalOffset": 639,
+      "charCount": 60,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "ただ、所々、崩れかかった、そうしてその崩れ目に長い草のはえた石段の上に、鴉の"
+        },
+        {
+          "type": "ruby",
+          "base": "糞",
+          "ruby": "ふん"
+        },
+        {
+          "type": "text",
+          "value": "が、点々と白くこびりついているのが見える。"
+        }
+      ]
+    },
+    {
+      "sid": "s000021",
+      "globalOffset": 699,
+      "charCount": 71,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "下人は七段ある石段の一番上の段に、洗いざらした紺の"
+        },
+        {
+          "type": "ruby",
+          "base": "襖",
+          "ruby": "あお"
+        },
+        {
+          "type": "text",
+          "value": "の尻を据えて、右の頬に出来た、大きな"
+        },
+        {
+          "type": "ruby",
+          "base": "面皰",
+          "ruby": "にきび"
+        },
+        {
+          "type": "text",
+          "value": "を気にしながら、ぼんやり、雨のふるのを眺めていた。"
+        }
+      ]
+    },
+    {
+      "sid": "s000022",
+      "globalOffset": 770,
+      "charCount": 26,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "作者はさっき、"
+        },
+        {
+          "type": "text",
+          "value": "「"
+        },
+        {
+          "type": "quote",
+          "value": [
+            {
+              "type": "text",
+              "value": "下人が雨やみを待っていた"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "value": "」"
+        },
+        {
+          "type": "text",
+          "value": "と書いた。"
+        }
+      ]
+    },
+    {
+      "sid": "s000023",
+      "globalOffset": 796,
+      "charCount": 30,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "しかし、下人は雨がやんでも、格別どうしようと云う当てはない。"
+        }
+      ]
+    },
+    {
+      "sid": "s000024",
+      "globalOffset": 826,
+      "charCount": 23,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "ふだんなら、勿論、主人の家へ帰る可き筈である。"
+        }
+      ]
+    },
+    {
+      "sid": "s000025",
+      "globalOffset": 849,
+      "charCount": 22,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "所がその主人からは、四五日前に暇を出された。"
+        }
+      ]
+    },
+    {
+      "sid": "s000026",
+      "globalOffset": 871,
+      "charCount": 30,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "前にも書いたように、当時京都の町は一通りならず"
+        },
+        {
+          "type": "ruby",
+          "base": "衰微",
+          "ruby": "すいび"
+        },
+        {
+          "type": "text",
+          "value": "していた。"
+        }
+      ]
+    },
+    {
+      "sid": "s000027",
+      "globalOffset": 901,
+      "charCount": 50,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "今この下人が、永年、使われていた主人から、暇を出されたのも、実はこの衰微の小さな余波にほかならない。"
+        }
+      ]
+    },
+    {
+      "sid": "s000028",
+      "globalOffset": 951,
+      "charCount": 66,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "だから"
+        },
+        {
+          "type": "text",
+          "value": "「"
+        },
+        {
+          "type": "quote",
+          "value": [
+            {
+              "type": "text",
+              "value": "下人が雨やみを待っていた"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "value": "」"
+        },
+        {
+          "type": "text",
+          "value": "と云うよりも"
+        },
+        {
+          "type": "text",
+          "value": "「"
+        },
+        {
+          "type": "quote",
+          "value": [
+            {
+              "type": "text",
+              "value": "雨にふりこめられた下人が、行き所がなくて、途方にくれていた"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "value": "」"
+        },
+        {
+          "type": "text",
+          "value": "と云う方が、適当である。"
+        }
+      ]
+    },
+    {
+      "sid": "s000029",
+      "globalOffset": 1017,
+      "charCount": 48,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "その上、今日の空模様も少からず、この平安朝の下人の Sentimentalisme に影響した。"
+        }
+      ]
+    },
+    {
+      "sid": "s000030",
+      "globalOffset": 1065,
+      "charCount": 28,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "ruby",
+          "base": "申",
+          "ruby": "さる"
+        },
+        {
+          "type": "text",
+          "value": "の"
+        },
+        {
+          "type": "ruby",
+          "base": "刻",
+          "ruby": "こく"
+        },
+        {
+          "type": "ruby",
+          "base": "下",
+          "ruby": "さが"
+        },
+        {
+          "type": "text",
+          "value": "りからふり出した雨は、いまだに上るけしきがない。"
+        }
+      ]
+    },
+    {
+      "sid": "s000031",
+      "globalOffset": 1093,
+      "charCount": 110,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "そこで、下人は、何をおいても差当り"
+        },
+        {
+          "type": "ruby",
+          "base": "明日",
+          "ruby": "あす"
+        },
+        {
+          "type": "text",
+          "value": "の暮しをどうにかしようとして――云わばどうにもならない事を、どうにかしようとして、とりとめもない考えをたどりながら、さっきから朱雀大路にふる雨の音を、聞くともなく聞いていたのである。"
+        }
+      ]
+    },
+    {
+      "sid": "s000032",
+      "globalOffset": 1203,
+      "charCount": 32,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "雨は、羅生門をつつんで、遠くから、ざあっと云う音をあつめて来る。"
+        }
+      ]
+    },
+    {
+      "sid": "s000033",
+      "globalOffset": 1235,
+      "charCount": 52,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "夕闇は次第に空を低くして、見上げると、門の屋根が、斜につき出した"
+        },
+        {
+          "type": "ruby",
+          "base": "甍",
+          "ruby": "いらか"
+        },
+        {
+          "type": "text",
+          "value": "の先に、重たくうす暗い雲を支えている。"
+        }
+      ]
+    },
+    {
+      "sid": "s000034",
+      "globalOffset": 1287,
+      "charCount": 35,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "どうにもならない事を、どうにかするためには、手段を選んでいる"
+        },
+        {
+          "type": "ruby",
+          "base": "遑",
+          "ruby": "いとま"
+        },
+        {
+          "type": "text",
+          "value": "はない。"
+        }
+      ]
+    },
+    {
+      "sid": "s000035",
+      "globalOffset": 1322,
+      "charCount": 34,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "選んでいれば、"
+        },
+        {
+          "type": "ruby",
+          "base": "築土",
+          "ruby": "ついじ"
+        },
+        {
+          "type": "text",
+          "value": "の下か、道ばたの土の上で、"
+        },
+        {
+          "type": "ruby",
+          "base": "饑死",
+          "ruby": "うえじに"
+        },
+        {
+          "type": "text",
+          "value": "をするばかりである。"
+        }
+      ]
+    },
+    {
+      "sid": "s000036",
+      "globalOffset": 1356,
+      "charCount": 37,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "そうして、この門の上へ持って来て、犬のように棄てられてしまうばかりである。"
+        }
+      ]
+    },
+    {
+      "sid": "s000037",
+      "globalOffset": 1393,
+      "charCount": 45,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "選ばないとすれば――下人の考えは、何度も同じ道を"
+        },
+        {
+          "type": "ruby",
+          "base": "低徊",
+          "ruby": "ていかい"
+        },
+        {
+          "type": "text",
+          "value": "した"
+        },
+        {
+          "type": "ruby",
+          "base": "揚句",
+          "ruby": "あげく"
+        },
+        {
+          "type": "text",
+          "value": "に、やっとこの局所へ"
+        },
+        {
+          "type": "ruby",
+          "base": "逢着",
+          "ruby": "ほうちゃく"
+        },
+        {
+          "type": "text",
+          "value": "した。"
+        }
+      ]
+    },
+    {
+      "sid": "s000038",
+      "globalOffset": 1438,
+      "charCount": 33,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "しかしこの"
+        },
+        {
+          "type": "text",
+          "value": "「"
+        },
+        {
+          "type": "quote",
+          "value": [
+            {
+              "type": "text",
+              "value": "すれば"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "value": "」"
+        },
+        {
+          "type": "text",
+          "value": "は、いつまでたっても、結局"
+        },
+        {
+          "type": "text",
+          "value": "「"
+        },
+        {
+          "type": "quote",
+          "value": [
+            {
+              "type": "text",
+              "value": "すれば"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "value": "」"
+        },
+        {
+          "type": "text",
+          "value": "であった。"
+        }
+      ]
+    },
+    {
+      "sid": "s000039",
+      "globalOffset": 1471,
+      "charCount": 101,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "下人は、手段を選ばないという事を肯定しながらも、この"
+        },
+        {
+          "type": "text",
+          "value": "「"
+        },
+        {
+          "type": "quote",
+          "value": [
+            {
+              "type": "text",
+              "value": "すれば"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "value": "」"
+        },
+        {
+          "type": "text",
+          "value": "のかたをつけるために、当然、その後に来る可き"
+        },
+        {
+          "type": "text",
+          "value": "「"
+        },
+        {
+          "type": "quote",
+          "value": [
+            {
+              "type": "ruby",
+              "base": "盗人",
+              "ruby": "ぬすびと"
+            },
+            {
+              "type": "text",
+              "value": "になるよりほかに仕方がない"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "value": "」"
+        },
+        {
+          "type": "text",
+          "value": "と云う事を、積極的に肯定するだけの、勇気が出ずにいたのである。"
+        }
+      ]
+    },
+    {
+      "sid": "s000040",
+      "globalOffset": 1572,
+      "charCount": 27,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "下人は、大きな"
+        },
+        {
+          "type": "ruby",
+          "base": "嚔",
+          "ruby": "くさめ"
+        },
+        {
+          "type": "text",
+          "value": "をして、それから、"
+        },
+        {
+          "type": "ruby",
+          "base": "大儀",
+          "ruby": "たいぎ"
+        },
+        {
+          "type": "text",
+          "value": "そうに立上った。"
+        }
+      ]
+    },
+    {
+      "sid": "s000041",
+      "globalOffset": 1599,
+      "charCount": 27,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "夕冷えのする京都は、もう"
+        },
+        {
+          "type": "ruby",
+          "base": "火桶",
+          "ruby": "ひおけ"
+        },
+        {
+          "type": "text",
+          "value": "が欲しいほどの寒さである。"
+        }
+      ]
+    },
+    {
+      "sid": "s000042",
+      "globalOffset": 1626,
+      "charCount": 28,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "風は門の柱と柱との間を、夕闇と共に遠慮なく、吹きぬける。"
+        }
+      ]
+    },
+    {
+      "sid": "s000043",
+      "globalOffset": 1654,
+      "charCount": 29,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "ruby",
+          "base": "丹塗",
+          "ruby": "にぬり"
+        },
+        {
+          "type": "text",
+          "value": "の柱にとまっていた"
+        },
+        {
+          "type": "ruby",
+          "base": "蟋蟀",
+          "ruby": "きりぎりす"
+        },
+        {
+          "type": "text",
+          "value": "も、もうどこかへ行ってしまった。"
+        }
+      ]
+    },
+    {
+      "sid": "s000044",
+      "globalOffset": 1683,
+      "charCount": 45,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "下人は、"
+        },
+        {
+          "type": "ruby",
+          "base": "頸",
+          "ruby": "くび"
+        },
+        {
+          "type": "text",
+          "value": "をちぢめながら、"
+        },
+        {
+          "type": "ruby",
+          "base": "山吹",
+          "ruby": "やまぶき"
+        },
+        {
+          "type": "text",
+          "value": "の"
+        },
+        {
+          "type": "ruby",
+          "base": "汗袗",
+          "ruby": "かざみ"
+        },
+        {
+          "type": "text",
+          "value": "に重ねた、紺の"
+        },
+        {
+          "type": "ruby",
+          "base": "襖",
+          "ruby": "あお"
+        },
+        {
+          "type": "text",
+          "value": "の肩を高くして門のまわりを見まわした。"
+        }
+      ]
+    },
+    {
+      "sid": "s000045",
+      "globalOffset": 1728,
+      "charCount": 60,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "雨風の"
+        },
+        {
+          "type": "ruby",
+          "base": "患",
+          "ruby": "うれえ"
+        },
+        {
+          "type": "text",
+          "value": "のない、人目にかかる"
+        },
+        {
+          "type": "ruby",
+          "base": "惧",
+          "ruby": "おそれ"
+        },
+        {
+          "type": "text",
+          "value": "のない、一晩楽にねられそうな所があれば、そこでともかくも、夜を明かそうと思ったからである。"
+        }
+      ]
+    },
+    {
+      "sid": "s000046",
+      "globalOffset": 1788,
+      "charCount": 37,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "すると、幸い門の上の楼へ上る、幅の広い、これも丹を塗った"
+        },
+        {
+          "type": "ruby",
+          "base": "梯子",
+          "ruby": "はしご"
+        },
+        {
+          "type": "text",
+          "value": "が眼についた。"
+        }
+      ]
+    },
+    {
+      "sid": "s000047",
+      "globalOffset": 1825,
+      "charCount": 25,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "上なら、人がいたにしても、どうせ死人ばかりである。"
+        }
+      ]
+    },
+    {
+      "sid": "s000048",
+      "globalOffset": 1850,
+      "charCount": 61,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "下人はそこで、腰にさげた"
+        },
+        {
+          "type": "ruby",
+          "base": "聖柄",
+          "ruby": "ひじりづか"
+        },
+        {
+          "type": "text",
+          "value": "の"
+        },
+        {
+          "type": "ruby",
+          "base": "太刀",
+          "ruby": "たち"
+        },
+        {
+          "type": "text",
+          "value": "が"
+        },
+        {
+          "type": "ruby",
+          "base": "鞘走",
+          "ruby": "さやばし"
+        },
+        {
+          "type": "text",
+          "value": "らないように気をつけながら、"
+        },
+        {
+          "type": "ruby",
+          "base": "藁草履",
+          "ruby": "わらぞうり"
+        },
+        {
+          "type": "text",
+          "value": "をはいた足を、その梯子の一番下の段へふみかけた。"
+        }
+      ]
+    },
+    {
+      "sid": "s000049",
+      "globalOffset": 1911,
+      "charCount": 14,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "それから、何分かの後である。"
+        }
+      ]
+    },
+    {
+      "sid": "s000050",
+      "globalOffset": 1925,
+      "charCount": 59,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "羅生門の楼の上へ出る、幅の広い梯子の中段に、一人の男が、猫のように身をちぢめて、息を殺しながら、上の"
+        },
+        {
+          "type": "ruby",
+          "base": "容子",
+          "ruby": "ようす"
+        },
+        {
+          "type": "text",
+          "value": "を窺っていた。"
+        }
+      ]
+    },
+    {
+      "sid": "s000051",
+      "globalOffset": 1984,
+      "charCount": 32,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "楼の上からさす火の光が、かすかに、その男の右の頬をぬらしている。"
+        }
+      ]
+    },
+    {
+      "sid": "s000052",
+      "globalOffset": 2016,
+      "charCount": 24,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "短い鬚の中に、赤く"
+        },
+        {
+          "type": "ruby",
+          "base": "膿",
+          "ruby": "うみ"
+        },
+        {
+          "type": "text",
+          "value": "を持った"
+        },
+        {
+          "type": "ruby",
+          "base": "面皰",
+          "ruby": "にきび"
+        },
+        {
+          "type": "text",
+          "value": "のある頬である。"
+        }
+      ]
+    },
+    {
+      "sid": "s000053",
+      "globalOffset": 2040,
+      "charCount": 33,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "下人は、始めから、この上にいる者は、死人ばかりだと高を"
+        },
+        {
+          "type": "ruby",
+          "base": "括",
+          "ruby": "くく"
+        },
+        {
+          "type": "text",
+          "value": "っていた。"
+        }
+      ]
+    },
+    {
+      "sid": "s000054",
+      "globalOffset": 2073,
+      "charCount": 51,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "それが、梯子を二三段上って見ると、上では誰か火をとぼして、しかもその火をそこここと動かしているらしい。"
+        }
+      ]
+    },
+    {
+      "sid": "s000055",
+      "globalOffset": 2124,
+      "charCount": 58,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "これは、その濁った、黄いろい光が、隅々に"
+        },
+        {
+          "type": "ruby",
+          "base": "蜘蛛",
+          "ruby": "くも"
+        },
+        {
+          "type": "text",
+          "value": "の巣をかけた天井裏に、揺れながら映ったので、すぐにそれと知れたのである。"
+        }
+      ]
+    },
+    {
+      "sid": "s000056",
+      "globalOffset": 2182,
+      "charCount": 40,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "この雨の夜に、この羅生門の上で、火をともしているからは、どうせただの者ではない。"
+        }
+      ]
+    },
+    {
+      "sid": "s000057",
+      "globalOffset": 2222,
+      "charCount": 47,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "下人は、"
+        },
+        {
+          "type": "ruby",
+          "base": "守宮",
+          "ruby": "やもり"
+        },
+        {
+          "type": "text",
+          "value": "のように足音をぬすんで、やっと急な梯子を、一番上の段まで這うようにして上りつめた。"
+        }
+      ]
+    },
+    {
+      "sid": "s000058",
+      "globalOffset": 2269,
+      "charCount": 48,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "そうして体を出来るだけ、"
+        },
+        {
+          "type": "ruby",
+          "base": "平",
+          "ruby": "たいら"
+        },
+        {
+          "type": "text",
+          "value": "にしながら、頸を出来るだけ、前へ出して、恐る恐る、楼の内を"
+        },
+        {
+          "type": "ruby",
+          "base": "覗",
+          "ruby": "のぞ"
+        },
+        {
+          "type": "text",
+          "value": "いて見た。"
+        }
+      ]
+    },
+    {
+      "sid": "s000059",
+      "globalOffset": 2317,
+      "charCount": 69,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "見ると、楼の内には、噂に聞いた通り、幾つかの"
+        },
+        {
+          "type": "ruby",
+          "base": "死骸",
+          "ruby": "しがい"
+        },
+        {
+          "type": "text",
+          "value": "が、無造作に棄ててあるが、火の光の及ぶ範囲が、思ったより狭いので、数は幾つともわからない。"
+        }
+      ]
+    },
+    {
+      "sid": "s000060",
+      "globalOffset": 2386,
+      "charCount": 46,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "ただ、おぼろげながら、知れるのは、その中に裸の死骸と、着物を着た死骸とがあるという事である。"
+        }
+      ]
+    },
+    {
+      "sid": "s000061",
+      "globalOffset": 2432,
+      "charCount": 20,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "勿論、中には女も男もまじっているらしい。"
+        }
+      ]
+    },
+    {
+      "sid": "s000062",
+      "globalOffset": 2452,
+      "charCount": 89,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "そうして、その死骸は皆、それが、かつて、生きていた人間だと云う事実さえ疑われるほど、土を"
+        },
+        {
+          "type": "ruby",
+          "base": "捏",
+          "ruby": "こ"
+        },
+        {
+          "type": "text",
+          "value": "ねて造った人形のように、口を"
+        },
+        {
+          "type": "ruby",
+          "base": "開",
+          "ruby": "あ"
+        },
+        {
+          "type": "text",
+          "value": "いたり手を延ばしたりして、ごろごろ床の上にころがっていた。"
+        }
+      ]
+    },
+    {
+      "sid": "s000063",
+      "globalOffset": 2541,
+      "charCount": 70,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "しかも、肩とか胸とかの高くなっている部分に、ぼんやりした火の光をうけて、低くなっている部分の影を一層暗くしながら、永久に"
+        },
+        {
+          "type": "ruby",
+          "base": "唖",
+          "ruby": "おし"
+        },
+        {
+          "type": "text",
+          "value": "の如く黙っていた。"
+        }
+      ]
+    },
+    {
+      "sid": "s000064",
+      "globalOffset": 2611,
+      "charCount": 28,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "ruby",
+          "base": "下人",
+          "ruby": "げにん"
+        },
+        {
+          "type": "text",
+          "value": "は、それらの死骸の"
+        },
+        {
+          "type": "ruby",
+          "base": "腐爛",
+          "ruby": "ふらん"
+        },
+        {
+          "type": "text",
+          "value": "した臭気に思わず、鼻を"
+        },
+        {
+          "type": "ruby",
+          "base": "掩",
+          "ruby": "おお"
+        },
+        {
+          "type": "text",
+          "value": "った。"
+        }
+      ]
+    },
+    {
+      "sid": "s000065",
+      "globalOffset": 2639,
+      "charCount": 30,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "しかし、その手は、次の瞬間には、もう鼻を掩う事を忘れていた。"
+        }
+      ]
+    },
+    {
+      "sid": "s000066",
+      "globalOffset": 2669,
+      "charCount": 35,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "ある強い感情が、ほとんどことごとくこの男の嗅覚を奪ってしまったからだ。"
+        }
+      ]
+    },
+    {
+      "sid": "s000067",
+      "globalOffset": 2704,
+      "charCount": 32,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "下人の眼は、その時、はじめてその死骸の中に"
+        },
+        {
+          "type": "ruby",
+          "base": "蹲",
+          "ruby": "うずくま"
+        },
+        {
+          "type": "text",
+          "value": "っている人間を見た。"
+        }
+      ]
+    },
+    {
+      "sid": "s000068",
+      "globalOffset": 2736,
+      "charCount": 35,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "ruby",
+          "base": "檜皮色",
+          "ruby": "ひわだいろ"
+        },
+        {
+          "type": "text",
+          "value": "の着物を着た、背の低い、"
+        },
+        {
+          "type": "ruby",
+          "base": "痩",
+          "ruby": "や"
+        },
+        {
+          "type": "text",
+          "value": "せた、"
+        },
+        {
+          "type": "ruby",
+          "base": "白髪頭",
+          "ruby": "しらがあたま"
+        },
+        {
+          "type": "text",
+          "value": "の、猿のような老婆である。"
+        }
+      ]
+    },
+    {
+      "sid": "s000069",
+      "globalOffset": 2771,
+      "charCount": 48,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "その老婆は、右の手に火をともした松の"
+        },
+        {
+          "type": "ruby",
+          "base": "木片",
+          "ruby": "きぎれ"
+        },
+        {
+          "type": "text",
+          "value": "を持って、その死骸の一つの顔を覗きこむように眺めていた。"
+        }
+      ]
+    },
+    {
+      "sid": "s000070",
+      "globalOffset": 2819,
+      "charCount": 23,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "髪の毛の長い所を見ると、多分女の死骸であろう。"
+        }
+      ]
+    },
+    {
+      "sid": "s000071",
+      "globalOffset": 2842,
+      "charCount": 41,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "下人は、六分の恐怖と四分の好奇心とに動かされて、"
+        },
+        {
+          "type": "ruby",
+          "base": "暫時",
+          "ruby": "ざんじ"
+        },
+        {
+          "type": "text",
+          "value": "は"
+        },
+        {
+          "type": "ruby",
+          "base": "呼吸",
+          "ruby": "いき"
+        },
+        {
+          "type": "text",
+          "value": "をするのさえ忘れていた。"
+        }
+      ]
+    },
+    {
+      "sid": "s000072",
+      "globalOffset": 2883,
+      "charCount": 33,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "旧記の記者の語を借りれば、"
+        },
+        {
+          "type": "text",
+          "value": "「"
+        },
+        {
+          "type": "quote",
+          "value": [
+            {
+              "type": "ruby",
+              "base": "頭身",
+              "ruby": "とうしん"
+            },
+            {
+              "type": "text",
+              "value": "の毛も太る"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "value": "」"
+        },
+        {
+          "type": "text",
+          "value": "ように感じたのである。"
+        }
+      ]
+    },
+    {
+      "sid": "s000073",
+      "globalOffset": 2916,
+      "charCount": 86,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "すると老婆は、松の木片を、床板の間に挿して、それから、今まで眺めていた死骸の首に両手をかけると、丁度、猿の親が猿の子の"
+        },
+        {
+          "type": "ruby",
+          "base": "虱",
+          "ruby": "しらみ"
+        },
+        {
+          "type": "text",
+          "value": "をとるように、その長い髪の毛を一本ずつ抜きはじめた。"
+        }
+      ]
+    },
+    {
+      "sid": "s000074",
+      "globalOffset": 3002,
+      "charCount": 14,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "髪は手に従って抜けるらしい。"
+        }
+      ]
+    },
+    {
+      "sid": "s000075",
+      "globalOffset": 3016,
+      "charCount": 42,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "その髪の毛が、一本ずつ抜けるのに従って、下人の心からは、恐怖が少しずつ消えて行った。"
+        }
+      ]
+    },
+    {
+      "sid": "s000076",
+      "globalOffset": 3058,
+      "charCount": 38,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "そうして、それと同時に、この老婆に対するはげしい憎悪が、少しずつ動いて来た。"
+        }
+      ]
+    },
+    {
+      "sid": "s000077",
+      "globalOffset": 3096,
+      "charCount": 31,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "――いや、この老婆に対すると云っては、"
+        },
+        {
+          "type": "ruby",
+          "base": "語弊",
+          "ruby": "ごへい"
+        },
+        {
+          "type": "text",
+          "value": "があるかも知れない。"
+        }
+      ]
+    },
+    {
+      "sid": "s000078",
+      "globalOffset": 3127,
+      "charCount": 34,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "むしろ、あらゆる悪に対する反感が、一分毎に強さを増して来たのである。"
+        }
+      ]
+    },
+    {
+      "sid": "s000079",
+      "globalOffset": 3161,
+      "charCount": 85,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "この時、誰かがこの下人に、さっき門の下でこの男が考えていた、"
+        },
+        {
+          "type": "ruby",
+          "base": "饑死",
+          "ruby": "うえじに"
+        },
+        {
+          "type": "text",
+          "value": "をするか"
+        },
+        {
+          "type": "ruby",
+          "base": "盗人",
+          "ruby": "ぬすびと"
+        },
+        {
+          "type": "text",
+          "value": "になるかと云う問題を、改めて持出したら、恐らく下人は、何の未練もなく、饑死を選んだ事であろう。"
+        }
+      ]
+    },
+    {
+      "sid": "s000080",
+      "globalOffset": 3246,
+      "charCount": 51,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "それほど、この男の悪を憎む心は、老婆の床に挿した松の"
+        },
+        {
+          "type": "ruby",
+          "base": "木片",
+          "ruby": "きぎれ"
+        },
+        {
+          "type": "text",
+          "value": "のように、勢いよく燃え上り出していたのである。"
+        }
+      ]
+    },
+    {
+      "sid": "s000081",
+      "globalOffset": 3297,
+      "charCount": 31,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "下人には、勿論、何故老婆が死人の髪の毛を抜くかわからなかった。"
+        }
+      ]
+    },
+    {
+      "sid": "s000082",
+      "globalOffset": 3328,
+      "charCount": 34,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "従って、合理的には、それを善悪のいずれに片づけてよいか知らなかった。"
+        }
+      ]
+    },
+    {
+      "sid": "s000083",
+      "globalOffset": 3362,
+      "charCount": 62,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "しかし下人にとっては、この雨の夜に、この羅生門の上で、死人の髪の毛を抜くと云う事が、それだけで既に許すべからざる悪であった。"
+        }
+      ]
+    },
+    {
+      "sid": "s000084",
+      "globalOffset": 3424,
+      "charCount": 43,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "勿論、下人は、さっきまで自分が、盗人になる気でいた事なぞは、とうに忘れていたのである。"
+        }
+      ]
+    },
+    {
+      "sid": "s000085",
+      "globalOffset": 3467,
+      "charCount": 34,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "そこで、下人は、両足に力を入れて、いきなり、梯子から上へ飛び上った。"
+        }
+      ]
+    },
+    {
+      "sid": "s000086",
+      "globalOffset": 3501,
+      "charCount": 32,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "そうして"
+        },
+        {
+          "type": "ruby",
+          "base": "聖柄",
+          "ruby": "ひじりづか"
+        },
+        {
+          "type": "text",
+          "value": "の太刀に手をかけながら、大股に老婆の前へ歩みよった。"
+        }
+      ]
+    },
+    {
+      "sid": "s000087",
+      "globalOffset": 3533,
+      "charCount": 16,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "老婆が驚いたのは云うまでもない。"
+        }
+      ]
+    },
+    {
+      "sid": "s000088",
+      "globalOffset": 3549,
+      "charCount": 34,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "老婆は、一目下人を見ると、まるで"
+        },
+        {
+          "type": "ruby",
+          "base": "弩",
+          "ruby": "いしゆみ"
+        },
+        {
+          "type": "text",
+          "value": "にでも"
+        },
+        {
+          "type": "ruby",
+          "base": "弾",
+          "ruby": "はじ"
+        },
+        {
+          "type": "text",
+          "value": "かれたように、飛び上った。"
+        }
+      ]
+    },
+    {
+      "sid": "s000089",
+      "globalOffset": 3583,
+      "charCount": 12,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "「"
+        },
+        {
+          "type": "quote",
+          "value": [
+            {
+              "type": "text",
+              "value": "おのれ、どこへ行く。"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "value": "」"
+        }
+      ]
+    },
+    {
+      "sid": "s000090",
+      "globalOffset": 3595,
+      "charCount": 45,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "下人は、老婆が死骸につまずきながら、慌てふためいて逃げようとする行手を"
+        },
+        {
+          "type": "ruby",
+          "base": "塞",
+          "ruby": "ふさ"
+        },
+        {
+          "type": "text",
+          "value": "いで、こう"
+        },
+        {
+          "type": "ruby",
+          "base": "罵",
+          "ruby": "ののし"
+        },
+        {
+          "type": "text",
+          "value": "った。"
+        }
+      ]
+    },
+    {
+      "sid": "s000091",
+      "globalOffset": 3640,
+      "charCount": 23,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "老婆は、それでも下人をつきのけて行こうとする。"
+        }
+      ]
+    },
+    {
+      "sid": "s000092",
+      "globalOffset": 3663,
+      "charCount": 24,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "下人はまた、それを行かすまいとして、押しもどす。"
+        }
+      ]
+    },
+    {
+      "sid": "s000093",
+      "globalOffset": 3687,
+      "charCount": 27,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "二人は死骸の中で、しばらく、無言のまま、つかみ合った。"
+        }
+      ]
+    },
+    {
+      "sid": "s000094",
+      "globalOffset": 3714,
+      "charCount": 19,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "しかし勝敗は、はじめからわかっている。"
+        }
+      ]
+    },
+    {
+      "sid": "s000095",
+      "globalOffset": 3733,
+      "charCount": 32,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "下人はとうとう、老婆の腕をつかんで、無理にそこへ《ね》じ倒した。"
+        }
+      ]
+    },
+    {
+      "sid": "s000096",
+      "globalOffset": 3765,
+      "charCount": 23,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "丁度、"
+        },
+        {
+          "type": "ruby",
+          "base": "鶏",
+          "ruby": "にわとり"
+        },
+        {
+          "type": "text",
+          "value": "の脚のような、骨と皮ばかりの腕である。"
+        }
+      ]
+    },
+    {
+      "sid": "s000097",
+      "globalOffset": 3788,
+      "charCount": 8,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "「"
+        },
+        {
+          "type": "quote",
+          "value": [
+            {
+              "type": "text",
+              "value": "何をしていた。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sid": "s000098",
+      "globalOffset": 3796,
+      "charCount": 3,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "quote",
+          "value": [
+            {
+              "type": "text",
+              "value": "云え。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sid": "s000099",
+      "globalOffset": 3799,
+      "charCount": 12,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "quote",
+          "value": [
+            {
+              "type": "text",
+              "value": "云わぬと、これだぞよ。"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "value": "」"
+        }
+      ]
+    },
+    {
+      "sid": "s000100",
+      "globalOffset": 3811,
+      "charCount": 45,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "下人は、老婆をつき放すと、いきなり、太刀の"
+        },
+        {
+          "type": "ruby",
+          "base": "鞘",
+          "ruby": "さや"
+        },
+        {
+          "type": "text",
+          "value": "を払って、白い"
+        },
+        {
+          "type": "ruby",
+          "base": "鋼",
+          "ruby": "はがね"
+        },
+        {
+          "type": "text",
+          "value": "の色をその眼の前へつきつけた。"
+        }
+      ]
+    },
+    {
+      "sid": "s000101",
+      "globalOffset": 3856,
+      "charCount": 14,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "けれども、老婆は黙っている。"
+        }
+      ]
+    },
+    {
+      "sid": "s000102",
+      "globalOffset": 3870,
+      "charCount": 65,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "両手をわなわなふるわせて、肩で息を切りながら、眼を、"
+        },
+        {
+          "type": "ruby",
+          "base": "眼球",
+          "ruby": "めだま"
+        },
+        {
+          "type": "text",
+          "value": "が《まぶた》の外へ出そうになるほど、見開いて、唖のように"
+        },
+        {
+          "type": "ruby",
+          "base": "執拗",
+          "ruby": "しゅうね"
+        },
+        {
+          "type": "text",
+          "value": "く黙っている。"
+        }
+      ]
+    },
+    {
+      "sid": "s000103",
+      "globalOffset": 3935,
+      "charCount": 51,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "これを見ると、下人は始めて明白にこの老婆の生死が、全然、自分の意志に支配されていると云う事を意識した。"
+        }
+      ]
+    },
+    {
+      "sid": "s000104",
+      "globalOffset": 3986,
+      "charCount": 43,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "そうしてこの意識は、今までけわしく燃えていた憎悪の心を、いつの間にか冷ましてしまった。"
+        }
+      ]
+    },
+    {
+      "sid": "s000105",
+      "globalOffset": 4029,
+      "charCount": 52,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "ruby",
+          "base": "後",
+          "ruby": "あと"
+        },
+        {
+          "type": "text",
+          "value": "に残ったのは、ただ、ある仕事をして、それが円満に成就した時の、安らかな得意と満足とがあるばかりである。"
+        }
+      ]
+    },
+    {
+      "sid": "s000106",
+      "globalOffset": 4081,
+      "charCount": 32,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "そこで、下人は、老婆を見下しながら、少し声を柔らげてこう云った。"
+        }
+      ]
+    },
+    {
+      "sid": "s000107",
+      "globalOffset": 4113,
+      "charCount": 19,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "「"
+        },
+        {
+          "type": "quote",
+          "value": [
+            {
+              "type": "ruby",
+              "base": "己",
+              "ruby": "おれ"
+            },
+            {
+              "type": "text",
+              "value": "は"
+            },
+            {
+              "type": "ruby",
+              "base": "検非違使",
+              "ruby": "けびいし"
+            },
+            {
+              "type": "text",
+              "value": "の庁の役人などではない。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sid": "s000108",
+      "globalOffset": 4132,
+      "charCount": 20,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "quote",
+          "value": [
+            {
+              "type": "text",
+              "value": "今し方この門の下を通りかかった旅の者だ。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sid": "s000109",
+      "globalOffset": 4152,
+      "charCount": 28,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "quote",
+          "value": [
+            {
+              "type": "text",
+              "value": "だからお前に"
+            },
+            {
+              "type": "ruby",
+              "base": "縄",
+              "ruby": "なわ"
+            },
+            {
+              "type": "text",
+              "value": "をかけて、どうしようと云うような事はない。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sid": "s000110",
+      "globalOffset": 4180,
+      "charCount": 41,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "quote",
+          "value": [
+            {
+              "type": "text",
+              "value": "ただ、今時分この門の上で、何をして居たのだか、それを己に話しさえすればいいのだ。"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "value": "」"
+        }
+      ]
+    },
+    {
+      "sid": "s000111",
+      "globalOffset": 4221,
+      "charCount": 40,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "すると、老婆は、見開いていた眼を、一層大きくして、じっとその下人の顔を見守った。"
+        }
+      ]
+    },
+    {
+      "sid": "s000112",
+      "globalOffset": 4261,
+      "charCount": 31,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "《まぶた》の赤くなった、肉食鳥のような、鋭い眼で見たのである。"
+        }
+      ]
+    },
+    {
+      "sid": "s000113",
+      "globalOffset": 4292,
+      "charCount": 42,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "それから、皺で、ほとんど、鼻と一つになった唇を、何か物でも噛んでいるように動かした。"
+        }
+      ]
+    },
+    {
+      "sid": "s000114",
+      "globalOffset": 4334,
+      "charCount": 22,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "細い喉で、尖った"
+        },
+        {
+          "type": "ruby",
+          "base": "喉仏",
+          "ruby": "のどぼとけ"
+        },
+        {
+          "type": "text",
+          "value": "の動いているのが見える。"
+        }
+      ]
+    },
+    {
+      "sid": "s000115",
+      "globalOffset": 4356,
+      "charCount": 37,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "その時、その喉から、"
+        },
+        {
+          "type": "ruby",
+          "base": "鴉",
+          "ruby": "からす"
+        },
+        {
+          "type": "text",
+          "value": "の啼くような声が、"
+        },
+        {
+          "type": "ruby",
+          "base": "喘",
+          "ruby": "あえ"
+        },
+        {
+          "type": "text",
+          "value": "ぎ喘ぎ、下人の耳へ伝わって来た。"
+        }
+      ]
+    },
+    {
+      "sid": "s000116",
+      "globalOffset": 4393,
+      "charCount": 33,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "「"
+        },
+        {
+          "type": "quote",
+          "value": [
+            {
+              "type": "text",
+              "value": "この髪を抜いてな、この髪を抜いてな、"
+            },
+            {
+              "type": "ruby",
+              "base": "鬘",
+              "ruby": "かずら"
+            },
+            {
+              "type": "text",
+              "value": "にしようと思うたのじゃ。"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "value": "」"
+        }
+      ]
+    },
+    {
+      "sid": "s000117",
+      "globalOffset": 4426,
+      "charCount": 22,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "下人は、老婆の答が存外、平凡なのに失望した。"
+        }
+      ]
+    },
+    {
+      "sid": "s000118",
+      "globalOffset": 4448,
+      "charCount": 44,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "そうして失望すると同時に、また前の憎悪が、冷やかな"
+        },
+        {
+          "type": "ruby",
+          "base": "侮蔑",
+          "ruby": "ぶべつ"
+        },
+        {
+          "type": "text",
+          "value": "と一しょに、心の中へはいって来た。"
+        }
+      ]
+    },
+    {
+      "sid": "s000119",
+      "globalOffset": 4492,
+      "charCount": 23,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "すると、その"
+        },
+        {
+          "type": "ruby",
+          "base": "気色",
+          "ruby": "けしき"
+        },
+        {
+          "type": "text",
+          "value": "が、先方へも通じたのであろう。"
+        }
+      ]
+    },
+    {
+      "sid": "s000120",
+      "globalOffset": 4515,
+      "charCount": 60,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "老婆は、片手に、まだ死骸の頭から奪った長い抜け毛を持ったなり、"
+        },
+        {
+          "type": "ruby",
+          "base": "蟇",
+          "ruby": "ひき"
+        },
+        {
+          "type": "text",
+          "value": "のつぶやくような声で、口ごもりながら、こんな事を云った。"
+        }
+      ]
+    },
+    {
+      "sid": "s000121",
+      "globalOffset": 4575,
+      "charCount": 32,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "「"
+        },
+        {
+          "type": "quote",
+          "value": [
+            {
+              "type": "text",
+              "value": "成程な、"
+            },
+            {
+              "type": "ruby",
+              "base": "死人",
+              "ruby": "しびと"
+            },
+            {
+              "type": "text",
+              "value": "の髪の毛を抜くと云う事は、何ぼう悪い事かも知れぬ。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sid": "s000122",
+      "globalOffset": 4607,
+      "charCount": 41,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "quote",
+          "value": [
+            {
+              "type": "text",
+              "value": "じゃが、ここにいる死人どもは、皆、そのくらいな事を、されてもいい人間ばかりだぞよ。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sid": "s000123",
+      "globalOffset": 4648,
+      "charCount": 60,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "quote",
+          "value": [
+            {
+              "type": "text",
+              "value": "現在、わしが今、髪を抜いた女などはな、蛇を"
+            },
+            {
+              "type": "ruby",
+              "base": "四寸",
+              "ruby": "しすん"
+            },
+            {
+              "type": "text",
+              "value": "ばかりずつに切って干したのを、"
+            },
+            {
+              "type": "ruby",
+              "base": "干魚",
+              "ruby": "ほしうお"
+            },
+            {
+              "type": "text",
+              "value": "だと云うて、"
+            },
+            {
+              "type": "ruby",
+              "base": "太刀帯",
+              "ruby": "たてわき"
+            },
+            {
+              "type": "text",
+              "value": "の陣へ売りに"
+            },
+            {
+              "type": "ruby",
+              "base": "往",
+              "ruby": "い"
+            },
+            {
+              "type": "text",
+              "value": "んだわ。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sid": "s000124",
+      "globalOffset": 4708,
+      "charCount": 30,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "quote",
+          "value": [
+            {
+              "type": "ruby",
+              "base": "疫病",
+              "ruby": "えやみ"
+            },
+            {
+              "type": "text",
+              "value": "にかかって死ななんだら、今でも売りに往んでいた事であろ。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sid": "s000125",
+      "globalOffset": 4738,
+      "charCount": 47,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "quote",
+          "value": [
+            {
+              "type": "text",
+              "value": "それもよ、この女の売る干魚は、味がよいと云うて、太刀帯どもが、欠かさず"
+            },
+            {
+              "type": "ruby",
+              "base": "菜料",
+              "ruby": "さいりよう"
+            },
+            {
+              "type": "text",
+              "value": "に買っていたそうな。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sid": "s000126",
+      "globalOffset": 4785,
+      "charCount": 22,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "quote",
+          "value": [
+            {
+              "type": "text",
+              "value": "わしは、この女のした事が悪いとは思うていぬ。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sid": "s000127",
+      "globalOffset": 4807,
+      "charCount": 26,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "quote",
+          "value": [
+            {
+              "type": "text",
+              "value": "せねば、饑死をするのじゃて、仕方がなくした事であろ。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sid": "s000128",
+      "globalOffset": 4833,
+      "charCount": 28,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "quote",
+          "value": [
+            {
+              "type": "text",
+              "value": "されば、今また、わしのしていた事も悪い事とは思わぬぞよ。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sid": "s000129",
+      "globalOffset": 4861,
+      "charCount": 35,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "quote",
+          "value": [
+            {
+              "type": "text",
+              "value": "これとてもやはりせねば、饑死をするじゃて、仕方がなくする事じゃわいの。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sid": "s000130",
+      "globalOffset": 4896,
+      "charCount": 48,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "quote",
+          "value": [
+            {
+              "type": "text",
+              "value": "じゃて、その仕方がない事を、よく知っていたこの女は、大方わしのする事も大目に見てくれるであろ。"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "value": "」"
+        }
+      ]
+    },
+    {
+      "sid": "s000131",
+      "globalOffset": 4944,
+      "charCount": 18,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "老婆は、大体こんな意味の事を云った。"
+        }
+      ]
+    },
+    {
+      "sid": "s000132",
+      "globalOffset": 4962,
+      "charCount": 48,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "下人は、太刀を"
+        },
+        {
+          "type": "ruby",
+          "base": "鞘",
+          "ruby": "さや"
+        },
+        {
+          "type": "text",
+          "value": "におさめて、その太刀の"
+        },
+        {
+          "type": "ruby",
+          "base": "柄",
+          "ruby": "つか"
+        },
+        {
+          "type": "text",
+          "value": "を左の手でおさえながら、冷然として、この話を聞いていた。"
+        }
+      ]
+    },
+    {
+      "sid": "s000133",
+      "globalOffset": 5010,
+      "charCount": 41,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "勿論、右の手では、赤く頬に膿を持った大きな"
+        },
+        {
+          "type": "ruby",
+          "base": "面皰",
+          "ruby": "にきび"
+        },
+        {
+          "type": "text",
+          "value": "を気にしながら、聞いているのである。"
+        }
+      ]
+    },
+    {
+      "sid": "s000134",
+      "globalOffset": 5051,
+      "charCount": 34,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "しかし、これを聞いている中に、下人の心には、ある勇気が生まれて来た。"
+        }
+      ]
+    },
+    {
+      "sid": "s000135",
+      "globalOffset": 5085,
+      "charCount": 28,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "それは、さっき門の下で、この男には欠けていた勇気である。"
+        }
+      ]
+    },
+    {
+      "sid": "s000136",
+      "globalOffset": 5113,
+      "charCount": 56,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "そうして、またさっきこの門の上へ上って、この老婆を捕えた時の勇気とは、全然、反対な方向に動こうとする勇気である。"
+        }
+      ]
+    },
+    {
+      "sid": "s000137",
+      "globalOffset": 5169,
+      "charCount": 32,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "下人は、饑死をするか盗人になるかに、迷わなかったばかりではない。"
+        }
+      ]
+    },
+    {
+      "sid": "s000138",
+      "globalOffset": 5201,
+      "charCount": 59,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "その時のこの男の心もちから云えば、饑死などと云う事は、ほとんど、考える事さえ出来ないほど、意識の外に追い出されていた。"
+        }
+      ]
+    },
+    {
+      "sid": "s000139",
+      "globalOffset": 5260,
+      "charCount": 10,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "「"
+        },
+        {
+          "type": "quote",
+          "value": [
+            {
+              "type": "text",
+              "value": "きっと、そうか。"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "value": "」"
+        }
+      ]
+    },
+    {
+      "sid": "s000140",
+      "globalOffset": 5270,
+      "charCount": 25,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "老婆の話が"
+        },
+        {
+          "type": "ruby",
+          "base": "完",
+          "ruby": "おわ"
+        },
+        {
+          "type": "text",
+          "value": "ると、下人は"
+        },
+        {
+          "type": "ruby",
+          "base": "嘲",
+          "ruby": "あざけ"
+        },
+        {
+          "type": "text",
+          "value": "るような声で念を押した。"
+        }
+      ]
+    },
+    {
+      "sid": "s000141",
+      "globalOffset": 5295,
+      "charCount": 54,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "そうして、一足前へ出ると、不意に右の手を"
+        },
+        {
+          "type": "ruby",
+          "base": "面皰",
+          "ruby": "にきび"
+        },
+        {
+          "type": "text",
+          "value": "から離して、老婆の"
+        },
+        {
+          "type": "ruby",
+          "base": "襟上",
+          "ruby": "えりがみ"
+        },
+        {
+          "type": "text",
+          "value": "をつかみながら、噛みつくようにこう云った。"
+        }
+      ]
+    },
+    {
+      "sid": "s000142",
+      "globalOffset": 5349,
+      "charCount": 19,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "「"
+        },
+        {
+          "type": "quote",
+          "value": [
+            {
+              "type": "text",
+              "value": "では、"
+            },
+            {
+              "type": "ruby",
+              "base": "己",
+              "ruby": "おれ"
+            },
+            {
+              "type": "text",
+              "value": "が"
+            },
+            {
+              "type": "ruby",
+              "base": "引剥",
+              "ruby": "ひはぎ"
+            },
+            {
+              "type": "text",
+              "value": "をしようと恨むまいな。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sid": "s000143",
+      "globalOffset": 5368,
+      "charCount": 21,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "quote",
+          "value": [
+            {
+              "type": "text",
+              "value": "己もそうしなければ、饑死をする体なのだ。"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "value": "」"
+        }
+      ]
+    },
+    {
+      "sid": "s000144",
+      "globalOffset": 5389,
+      "charCount": 21,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "下人は、すばやく、老婆の着物を剥ぎとった。"
+        }
+      ]
+    },
+    {
+      "sid": "s000145",
+      "globalOffset": 5410,
+      "charCount": 33,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "それから、足にしがみつこうとする老婆を、手荒く死骸の上へ蹴倒した。"
+        }
+      ]
+    },
+    {
+      "sid": "s000146",
+      "globalOffset": 5443,
+      "charCount": 23,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "梯子の口までは、僅に五歩を数えるばかりである。"
+        }
+      ]
+    },
+    {
+      "sid": "s000147",
+      "globalOffset": 5466,
+      "charCount": 45,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "下人は、剥ぎとった"
+        },
+        {
+          "type": "ruby",
+          "base": "檜皮色",
+          "ruby": "ひわだいろ"
+        },
+        {
+          "type": "text",
+          "value": "の着物をわきにかかえて、またたく間に急な梯子を夜の底へかけ下りた。"
+        }
+      ]
+    },
+    {
+      "sid": "s000148",
+      "globalOffset": 5511,
+      "charCount": 53,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "しばらく、死んだように倒れていた老婆が、死骸の中から、その裸の体を起したのは、それから間もなくの事である。"
+        }
+      ]
+    },
+    {
+      "sid": "s000149",
+      "globalOffset": 5564,
+      "charCount": 55,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "老婆はつぶやくような、うめくような声を立てながら、まだ燃えている火の光をたよりに、梯子の口まで、這って行った。"
+        }
+      ]
+    },
+    {
+      "sid": "s000150",
+      "globalOffset": 5619,
+      "charCount": 30,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "そうして、そこから、短い"
+        },
+        {
+          "type": "ruby",
+          "base": "白髪",
+          "ruby": "しらが"
+        },
+        {
+          "type": "text",
+          "value": "を"
+        },
+        {
+          "type": "ruby",
+          "base": "倒",
+          "ruby": "さかさま"
+        },
+        {
+          "type": "text",
+          "value": "にして、門の下を覗きこんだ。"
+        }
+      ]
+    },
+    {
+      "sid": "s000151",
+      "globalOffset": 5649,
+      "charCount": 23,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "外には、ただ、"
+        },
+        {
+          "type": "ruby",
+          "base": "黒洞々",
+          "ruby": "こくとうとう"
+        },
+        {
+          "type": "text",
+          "value": "たる夜があるばかりである。"
+        }
+      ]
+    },
+    {
+      "sid": "s000152",
+      "globalOffset": 5672,
+      "charCount": 14,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "下人の"
+        },
+        {
+          "type": "ruby",
+          "base": "行方",
+          "ruby": "ゆくえ"
+        },
+        {
+          "type": "text",
+          "value": "は、誰も知らない。"
+        }
+      ]
+    },
+    {
+      "sid": "s000153",
+      "globalOffset": 5686,
+      "charCount": 8,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "（大正四年九月）"
+        }
+      ]
+    }
+  ]
+}

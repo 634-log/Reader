@@ -1,0 +1,4393 @@
+{
+  "version": "rb-content-1.1",
+  "generator": "converter 4.5",
+  "contentHash": "804bd55e2204fdba3c6fc8ae89c394e0",
+  "id": "sangetsuki",
+  "title": "山月記",
+  "author": "中島敦",
+  "charCount": 5765,
+  "readingTimeMinutes": 15,
+  "headings": [],
+  "source": {
+    "credits": "底本：「李陵・山月記」新潮文庫、新潮社\n　　　1969（昭和44）年9月20日発行\n入力：平松大樹\n校正：林めぐみ\n1998年11月12日公開\n2010年11月2日修正\n青空文庫作成ファイル：\nこのファイルは、インターネットの図書館、青空文庫（http://www.aozora.gr.jp/）で作られました。入力、校正、制作にあたったのは、ボランティアの皆さんです。"
+  },
+  "sentences": [
+    {
+      "sid": "s000001",
+      "globalOffset": 0,
+      "charCount": 77,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "ruby",
+          "base": "隴西",
+          "ruby": "ろうさい"
+        },
+        {
+          "type": "text",
+          "value": "の"
+        },
+        {
+          "type": "ruby",
+          "base": "李徴",
+          "ruby": "りちょう"
+        },
+        {
+          "type": "text",
+          "value": "は博学"
+        },
+        {
+          "type": "ruby",
+          "base": "才穎",
+          "ruby": "さいえい"
+        },
+        {
+          "type": "text",
+          "value": "、天宝の末年、若くして名を"
+        },
+        {
+          "type": "ruby",
+          "base": "虎榜",
+          "ruby": "こぼう"
+        },
+        {
+          "type": "text",
+          "value": "に連ね、ついで"
+        },
+        {
+          "type": "ruby",
+          "base": "江南尉",
+          "ruby": "こうなんい"
+        },
+        {
+          "type": "text",
+          "value": "に補せられたが、性、"
+        },
+        {
+          "type": "ruby",
+          "base": "狷介",
+          "ruby": "けんかい"
+        },
+        {
+          "type": "text",
+          "value": "、"
+        },
+        {
+          "type": "ruby",
+          "base": "自",
+          "ruby": "みずか"
+        },
+        {
+          "type": "text",
+          "value": "ら"
+        },
+        {
+          "type": "ruby",
+          "base": "恃",
+          "ruby": "たの"
+        },
+        {
+          "type": "text",
+          "value": "むところ"
+        },
+        {
+          "type": "ruby",
+          "base": "頗",
+          "ruby": "すこぶ"
+        },
+        {
+          "type": "text",
+          "value": "る厚く、"
+        },
+        {
+          "type": "ruby",
+          "base": "賤吏",
+          "ruby": "せんり"
+        },
+        {
+          "type": "text",
+          "value": "に甘んずるを"
+        },
+        {
+          "type": "ruby",
+          "base": "潔",
+          "ruby": "いさぎよ"
+        },
+        {
+          "type": "text",
+          "value": "しとしなかった。"
+        }
+      ]
+    },
+    {
+      "sid": "s000002",
+      "globalOffset": 77,
+      "charCount": 43,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "いくばくもなく官を退いた後は、"
+        },
+        {
+          "type": "ruby",
+          "base": "故山",
+          "ruby": "こざん"
+        },
+        {
+          "type": "text",
+          "value": "、"
+        },
+        {
+          "type": "ruby",
+          "base": "略",
+          "ruby": "かくりゃく"
+        },
+        {
+          "type": "text",
+          "value": "に"
+        },
+        {
+          "type": "ruby",
+          "base": "帰臥",
+          "ruby": "きが"
+        },
+        {
+          "type": "text",
+          "value": "し、人と"
+        },
+        {
+          "type": "ruby",
+          "base": "交",
+          "ruby": "まじわり"
+        },
+        {
+          "type": "text",
+          "value": "を絶って、ひたすら詩作に"
+        },
+        {
+          "type": "ruby",
+          "base": "耽",
+          "ruby": "ふけ"
+        },
+        {
+          "type": "text",
+          "value": "った。"
+        }
+      ]
+    },
+    {
+      "sid": "s000003",
+      "globalOffset": 120,
+      "charCount": 49,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "下吏となって長く"
+        },
+        {
+          "type": "ruby",
+          "base": "膝",
+          "ruby": "ひざ"
+        },
+        {
+          "type": "text",
+          "value": "を俗悪な大官の前に屈するよりは、詩家としての名を死後百年に"
+        },
+        {
+          "type": "ruby",
+          "base": "遺",
+          "ruby": "のこ"
+        },
+        {
+          "type": "text",
+          "value": "そうとしたのである。"
+        }
+      ]
+    },
+    {
+      "sid": "s000004",
+      "globalOffset": 169,
+      "charCount": 28,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "しかし、文名は容易に揚らず、生活は日を"
+        },
+        {
+          "type": "ruby",
+          "base": "逐",
+          "ruby": "お"
+        },
+        {
+          "type": "text",
+          "value": "うて苦しくなる。"
+        }
+      ]
+    },
+    {
+      "sid": "s000005",
+      "globalOffset": 197,
+      "charCount": 15,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "李徴は"
+        },
+        {
+          "type": "ruby",
+          "base": "漸",
+          "ruby": "ようや"
+        },
+        {
+          "type": "text",
+          "value": "く"
+        },
+        {
+          "type": "ruby",
+          "base": "焦躁",
+          "ruby": "しょうそう"
+        },
+        {
+          "type": "text",
+          "value": "に駆られて来た。"
+        }
+      ]
+    },
+    {
+      "sid": "s000006",
+      "globalOffset": 212,
+      "charCount": 68,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "この"
+        },
+        {
+          "type": "ruby",
+          "base": "頃",
+          "ruby": "ころ"
+        },
+        {
+          "type": "text",
+          "value": "からその"
+        },
+        {
+          "type": "ruby",
+          "base": "容貌",
+          "ruby": "ようぼう"
+        },
+        {
+          "type": "text",
+          "value": "も"
+        },
+        {
+          "type": "ruby",
+          "base": "峭刻",
+          "ruby": "しょうこく"
+        },
+        {
+          "type": "text",
+          "value": "となり、肉落ち骨"
+        },
+        {
+          "type": "ruby",
+          "base": "秀",
+          "ruby": "ひい"
+        },
+        {
+          "type": "text",
+          "value": "で、眼光のみ"
+        },
+        {
+          "type": "ruby",
+          "base": "徒",
+          "ruby": "いたず"
+        },
+        {
+          "type": "text",
+          "value": "らに"
+        },
+        {
+          "type": "ruby",
+          "base": "炯々",
+          "ruby": "けいけい"
+        },
+        {
+          "type": "text",
+          "value": "として、"
+        },
+        {
+          "type": "ruby",
+          "base": "曾",
+          "ruby": "かつ"
+        },
+        {
+          "type": "text",
+          "value": "て進士に"
+        },
+        {
+          "type": "ruby",
+          "base": "登第",
+          "ruby": "とうだい"
+        },
+        {
+          "type": "text",
+          "value": "した頃の"
+        },
+        {
+          "type": "ruby",
+          "base": "豊頬",
+          "ruby": "ほうきょう"
+        },
+        {
+          "type": "text",
+          "value": "の美少年の"
+        },
+        {
+          "type": "ruby",
+          "base": "俤",
+          "ruby": "おもかげ"
+        },
+        {
+          "type": "text",
+          "value": "は、"
+        },
+        {
+          "type": "ruby",
+          "base": "何処",
+          "ruby": "どこ"
+        },
+        {
+          "type": "text",
+          "value": "に求めようもない。"
+        }
+      ]
+    },
+    {
+      "sid": "s000007",
+      "globalOffset": 280,
+      "charCount": 54,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "数年の後、貧窮に"
+        },
+        {
+          "type": "ruby",
+          "base": "堪",
+          "ruby": "た"
+        },
+        {
+          "type": "text",
+          "value": "えず、妻子の衣食のために"
+        },
+        {
+          "type": "ruby",
+          "base": "遂",
+          "ruby": "つい"
+        },
+        {
+          "type": "text",
+          "value": "に節を屈して、再び東へ赴き、一地方官吏の職を奉ずることになった。"
+        }
+      ]
+    },
+    {
+      "sid": "s000008",
+      "globalOffset": 334,
+      "charCount": 25,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "一方、これは、"
+        },
+        {
+          "type": "ruby",
+          "base": "己",
+          "ruby": "おのれ"
+        },
+        {
+          "type": "text",
+          "value": "の詩業に半ば絶望したためでもある。"
+        }
+      ]
+    },
+    {
+      "sid": "s000009",
+      "globalOffset": 359,
+      "charCount": 83,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "曾ての同輩は既に"
+        },
+        {
+          "type": "ruby",
+          "base": "遥",
+          "ruby": "はる"
+        },
+        {
+          "type": "text",
+          "value": "か高位に進み、彼が昔、鈍物として"
+        },
+        {
+          "type": "ruby",
+          "base": "歯牙",
+          "ruby": "しが"
+        },
+        {
+          "type": "text",
+          "value": "にもかけなかったその連中の下命を拝さねばならぬことが、往年の"
+        },
+        {
+          "type": "ruby",
+          "base": "儁才",
+          "ruby": "しゅんさい"
+        },
+        {
+          "type": "text",
+          "value": "李徴の自尊心を"
+        },
+        {
+          "type": "ruby",
+          "base": "如何",
+          "ruby": "いか"
+        },
+        {
+          "type": "text",
+          "value": "に"
+        },
+        {
+          "type": "ruby",
+          "base": "傷",
+          "ruby": "きずつ"
+        },
+        {
+          "type": "text",
+          "value": "けたかは、想像に"
+        },
+        {
+          "type": "ruby",
+          "base": "難",
+          "ruby": "かた"
+        },
+        {
+          "type": "text",
+          "value": "くない。"
+        }
+      ]
+    },
+    {
+      "sid": "s000010",
+      "globalOffset": 442,
+      "charCount": 27,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "彼は"
+        },
+        {
+          "type": "ruby",
+          "base": "怏々",
+          "ruby": "おうおう"
+        },
+        {
+          "type": "text",
+          "value": "として楽しまず、"
+        },
+        {
+          "type": "ruby",
+          "base": "狂悖",
+          "ruby": "きょうはい"
+        },
+        {
+          "type": "text",
+          "value": "の性は"
+        },
+        {
+          "type": "ruby",
+          "base": "愈々",
+          "ruby": "いよいよ"
+        },
+        {
+          "type": "text",
+          "value": "抑え"
+        },
+        {
+          "type": "ruby",
+          "base": "難",
+          "ruby": "がた"
+        },
+        {
+          "type": "text",
+          "value": "くなった。"
+        }
+      ]
+    },
+    {
+      "sid": "s000011",
+      "globalOffset": 469,
+      "charCount": 31,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "一年の後、公用で旅に出、"
+        },
+        {
+          "type": "ruby",
+          "base": "汝水",
+          "ruby": "じょすい"
+        },
+        {
+          "type": "text",
+          "value": "のほとりに宿った時、遂に発狂した。"
+        }
+      ]
+    },
+    {
+      "sid": "s000012",
+      "globalOffset": 500,
+      "charCount": 56,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "ruby",
+          "base": "或",
+          "ruby": "ある"
+        },
+        {
+          "type": "text",
+          "value": "夜半、急に顔色を変えて寝床から起上ると、何か訳の分らぬことを叫びつつそのまま下にとび下りて、"
+        },
+        {
+          "type": "ruby",
+          "base": "闇",
+          "ruby": "やみ"
+        },
+        {
+          "type": "text",
+          "value": "の中へ"
+        },
+        {
+          "type": "ruby",
+          "base": "駈出",
+          "ruby": "かけだ"
+        },
+        {
+          "type": "text",
+          "value": "した。"
+        }
+      ]
+    },
+    {
+      "sid": "s000013",
+      "globalOffset": 556,
+      "charCount": 14,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "彼は二度と"
+        },
+        {
+          "type": "ruby",
+          "base": "戻",
+          "ruby": "もど"
+        },
+        {
+          "type": "text",
+          "value": "って来なかった。"
+        }
+      ]
+    },
+    {
+      "sid": "s000014",
+      "globalOffset": 570,
+      "charCount": 21,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "附近の山野を捜索しても、何の手掛りもない。"
+        }
+      ]
+    },
+    {
+      "sid": "s000015",
+      "globalOffset": 591,
+      "charCount": 25,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "その後李徴がどうなったかを知る者は、"
+        },
+        {
+          "type": "ruby",
+          "base": "誰",
+          "ruby": "だれ"
+        },
+        {
+          "type": "text",
+          "value": "もなかった。"
+        }
+      ]
+    },
+    {
+      "sid": "s000016",
+      "globalOffset": 616,
+      "charCount": 40,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "翌年、"
+        },
+        {
+          "type": "ruby",
+          "base": "監察御史",
+          "ruby": "かんさつぎょし"
+        },
+        {
+          "type": "text",
+          "value": "、"
+        },
+        {
+          "type": "ruby",
+          "base": "陳郡",
+          "ruby": "ちんぐん"
+        },
+        {
+          "type": "text",
+          "value": "の"
+        },
+        {
+          "type": "ruby",
+          "base": "袁",
+          "ruby": "えんさん"
+        },
+        {
+          "type": "text",
+          "value": "という者、勅命を奉じて"
+        },
+        {
+          "type": "ruby",
+          "base": "嶺南",
+          "ruby": "れいなん"
+        },
+        {
+          "type": "text",
+          "value": "に"
+        },
+        {
+          "type": "ruby",
+          "base": "使",
+          "ruby": "つかい"
+        },
+        {
+          "type": "text",
+          "value": "し、"
+        },
+        {
+          "type": "ruby",
+          "base": "途",
+          "ruby": "みち"
+        },
+        {
+          "type": "text",
+          "value": "に"
+        },
+        {
+          "type": "ruby",
+          "base": "商於",
+          "ruby": "しょうお"
+        },
+        {
+          "type": "text",
+          "value": "の地に宿った。"
+        }
+      ]
+    },
+    {
+      "sid": "s000017",
+      "globalOffset": 656,
+      "charCount": 62,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "次の朝"
+        },
+        {
+          "type": "ruby",
+          "base": "未",
+          "ruby": "ま"
+        },
+        {
+          "type": "text",
+          "value": "だ暗い"
+        },
+        {
+          "type": "ruby",
+          "base": "中",
+          "ruby": "うち"
+        },
+        {
+          "type": "text",
+          "value": "に出発しようとしたところ、駅吏が言うことに、これから先の道に"
+        },
+        {
+          "type": "ruby",
+          "base": "人喰虎",
+          "ruby": "ひとくいどら"
+        },
+        {
+          "type": "text",
+          "value": "が出る"
+        },
+        {
+          "type": "ruby",
+          "base": "故",
+          "ruby": "ゆえ"
+        },
+        {
+          "type": "text",
+          "value": "、旅人は白昼でなければ、通れない。"
+        }
+      ]
+    },
+    {
+      "sid": "s000018",
+      "globalOffset": 718,
+      "charCount": 28,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "今はまだ朝が早いから、今少し待たれたが"
+        },
+        {
+          "type": "ruby",
+          "base": "宜",
+          "ruby": "よろ"
+        },
+        {
+          "type": "text",
+          "value": "しいでしょうと。"
+        }
+      ]
+    },
+    {
+      "sid": "s000019",
+      "globalOffset": 746,
+      "charCount": 34,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "袁は、しかし、"
+        },
+        {
+          "type": "ruby",
+          "base": "供廻",
+          "ruby": "ともまわ"
+        },
+        {
+          "type": "text",
+          "value": "りの多勢なのを恃み、駅吏の言葉を"
+        },
+        {
+          "type": "ruby",
+          "base": "斥",
+          "ruby": "しりぞ"
+        },
+        {
+          "type": "text",
+          "value": "けて、出発した。"
+        }
+      ]
+    },
+    {
+      "sid": "s000020",
+      "globalOffset": 780,
+      "charCount": 42,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "残月の光をたよりに林中の草地を通って行った時、果して一匹の"
+        },
+        {
+          "type": "ruby",
+          "base": "猛虎",
+          "ruby": "もうこ"
+        },
+        {
+          "type": "text",
+          "value": "が"
+        },
+        {
+          "type": "ruby",
+          "base": "叢",
+          "ruby": "くさむら"
+        },
+        {
+          "type": "text",
+          "value": "の中から躍り出た。"
+        }
+      ]
+    },
+    {
+      "sid": "s000021",
+      "globalOffset": 822,
+      "charCount": 36,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "虎は、あわや袁に躍りかかるかと見えたが、"
+        },
+        {
+          "type": "ruby",
+          "base": "忽",
+          "ruby": "たちま"
+        },
+        {
+          "type": "text",
+          "value": "ち身を"
+        },
+        {
+          "type": "ruby",
+          "base": "飜",
+          "ruby": "ひるがえ"
+        },
+        {
+          "type": "text",
+          "value": "して、元の叢に隠れた。"
+        }
+      ]
+    },
+    {
+      "sid": "s000022",
+      "globalOffset": 858,
+      "charCount": 34,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "叢の中から人間の声で"
+        },
+        {
+          "type": "text",
+          "value": "「"
+        },
+        {
+          "type": "quote",
+          "value": [
+            {
+              "type": "text",
+              "value": "あぶないところだった"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "value": "」"
+        },
+        {
+          "type": "text",
+          "value": "と繰返し"
+        },
+        {
+          "type": "ruby",
+          "base": "呟",
+          "ruby": "つぶや"
+        },
+        {
+          "type": "text",
+          "value": "くのが聞えた。"
+        }
+      ]
+    },
+    {
+      "sid": "s000023",
+      "globalOffset": 892,
+      "charCount": 15,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "その声に袁は聞き"
+        },
+        {
+          "type": "ruby",
+          "base": "憶",
+          "ruby": "おぼ"
+        },
+        {
+          "type": "text",
+          "value": "えがあった。"
+        }
+      ]
+    },
+    {
+      "sid": "s000024",
+      "globalOffset": 907,
+      "charCount": 23,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "ruby",
+          "base": "驚懼",
+          "ruby": "きょうく"
+        },
+        {
+          "type": "text",
+          "value": "の中にも、彼は"
+        },
+        {
+          "type": "ruby",
+          "base": "咄嗟",
+          "ruby": "とっさ"
+        },
+        {
+          "type": "text",
+          "value": "に思いあたって、叫んだ。"
+        }
+      ]
+    },
+    {
+      "sid": "s000025",
+      "globalOffset": 930,
+      "charCount": 20,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "「"
+        },
+        {
+          "type": "quote",
+          "value": [
+            {
+              "type": "text",
+              "value": "その声は、我が友、李徴子ではないか？"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "value": "」"
+        }
+      ]
+    },
+    {
+      "sid": "s000026",
+      "globalOffset": 950,
+      "charCount": 42,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "袁は李徴と同年に進士の第に登り、友人の少かった李徴にとっては、最も親しい友であった。"
+        }
+      ]
+    },
+    {
+      "sid": "s000027",
+      "globalOffset": 992,
+      "charCount": 32,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "温和な袁の性格が、"
+        },
+        {
+          "type": "ruby",
+          "base": "峻峭",
+          "ruby": "しゅんしょう"
+        },
+        {
+          "type": "text",
+          "value": "な李徴の性情と衝突しなかったためであろう。"
+        }
+      ]
+    },
+    {
+      "sid": "s000028",
+      "globalOffset": 1024,
+      "charCount": 17,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "叢の中からは、"
+        },
+        {
+          "type": "ruby",
+          "base": "暫",
+          "ruby": "しばら"
+        },
+        {
+          "type": "text",
+          "value": "く返辞が無かった。"
+        }
+      ]
+    },
+    {
+      "sid": "s000029",
+      "globalOffset": 1041,
+      "charCount": 28,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "しのび泣きかと思われる"
+        },
+        {
+          "type": "ruby",
+          "base": "微",
+          "ruby": "かす"
+        },
+        {
+          "type": "text",
+          "value": "かな声が時々"
+        },
+        {
+          "type": "ruby",
+          "base": "洩",
+          "ruby": "も"
+        },
+        {
+          "type": "text",
+          "value": "れるばかりである。"
+        }
+      ]
+    },
+    {
+      "sid": "s000030",
+      "globalOffset": 1069,
+      "charCount": 14,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "ややあって、低い声が答えた。"
+        }
+      ]
+    },
+    {
+      "sid": "s000031",
+      "globalOffset": 1083,
+      "charCount": 19,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "「"
+        },
+        {
+          "type": "quote",
+          "value": [
+            {
+              "type": "text",
+              "value": "如何にも自分は隴西の李徴である"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "value": "」"
+        },
+        {
+          "type": "text",
+          "value": "と。"
+        }
+      ]
+    },
+    {
+      "sid": "s000032",
+      "globalOffset": 1102,
+      "charCount": 32,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "袁は恐怖を忘れ、馬から下りて叢に近づき、"
+        },
+        {
+          "type": "ruby",
+          "base": "懐",
+          "ruby": "なつ"
+        },
+        {
+          "type": "text",
+          "value": "かしげに"
+        },
+        {
+          "type": "ruby",
+          "base": "久闊",
+          "ruby": "きゅうかつ"
+        },
+        {
+          "type": "text",
+          "value": "を叙した。"
+        }
+      ]
+    },
+    {
+      "sid": "s000033",
+      "globalOffset": 1134,
+      "charCount": 21,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "そして、"
+        },
+        {
+          "type": "ruby",
+          "base": "何故",
+          "ruby": "なぜ"
+        },
+        {
+          "type": "text",
+          "value": "叢から出て来ないのかと問うた。"
+        }
+      ]
+    },
+    {
+      "sid": "s000034",
+      "globalOffset": 1155,
+      "charCount": 11,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "李徴の声が答えて言う。"
+        }
+      ]
+    },
+    {
+      "sid": "s000035",
+      "globalOffset": 1166,
+      "charCount": 16,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "自分は今や異類の身となっている。"
+        }
+      ]
+    },
+    {
+      "sid": "s000036",
+      "globalOffset": 1182,
+      "charCount": 29,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "どうして、おめおめと"
+        },
+        {
+          "type": "ruby",
+          "base": "故人",
+          "ruby": "とも"
+        },
+        {
+          "type": "text",
+          "value": "の前にあさましい姿をさらせようか。"
+        }
+      ]
+    },
+    {
+      "sid": "s000037",
+      "globalOffset": 1211,
+      "charCount": 38,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "かつ又、自分が姿を現せば、必ず君に"
+        },
+        {
+          "type": "ruby",
+          "base": "畏怖嫌厭",
+          "ruby": "いふけんえん"
+        },
+        {
+          "type": "text",
+          "value": "の情を起させるに決っているからだ。"
+        }
+      ]
+    },
+    {
+      "sid": "s000038",
+      "globalOffset": 1249,
+      "charCount": 37,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "しかし、今、図らずも故人に"
+        },
+        {
+          "type": "ruby",
+          "base": "遇",
+          "ruby": "あ"
+        },
+        {
+          "type": "text",
+          "value": "うことを得て、"
+        },
+        {
+          "type": "ruby",
+          "base": "愧赧",
+          "ruby": "きたん"
+        },
+        {
+          "type": "text",
+          "value": "の念をも忘れる程に懐かしい。"
+        }
+      ]
+    },
+    {
+      "sid": "s000039",
+      "globalOffset": 1286,
+      "charCount": 59,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "どうか、ほんの暫くでいいから、我が醜悪な今の外形を"
+        },
+        {
+          "type": "ruby",
+          "base": "厭",
+          "ruby": "いと"
+        },
+        {
+          "type": "text",
+          "value": "わず、曾て君の友李徴であったこの自分と話を交してくれないだろうか。"
+        }
+      ]
+    },
+    {
+      "sid": "s000040",
+      "globalOffset": 1345,
+      "charCount": 54,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "後で考えれば不思議だったが、その時、袁は、この超自然の怪異を、実に素直に"
+        },
+        {
+          "type": "ruby",
+          "base": "受容",
+          "ruby": "うけい"
+        },
+        {
+          "type": "text",
+          "value": "れて、少しも怪もうとしなかった。"
+        }
+      ]
+    },
+    {
+      "sid": "s000041",
+      "globalOffset": 1399,
+      "charCount": 39,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "彼は部下に命じて行列の進行を"
+        },
+        {
+          "type": "ruby",
+          "base": "停",
+          "ruby": "と"
+        },
+        {
+          "type": "text",
+          "value": "め、自分は叢の"
+        },
+        {
+          "type": "ruby",
+          "base": "傍",
+          "ruby": "かたわら"
+        },
+        {
+          "type": "text",
+          "value": "に立って、見えざる声と対談した。"
+        }
+      ]
+    },
+    {
+      "sid": "s000042",
+      "globalOffset": 1438,
+      "charCount": 30,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "都の"
+        },
+        {
+          "type": "ruby",
+          "base": "噂",
+          "ruby": "うわさ"
+        },
+        {
+          "type": "text",
+          "value": "、旧友の消息、袁が現在の地位、それに対する李徴の祝辞。"
+        }
+      ]
+    },
+    {
+      "sid": "s000043",
+      "globalOffset": 1468,
+      "charCount": 62,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "青年時代に親しかった者同志の、あの隔てのない語調で、それ"
+        },
+        {
+          "type": "ruby",
+          "base": "等",
+          "ruby": "ら"
+        },
+        {
+          "type": "text",
+          "value": "が語られた後、袁は、李徴がどうして今の身となるに至ったかを"
+        },
+        {
+          "type": "ruby",
+          "base": "訊",
+          "ruby": "たず"
+        },
+        {
+          "type": "text",
+          "value": "ねた。"
+        }
+      ]
+    },
+    {
+      "sid": "s000044",
+      "globalOffset": 1530,
+      "charCount": 14,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "草中の声は次のように語った。"
+        }
+      ]
+    },
+    {
+      "sid": "s000045",
+      "globalOffset": 1544,
+      "charCount": 62,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "今から一年程前、自分が旅に出て汝水のほとりに泊った夜のこと、一睡してから、ふと"
+        },
+        {
+          "type": "ruby",
+          "base": "眼",
+          "ruby": "め"
+        },
+        {
+          "type": "text",
+          "value": "を覚ますと、戸外で誰かが我が名を呼んでいる。"
+        }
+      ]
+    },
+    {
+      "sid": "s000046",
+      "globalOffset": 1606,
+      "charCount": 29,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "声に応じて外へ出て見ると、声は闇の中から"
+        },
+        {
+          "type": "ruby",
+          "base": "頻",
+          "ruby": "しき"
+        },
+        {
+          "type": "text",
+          "value": "りに自分を招く。"
+        }
+      ]
+    },
+    {
+      "sid": "s000047",
+      "globalOffset": 1635,
+      "charCount": 18,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "覚えず、自分は声を追うて走り出した。"
+        }
+      ]
+    },
+    {
+      "sid": "s000048",
+      "globalOffset": 1653,
+      "charCount": 53,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "無我夢中で駈けて行く中に、"
+        },
+        {
+          "type": "ruby",
+          "base": "何時",
+          "ruby": "いつ"
+        },
+        {
+          "type": "text",
+          "value": "しか途は山林に入り、しかも、知らぬ間に自分は左右の手で地を"
+        },
+        {
+          "type": "ruby",
+          "base": "攫",
+          "ruby": "つか"
+        },
+        {
+          "type": "text",
+          "value": "んで走っていた。"
+        }
+      ]
+    },
+    {
+      "sid": "s000049",
+      "globalOffset": 1706,
+      "charCount": 35,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "何か"
+        },
+        {
+          "type": "ruby",
+          "base": "身体",
+          "ruby": "からだ"
+        },
+        {
+          "type": "text",
+          "value": "中に力が"
+        },
+        {
+          "type": "ruby",
+          "base": "充",
+          "ruby": "み"
+        },
+        {
+          "type": "text",
+          "value": "ち満ちたような感じで、軽々と岩石を跳び越えて行った。"
+        }
+      ]
+    },
+    {
+      "sid": "s000050",
+      "globalOffset": 1741,
+      "charCount": 26,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "気が付くと、手先や"
+        },
+        {
+          "type": "ruby",
+          "base": "肱",
+          "ruby": "ひじ"
+        },
+        {
+          "type": "text",
+          "value": "のあたりに毛を生じているらしい。"
+        }
+      ]
+    },
+    {
+      "sid": "s000051",
+      "globalOffset": 1767,
+      "charCount": 36,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "少し明るくなってから、谷川に臨んで姿を映して見ると、既に虎となっていた。"
+        }
+      ]
+    },
+    {
+      "sid": "s000052",
+      "globalOffset": 1803,
+      "charCount": 14,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "自分は初め眼を信じなかった。"
+        }
+      ]
+    },
+    {
+      "sid": "s000053",
+      "globalOffset": 1817,
+      "charCount": 17,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "次に、これは夢に違いないと考えた。"
+        }
+      ]
+    },
+    {
+      "sid": "s000054",
+      "globalOffset": 1834,
+      "charCount": 42,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "夢の中で、これは夢だぞと知っているような夢を、自分はそれまでに見たことがあったから。"
+        }
+      ]
+    },
+    {
+      "sid": "s000055",
+      "globalOffset": 1876,
+      "charCount": 31,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "どうしても夢でないと悟らねばならなかった時、自分は"
+        },
+        {
+          "type": "ruby",
+          "base": "茫然",
+          "ruby": "ぼうぜん"
+        },
+        {
+          "type": "text",
+          "value": "とした。"
+        }
+      ]
+    },
+    {
+      "sid": "s000056",
+      "globalOffset": 1907,
+      "charCount": 8,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "そうして"
+        },
+        {
+          "type": "ruby",
+          "base": "懼",
+          "ruby": "おそ"
+        },
+        {
+          "type": "text",
+          "value": "れた。"
+        }
+      ]
+    },
+    {
+      "sid": "s000057",
+      "globalOffset": 1915,
+      "charCount": 26,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "全く、どんな事でも起り得るのだと思うて、深く懼れた。"
+        }
+      ]
+    },
+    {
+      "sid": "s000058",
+      "globalOffset": 1941,
+      "charCount": 19,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "しかし、何故こんな事になったのだろう。"
+        }
+      ]
+    },
+    {
+      "sid": "s000059",
+      "globalOffset": 1960,
+      "charCount": 4,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "分らぬ。"
+        }
+      ]
+    },
+    {
+      "sid": "s000060",
+      "globalOffset": 1964,
+      "charCount": 13,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "全く何事も我々には"
+        },
+        {
+          "type": "ruby",
+          "base": "判",
+          "ruby": "わか"
+        },
+        {
+          "type": "text",
+          "value": "らぬ。"
+        }
+      ]
+    },
+    {
+      "sid": "s000061",
+      "globalOffset": 1977,
+      "charCount": 52,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "理由も分らずに押付けられたものを大人しく受取って、理由も分らずに生きて行くのが、我々生きもののさだめだ。"
+        }
+      ]
+    },
+    {
+      "sid": "s000062",
+      "globalOffset": 2029,
+      "charCount": 12,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "自分は"
+        },
+        {
+          "type": "ruby",
+          "base": "直",
+          "ruby": "す"
+        },
+        {
+          "type": "text",
+          "value": "ぐに死を"
+        },
+        {
+          "type": "ruby",
+          "base": "想",
+          "ruby": "おも"
+        },
+        {
+          "type": "text",
+          "value": "うた。"
+        }
+      ]
+    },
+    {
+      "sid": "s000063",
+      "globalOffset": 2041,
+      "charCount": 46,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "しかし、その時、眼の前を一匹の"
+        },
+        {
+          "type": "ruby",
+          "base": "兎",
+          "ruby": "うさぎ"
+        },
+        {
+          "type": "text",
+          "value": "が駈け過ぎるのを見た途端に、自分の中の人間は忽ち姿を消した。"
+        }
+      ]
+    },
+    {
+      "sid": "s000064",
+      "globalOffset": 2087,
+      "charCount": 47,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "再び自分の中の人間が目を覚ました時、自分の口は兎の血に"
+        },
+        {
+          "type": "ruby",
+          "base": "塗",
+          "ruby": "まみ"
+        },
+        {
+          "type": "text",
+          "value": "れ、あたりには兎の毛が散らばっていた。"
+        }
+      ]
+    },
+    {
+      "sid": "s000065",
+      "globalOffset": 2134,
+      "charCount": 18,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "これが虎としての最初の経験であった。"
+        }
+      ]
+    },
+    {
+      "sid": "s000066",
+      "globalOffset": 2152,
+      "charCount": 35,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "それ以来今までにどんな所行をし続けて来たか、それは到底語るに忍びない。"
+        }
+      ]
+    },
+    {
+      "sid": "s000067",
+      "globalOffset": 2187,
+      "charCount": 26,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "ただ、一日の中に必ず数時間は、人間の心が"
+        },
+        {
+          "type": "ruby",
+          "base": "還",
+          "ruby": "かえ"
+        },
+        {
+          "type": "text",
+          "value": "って来る。"
+        }
+      ]
+    },
+    {
+      "sid": "s000068",
+      "globalOffset": 2213,
+      "charCount": 55,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "そういう時には、曾ての日と同じく、人語も"
+        },
+        {
+          "type": "ruby",
+          "base": "操",
+          "ruby": "あやつ"
+        },
+        {
+          "type": "text",
+          "value": "れれば、複雑な思考にも堪え得るし、"
+        },
+        {
+          "type": "ruby",
+          "base": "経書",
+          "ruby": "けいしょ"
+        },
+        {
+          "type": "text",
+          "value": "の章句を"
+        },
+        {
+          "type": "ruby",
+          "base": "誦",
+          "ruby": "そら"
+        },
+        {
+          "type": "text",
+          "value": "んずることも出来る。"
+        }
+      ]
+    },
+    {
+      "sid": "s000069",
+      "globalOffset": 2268,
+      "charCount": 53,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "その人間の心で、虎としての"
+        },
+        {
+          "type": "ruby",
+          "base": "己",
+          "ruby": "おのれ"
+        },
+        {
+          "type": "text",
+          "value": "の"
+        },
+        {
+          "type": "ruby",
+          "base": "残虐",
+          "ruby": "ざんぎゃく"
+        },
+        {
+          "type": "text",
+          "value": "な"
+        },
+        {
+          "type": "ruby",
+          "base": "行",
+          "ruby": "おこない"
+        },
+        {
+          "type": "text",
+          "value": "のあとを見、己の運命をふりかえる時が、最も情なく、恐しく、"
+        },
+        {
+          "type": "ruby",
+          "base": "憤",
+          "ruby": "いきどお"
+        },
+        {
+          "type": "text",
+          "value": "ろしい。"
+        }
+      ]
+    },
+    {
+      "sid": "s000070",
+      "globalOffset": 2321,
+      "charCount": 37,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "しかし、その、人間にかえる数時間も、日を経るに従って次第に短くなって行く。"
+        }
+      ]
+    },
+    {
+      "sid": "s000071",
+      "globalOffset": 2358,
+      "charCount": 66,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "今までは、どうして虎などになったかと怪しんでいたのに、この間ひょいと気が付いて見たら、"
+        },
+        {
+          "type": "ruby",
+          "base": "己",
+          "ruby": "おれ"
+        },
+        {
+          "type": "text",
+          "value": "はどうして以前、人間だったのかと考えていた。"
+        }
+      ]
+    },
+    {
+      "sid": "s000072",
+      "globalOffset": 2424,
+      "charCount": 10,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "これは恐しいことだ。"
+        }
+      ]
+    },
+    {
+      "sid": "s000073",
+      "globalOffset": 2434,
+      "charCount": 43,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "今少し"
+        },
+        {
+          "type": "ruby",
+          "base": "経",
+          "ruby": "た"
+        },
+        {
+          "type": "text",
+          "value": "てば、"
+        },
+        {
+          "type": "ruby",
+          "base": "己",
+          "ruby": "おれ"
+        },
+        {
+          "type": "text",
+          "value": "の中の人間の心は、獣としての習慣の中にすっかり"
+        },
+        {
+          "type": "ruby",
+          "base": "埋",
+          "ruby": "うも"
+        },
+        {
+          "type": "text",
+          "value": "れて消えて"
+        },
+        {
+          "type": "ruby",
+          "base": "了",
+          "ruby": "しま"
+        },
+        {
+          "type": "text",
+          "value": "うだろう。"
+        }
+      ]
+    },
+    {
+      "sid": "s000074",
+      "globalOffset": 2477,
+      "charCount": 26,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "ちょうど、古い宮殿の"
+        },
+        {
+          "type": "ruby",
+          "base": "礎",
+          "ruby": "いしずえ"
+        },
+        {
+          "type": "text",
+          "value": "が次第に土砂に埋没するように。"
+        }
+      ]
+    },
+    {
+      "sid": "s000075",
+      "globalOffset": 2503,
+      "charCount": 80,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "そうすれば、しまいに己は自分の過去を忘れ果て、一匹の虎として狂い廻り、今日のように途で君と出会っても"
+        },
+        {
+          "type": "ruby",
+          "base": "故人",
+          "ruby": "とも"
+        },
+        {
+          "type": "text",
+          "value": "と認めることなく、君を裂き"
+        },
+        {
+          "type": "ruby",
+          "base": "喰",
+          "ruby": "くろ"
+        },
+        {
+          "type": "text",
+          "value": "うて何の悔も感じないだろう。"
+        }
+      ]
+    },
+    {
+      "sid": "s000076",
+      "globalOffset": 2583,
+      "charCount": 28,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "一体、獣でも人間でも、もとは何か"
+        },
+        {
+          "type": "ruby",
+          "base": "他",
+          "ruby": "ほか"
+        },
+        {
+          "type": "text",
+          "value": "のものだったんだろう。"
+        }
+      ]
+    },
+    {
+      "sid": "s000077",
+      "globalOffset": 2611,
+      "charCount": 50,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "初めはそれを憶えているが、次第に忘れて了い、初めから今の形のものだったと思い込んでいるのではないか？"
+        }
+      ]
+    },
+    {
+      "sid": "s000078",
+      "globalOffset": 2661,
+      "charCount": 16,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "　いや、そんな事はどうでもいい。"
+        }
+      ]
+    },
+    {
+      "sid": "s000079",
+      "globalOffset": 2677,
+      "charCount": 43,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "己の中の人間の心がすっかり消えて了えば、恐らく、その方が、己はしあわせになれるだろう。"
+        }
+      ]
+    },
+    {
+      "sid": "s000080",
+      "globalOffset": 2720,
+      "charCount": 33,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "だのに、己の中の人間は、その事を、この上なく恐しく感じているのだ。"
+        }
+      ]
+    },
+    {
+      "sid": "s000081",
+      "globalOffset": 2753,
+      "charCount": 31,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "ああ、全く、どんなに、恐しく、"
+        },
+        {
+          "type": "ruby",
+          "base": "哀",
+          "ruby": "かな"
+        },
+        {
+          "type": "text",
+          "value": "しく、切なく思っているだろう！"
+        }
+      ]
+    },
+    {
+      "sid": "s000082",
+      "globalOffset": 2784,
+      "charCount": 19,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "　己が人間だった記憶のなくなることを。"
+        }
+      ]
+    },
+    {
+      "sid": "s000083",
+      "globalOffset": 2803,
+      "charCount": 13,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "この気持は誰にも分らない。"
+        }
+      ]
+    },
+    {
+      "sid": "s000084",
+      "globalOffset": 2816,
+      "charCount": 8,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "誰にも分らない。"
+        }
+      ]
+    },
+    {
+      "sid": "s000085",
+      "globalOffset": 2824,
+      "charCount": 18,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "己と同じ身の上に成った者でなければ。"
+        }
+      ]
+    },
+    {
+      "sid": "s000086",
+      "globalOffset": 2842,
+      "charCount": 9,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "ところで、そうだ。"
+        }
+      ]
+    },
+    {
+      "sid": "s000087",
+      "globalOffset": 2851,
+      "charCount": 34,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "己がすっかり人間でなくなって了う前に、一つ頼んで置きたいことがある。"
+        }
+      ]
+    },
+    {
+      "sid": "s000088",
+      "globalOffset": 2885,
+      "charCount": 32,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "袁はじめ一行は、息をのんで、"
+        },
+        {
+          "type": "ruby",
+          "base": "叢中",
+          "ruby": "そうちゅう"
+        },
+        {
+          "type": "text",
+          "value": "の声の語る不思議に聞入っていた。"
+        }
+      ]
+    },
+    {
+      "sid": "s000089",
+      "globalOffset": 2917,
+      "charCount": 8,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "声は続けて言う。"
+        }
+      ]
+    },
+    {
+      "sid": "s000090",
+      "globalOffset": 2925,
+      "charCount": 6,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "他でもない。"
+        }
+      ]
+    },
+    {
+      "sid": "s000091",
+      "globalOffset": 2931,
+      "charCount": 20,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "自分は元来詩人として名を成す積りでいた。"
+        }
+      ]
+    },
+    {
+      "sid": "s000092",
+      "globalOffset": 2951,
+      "charCount": 23,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "しかも、業"
+        },
+        {
+          "type": "ruby",
+          "base": "未",
+          "ruby": "いま"
+        },
+        {
+          "type": "text",
+          "value": "だ成らざるに、この運命に立至った。"
+        }
+      ]
+    },
+    {
+      "sid": "s000093",
+      "globalOffset": 2974,
+      "charCount": 29,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "曾て作るところの詩数百"
+        },
+        {
+          "type": "ruby",
+          "base": "篇",
+          "ruby": "ぺん"
+        },
+        {
+          "type": "text",
+          "value": "、"
+        },
+        {
+          "type": "ruby",
+          "base": "固",
+          "ruby": "もと"
+        },
+        {
+          "type": "text",
+          "value": "より、まだ世に行われておらぬ。"
+        }
+      ]
+    },
+    {
+      "sid": "s000094",
+      "globalOffset": 3003,
+      "charCount": 19,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "遺稿の所在も"
+        },
+        {
+          "type": "ruby",
+          "base": "最早",
+          "ruby": "もはや"
+        },
+        {
+          "type": "text",
+          "value": "判らなくなっていよう。"
+        }
+      ]
+    },
+    {
+      "sid": "s000095",
+      "globalOffset": 3022,
+      "charCount": 24,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "ところで、その中、今も"
+        },
+        {
+          "type": "ruby",
+          "base": "尚",
+          "ruby": "なお"
+        },
+        {
+          "type": "ruby",
+          "base": "記誦",
+          "ruby": "きしょう"
+        },
+        {
+          "type": "text",
+          "value": "せるものが数十ある。"
+        }
+      ]
+    },
+    {
+      "sid": "s000096",
+      "globalOffset": 3046,
+      "charCount": 18,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "これを我が"
+        },
+        {
+          "type": "ruby",
+          "base": "為",
+          "ruby": "ため"
+        },
+        {
+          "type": "text",
+          "value": "に伝録して"
+        },
+        {
+          "type": "ruby",
+          "base": "戴",
+          "ruby": "いただ"
+        },
+        {
+          "type": "text",
+          "value": "きたいのだ。"
+        }
+      ]
+    },
+    {
+      "sid": "s000097",
+      "globalOffset": 3064,
+      "charCount": 26,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "何も、これに"
+        },
+        {
+          "type": "ruby",
+          "base": "仍",
+          "ruby": "よ"
+        },
+        {
+          "type": "text",
+          "value": "って一人前の詩人"
+        },
+        {
+          "type": "ruby",
+          "base": "面",
+          "ruby": "づら"
+        },
+        {
+          "type": "text",
+          "value": "をしたいのではない。"
+        }
+      ]
+    },
+    {
+      "sid": "s000098",
+      "globalOffset": 3090,
+      "charCount": 75,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "作の巧拙は知らず、とにかく、産を破り心を狂わせてまで自分が"
+        },
+        {
+          "type": "ruby",
+          "base": "生涯",
+          "ruby": "しょうがい"
+        },
+        {
+          "type": "text",
+          "value": "それに執着したところのものを、一部なりとも後代に伝えないでは、死んでも死に切れないのだ。"
+        }
+      ]
+    },
+    {
+      "sid": "s000099",
+      "globalOffset": 3165,
+      "charCount": 28,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "袁は部下に命じ、筆を執って叢中の声に"
+        },
+        {
+          "type": "ruby",
+          "base": "随",
+          "ruby": "したが"
+        },
+        {
+          "type": "text",
+          "value": "って書きとらせた。"
+        }
+      ]
+    },
+    {
+      "sid": "s000100",
+      "globalOffset": 3193,
+      "charCount": 17,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "李徴の声は叢の中から朗々と響いた。"
+        }
+      ]
+    },
+    {
+      "sid": "s000101",
+      "globalOffset": 3210,
+      "charCount": 43,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "長短"
+        },
+        {
+          "type": "ruby",
+          "base": "凡",
+          "ruby": "およ"
+        },
+        {
+          "type": "text",
+          "value": "そ三十篇、格調高雅、意趣卓逸、一読して作者の才の非凡を思わせるものばかりである。"
+        }
+      ]
+    },
+    {
+      "sid": "s000102",
+      "globalOffset": 3253,
+      "charCount": 27,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "しかし、袁は感嘆しながらも"
+        },
+        {
+          "type": "ruby",
+          "base": "漠然",
+          "ruby": "ばくぜん"
+        },
+        {
+          "type": "text",
+          "value": "と次のように感じていた。"
+        }
+      ]
+    },
+    {
+      "sid": "s000103",
+      "globalOffset": 3280,
+      "charCount": 29,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "ruby",
+          "base": "成程",
+          "ruby": "なるほど"
+        },
+        {
+          "type": "text",
+          "value": "、作者の素質が第一流に属するものであることは疑いない。"
+        }
+      ]
+    },
+    {
+      "sid": "s000104",
+      "globalOffset": 3309,
+      "charCount": 57,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "しかし、このままでは、第一流の作品となるのには、"
+        },
+        {
+          "type": "ruby",
+          "base": "何処",
+          "ruby": "どこ"
+        },
+        {
+          "type": "text",
+          "value": "か（非常に微妙な点に"
+        },
+        {
+          "type": "ruby",
+          "base": "於",
+          "ruby": "おい"
+        },
+        {
+          "type": "text",
+          "value": "て）欠けるところがあるのではないか、と。"
+        }
+      ]
+    },
+    {
+      "sid": "s000105",
+      "globalOffset": 3366,
+      "charCount": 35,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "旧詩を吐き終った李徴の声は、突然調子を変え、自らを"
+        },
+        {
+          "type": "ruby",
+          "base": "嘲",
+          "ruby": "あざけ"
+        },
+        {
+          "type": "text",
+          "value": "るか"
+        },
+        {
+          "type": "ruby",
+          "base": "如",
+          "ruby": "ごと"
+        },
+        {
+          "type": "text",
+          "value": "くに言った。"
+        }
+      ]
+    },
+    {
+      "sid": "s000106",
+      "globalOffset": 3401,
+      "charCount": 71,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "ruby",
+          "base": "羞",
+          "ruby": "はずか"
+        },
+        {
+          "type": "text",
+          "value": "しいことだが、今でも、こんなあさましい身と成り果てた今でも、"
+        },
+        {
+          "type": "ruby",
+          "base": "己",
+          "ruby": "おれ"
+        },
+        {
+          "type": "text",
+          "value": "は、己の詩集が"
+        },
+        {
+          "type": "ruby",
+          "base": "長安",
+          "ruby": "ちょうあん"
+        },
+        {
+          "type": "text",
+          "value": "風流人士の机の上に置かれている様を、夢に見ることがあるのだ。"
+        }
+      ]
+    },
+    {
+      "sid": "s000107",
+      "globalOffset": 3472,
+      "charCount": 17,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "ruby",
+          "base": "岩窟",
+          "ruby": "がんくつ"
+        },
+        {
+          "type": "text",
+          "value": "の中に横たわって見る夢にだよ。"
+        }
+      ]
+    },
+    {
+      "sid": "s000108",
+      "globalOffset": 3489,
+      "charCount": 6,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "ruby",
+          "base": "嗤",
+          "ruby": "わら"
+        },
+        {
+          "type": "text",
+          "value": "ってくれ。"
+        }
+      ]
+    },
+    {
+      "sid": "s000109",
+      "globalOffset": 3495,
+      "charCount": 21,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "詩人に成りそこなって虎になった哀れな男を。"
+        }
+      ]
+    },
+    {
+      "sid": "s000110",
+      "globalOffset": 3516,
+      "charCount": 31,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "（袁は昔の青年李徴の"
+        },
+        {
+          "type": "ruby",
+          "base": "自嘲癖",
+          "ruby": "じちょうへき"
+        },
+        {
+          "type": "text",
+          "value": "を思出しながら、哀しく聞いていた。）"
+        }
+      ]
+    },
+    {
+      "sid": "s000111",
+      "globalOffset": 3547,
+      "charCount": 4,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "そうだ。"
+        }
+      ]
+    },
+    {
+      "sid": "s000112",
+      "globalOffset": 3551,
+      "charCount": 26,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "お笑い草ついでに、今の"
+        },
+        {
+          "type": "ruby",
+          "base": "懐",
+          "ruby": "おもい"
+        },
+        {
+          "type": "text",
+          "value": "を即席の詩に述べて見ようか。"
+        }
+      ]
+    },
+    {
+      "sid": "s000113",
+      "globalOffset": 3577,
+      "charCount": 26,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "この虎の中に、まだ、曾ての李徴が生きているしるしに。"
+        }
+      ]
+    },
+    {
+      "sid": "s000114",
+      "globalOffset": 3603,
+      "charCount": 19,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "袁は又下吏に命じてこれを書きとらせた。"
+        }
+      ]
+    },
+    {
+      "sid": "s000115",
+      "globalOffset": 3622,
+      "charCount": 7,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "その詩に言う。"
+        }
+      ]
+    },
+    {
+      "sid": "s000116",
+      "globalOffset": 3629,
+      "charCount": 15,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "偶因狂疾成殊類　災患相仍不可逃"
+        }
+      ]
+    },
+    {
+      "sid": "s000117",
+      "globalOffset": 3644,
+      "charCount": 15,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "今日爪牙誰敢敵　当時声跡共相高"
+        }
+      ]
+    },
+    {
+      "sid": "s000118",
+      "globalOffset": 3659,
+      "charCount": 14,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "我為異物蓬茅下　君已乗気勢豪"
+        }
+      ]
+    },
+    {
+      "sid": "s000119",
+      "globalOffset": 3673,
+      "charCount": 14,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "此夕渓山対明月　不成長嘯但成"
+        }
+      ]
+    },
+    {
+      "sid": "s000120",
+      "globalOffset": 3687,
+      "charCount": 41,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "時に、残月、光"
+        },
+        {
+          "type": "ruby",
+          "base": "冷",
+          "ruby": "ひや"
+        },
+        {
+          "type": "text",
+          "value": "やかに、白露は地に"
+        },
+        {
+          "type": "ruby",
+          "base": "滋",
+          "ruby": "しげ"
+        },
+        {
+          "type": "text",
+          "value": "く、樹間を渡る冷風は既に暁の近きを告げていた。"
+        }
+      ]
+    },
+    {
+      "sid": "s000121",
+      "globalOffset": 3728,
+      "charCount": 32,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "人々は最早、事の奇異を忘れ、粛然として、この詩人の"
+        },
+        {
+          "type": "ruby",
+          "base": "薄倖",
+          "ruby": "はっこう"
+        },
+        {
+          "type": "text",
+          "value": "を嘆じた。"
+        }
+      ]
+    },
+    {
+      "sid": "s000122",
+      "globalOffset": 3760,
+      "charCount": 11,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "李徴の声は再び続ける。"
+        }
+      ]
+    },
+    {
+      "sid": "s000123",
+      "globalOffset": 3771,
+      "charCount": 54,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "ruby",
+          "base": "何故",
+          "ruby": "なぜ"
+        },
+        {
+          "type": "text",
+          "value": "こんな運命になったか判らぬと、先刻は言ったが、しかし、考えように"
+        },
+        {
+          "type": "ruby",
+          "base": "依",
+          "ruby": "よ"
+        },
+        {
+          "type": "text",
+          "value": "れば、思い当ることが全然ないでもない。"
+        }
+      ]
+    },
+    {
+      "sid": "s000124",
+      "globalOffset": 3825,
+      "charCount": 22,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "人間であった時、"
+        },
+        {
+          "type": "ruby",
+          "base": "己",
+          "ruby": "おれ"
+        },
+        {
+          "type": "text",
+          "value": "は努めて人との"
+        },
+        {
+          "type": "ruby",
+          "base": "交",
+          "ruby": "まじわり"
+        },
+        {
+          "type": "text",
+          "value": "を避けた。"
+        }
+      ]
+    },
+    {
+      "sid": "s000125",
+      "globalOffset": 3847,
+      "charCount": 17,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "人々は己を"
+        },
+        {
+          "type": "ruby",
+          "base": "倨傲",
+          "ruby": "きょごう"
+        },
+        {
+          "type": "text",
+          "value": "だ、尊大だといった。"
+        }
+      ]
+    },
+    {
+      "sid": "s000126",
+      "globalOffset": 3864,
+      "charCount": 33,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "実は、それが"
+        },
+        {
+          "type": "ruby",
+          "base": "殆",
+          "ruby": "ほとん"
+        },
+        {
+          "type": "text",
+          "value": "ど"
+        },
+        {
+          "type": "ruby",
+          "base": "羞恥心",
+          "ruby": "しゅうちしん"
+        },
+        {
+          "type": "text",
+          "value": "に近いものであることを、人々は知らなかった。"
+        }
+      ]
+    },
+    {
+      "sid": "s000127",
+      "globalOffset": 3897,
+      "charCount": 35,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "ruby",
+          "base": "勿論",
+          "ruby": "もちろん"
+        },
+        {
+          "type": "text",
+          "value": "、曾ての"
+        },
+        {
+          "type": "ruby",
+          "base": "郷党",
+          "ruby": "きょうとう"
+        },
+        {
+          "type": "text",
+          "value": "の鬼才といわれた自分に、自尊心が無かったとは"
+        },
+        {
+          "type": "ruby",
+          "base": "云",
+          "ruby": "い"
+        },
+        {
+          "type": "text",
+          "value": "わない。"
+        }
+      ]
+    },
+    {
+      "sid": "s000128",
+      "globalOffset": 3932,
+      "charCount": 27,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "しかし、それは"
+        },
+        {
+          "type": "ruby",
+          "base": "臆病",
+          "ruby": "おくびょう"
+        },
+        {
+          "type": "text",
+          "value": "な自尊心とでもいうべきものであった。"
+        }
+      ]
+    },
+    {
+      "sid": "s000129",
+      "globalOffset": 3959,
+      "charCount": 58,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "己は詩によって名を成そうと思いながら、進んで師に就いたり、求めて詩友と交って"
+        },
+        {
+          "type": "ruby",
+          "base": "切磋琢磨",
+          "ruby": "せっさたくま"
+        },
+        {
+          "type": "text",
+          "value": "に努めたりすることをしなかった。"
+        }
+      ]
+    },
+    {
+      "sid": "s000130",
+      "globalOffset": 4017,
+      "charCount": 30,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "かといって、又、己は俗物の間に"
+        },
+        {
+          "type": "ruby",
+          "base": "伍",
+          "ruby": "ご"
+        },
+        {
+          "type": "text",
+          "value": "することも"
+        },
+        {
+          "type": "ruby",
+          "base": "潔",
+          "ruby": "いさぎよ"
+        },
+        {
+          "type": "text",
+          "value": "しとしなかった。"
+        }
+      ]
+    },
+    {
+      "sid": "s000131",
+      "globalOffset": 4047,
+      "charCount": 27,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "共に、我が臆病な自尊心と、尊大な羞恥心との"
+        },
+        {
+          "type": "ruby",
+          "base": "所為",
+          "ruby": "せい"
+        },
+        {
+          "type": "text",
+          "value": "である。"
+        }
+      ]
+    },
+    {
+      "sid": "s000132",
+      "globalOffset": 4074,
+      "charCount": 70,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "ruby",
+          "base": "己",
+          "ruby": "おのれ"
+        },
+        {
+          "type": "text",
+          "value": "の"
+        },
+        {
+          "type": "ruby",
+          "base": "珠",
+          "ruby": "たま"
+        },
+        {
+          "type": "text",
+          "value": "に"
+        },
+        {
+          "type": "ruby",
+          "base": "非",
+          "ruby": "あら"
+        },
+        {
+          "type": "text",
+          "value": "ざることを"
+        },
+        {
+          "type": "ruby",
+          "base": "惧",
+          "ruby": "おそ"
+        },
+        {
+          "type": "text",
+          "value": "れるが"
+        },
+        {
+          "type": "ruby",
+          "base": "故",
+          "ruby": "ゆえ"
+        },
+        {
+          "type": "text",
+          "value": "に、"
+        },
+        {
+          "type": "ruby",
+          "base": "敢",
+          "ruby": "あえ"
+        },
+        {
+          "type": "text",
+          "value": "て刻苦して"
+        },
+        {
+          "type": "ruby",
+          "base": "磨",
+          "ruby": "みが"
+        },
+        {
+          "type": "text",
+          "value": "こうともせず、又、己の珠なるべきを半ば信ずるが故に、"
+        },
+        {
+          "type": "ruby",
+          "base": "碌々",
+          "ruby": "ろくろく"
+        },
+        {
+          "type": "text",
+          "value": "として"
+        },
+        {
+          "type": "ruby",
+          "base": "瓦",
+          "ruby": "かわら"
+        },
+        {
+          "type": "text",
+          "value": "に伍することも出来なかった。"
+        }
+      ]
+    },
+    {
+      "sid": "s000133",
+      "globalOffset": 4144,
+      "charCount": 55,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "ruby",
+          "base": "己",
+          "ruby": "おれ"
+        },
+        {
+          "type": "text",
+          "value": "は次第に世と離れ、人と遠ざかり、"
+        },
+        {
+          "type": "ruby",
+          "base": "憤悶",
+          "ruby": "ふんもん"
+        },
+        {
+          "type": "text",
+          "value": "と"
+        },
+        {
+          "type": "ruby",
+          "base": "慙恚",
+          "ruby": "ざんい"
+        },
+        {
+          "type": "text",
+          "value": "とによって"
+        },
+        {
+          "type": "ruby",
+          "base": "益々",
+          "ruby": "ますます"
+        },
+        {
+          "type": "ruby",
+          "base": "己",
+          "ruby": "おのれ"
+        },
+        {
+          "type": "text",
+          "value": "の内なる臆病な自尊心を飼いふとらせる結果になった。"
+        }
+      ]
+    },
+    {
+      "sid": "s000134",
+      "globalOffset": 4199,
+      "charCount": 33,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "人間は誰でも猛獣使であり、その猛獣に当るのが、各人の性情だという。"
+        }
+      ]
+    },
+    {
+      "sid": "s000135",
+      "globalOffset": 4232,
+      "charCount": 20,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "ruby",
+          "base": "己",
+          "ruby": "おれ"
+        },
+        {
+          "type": "text",
+          "value": "の場合、この尊大な羞恥心が猛獣だった。"
+        }
+      ]
+    },
+    {
+      "sid": "s000136",
+      "globalOffset": 4252,
+      "charCount": 7,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "虎だったのだ。"
+        }
+      ]
+    },
+    {
+      "sid": "s000137",
+      "globalOffset": 4259,
+      "charCount": 57,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "これが己を損い、妻子を苦しめ、友人を傷つけ、果ては、己の外形をかくの如く、内心にふさわしいものに変えて了ったのだ。"
+        }
+      ]
+    },
+    {
+      "sid": "s000138",
+      "globalOffset": 4316,
+      "charCount": 37,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "今思えば、全く、己は、己の"
+        },
+        {
+          "type": "ruby",
+          "base": "有",
+          "ruby": "も"
+        },
+        {
+          "type": "text",
+          "value": "っていた"
+        },
+        {
+          "type": "ruby",
+          "base": "僅",
+          "ruby": "わず"
+        },
+        {
+          "type": "text",
+          "value": "かばかりの才能を空費して了った訳だ。"
+        }
+      ]
+    },
+    {
+      "sid": "s000139",
+      "globalOffset": 4353,
+      "charCount": 98,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "人生は何事をも"
+        },
+        {
+          "type": "ruby",
+          "base": "為",
+          "ruby": "な"
+        },
+        {
+          "type": "text",
+          "value": "さぬには余りに長いが、何事かを為すには余りに短いなどと口先ばかりの警句を"
+        },
+        {
+          "type": "ruby",
+          "base": "弄",
+          "ruby": "ろう"
+        },
+        {
+          "type": "text",
+          "value": "しながら、事実は、才能の不足を"
+        },
+        {
+          "type": "ruby",
+          "base": "暴露",
+          "ruby": "ばくろ"
+        },
+        {
+          "type": "text",
+          "value": "するかも知れないとの"
+        },
+        {
+          "type": "ruby",
+          "base": "卑怯",
+          "ruby": "ひきょう"
+        },
+        {
+          "type": "text",
+          "value": "な"
+        },
+        {
+          "type": "ruby",
+          "base": "危惧",
+          "ruby": "きぐ"
+        },
+        {
+          "type": "text",
+          "value": "と、刻苦を"
+        },
+        {
+          "type": "ruby",
+          "base": "厭",
+          "ruby": "いと"
+        },
+        {
+          "type": "text",
+          "value": "う怠惰とが己の"
+        },
+        {
+          "type": "ruby",
+          "base": "凡",
+          "ruby": "すべ"
+        },
+        {
+          "type": "text",
+          "value": "てだったのだ。"
+        }
+      ]
+    },
+    {
+      "sid": "s000140",
+      "globalOffset": 4451,
+      "charCount": 54,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "己よりも遥かに乏しい才能でありながら、それを専一に磨いたがために、堂々たる詩家となった者が幾らでもいるのだ。"
+        }
+      ]
+    },
+    {
+      "sid": "s000141",
+      "globalOffset": 4505,
+      "charCount": 22,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "虎と成り果てた今、己は"
+        },
+        {
+          "type": "ruby",
+          "base": "漸",
+          "ruby": "ようや"
+        },
+        {
+          "type": "text",
+          "value": "くそれに気が付いた。"
+        }
+      ]
+    },
+    {
+      "sid": "s000142",
+      "globalOffset": 4527,
+      "charCount": 26,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "それを思うと、己は今も胸を"
+        },
+        {
+          "type": "ruby",
+          "base": "灼",
+          "ruby": "や"
+        },
+        {
+          "type": "text",
+          "value": "かれるような悔を感じる。"
+        }
+      ]
+    },
+    {
+      "sid": "s000143",
+      "globalOffset": 4553,
+      "charCount": 19,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "己には最早人間としての生活は出来ない。"
+        }
+      ]
+    },
+    {
+      "sid": "s000144",
+      "globalOffset": 4572,
+      "charCount": 46,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "たとえ、今、己が頭の中で、どんな優れた詩を作ったにしたところで、どういう手段で発表できよう。"
+        }
+      ]
+    },
+    {
+      "sid": "s000145",
+      "globalOffset": 4618,
+      "charCount": 20,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "まして、己の頭は"
+        },
+        {
+          "type": "ruby",
+          "base": "日毎",
+          "ruby": "ひごと"
+        },
+        {
+          "type": "text",
+          "value": "に虎に近づいて行く。"
+        }
+      ]
+    },
+    {
+      "sid": "s000146",
+      "globalOffset": 4638,
+      "charCount": 10,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "どうすればいいのだ。"
+        }
+      ]
+    },
+    {
+      "sid": "s000147",
+      "globalOffset": 4648,
+      "charCount": 11,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "己の空費された過去は？"
+        }
+      ]
+    },
+    {
+      "sid": "s000148",
+      "globalOffset": 4659,
+      "charCount": 10,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "　己は"
+        },
+        {
+          "type": "ruby",
+          "base": "堪",
+          "ruby": "たま"
+        },
+        {
+          "type": "text",
+          "value": "らなくなる。"
+        }
+      ]
+    },
+    {
+      "sid": "s000149",
+      "globalOffset": 4669,
+      "charCount": 31,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "そういう時、己は、向うの山の頂の"
+        },
+        {
+          "type": "ruby",
+          "base": "巖",
+          "ruby": "いわ"
+        },
+        {
+          "type": "text",
+          "value": "に上り、"
+        },
+        {
+          "type": "ruby",
+          "base": "空谷",
+          "ruby": "くうこく"
+        },
+        {
+          "type": "text",
+          "value": "に向って"
+        },
+        {
+          "type": "ruby",
+          "base": "吼",
+          "ruby": "ほ"
+        },
+        {
+          "type": "text",
+          "value": "える。"
+        }
+      ]
+    },
+    {
+      "sid": "s000150",
+      "globalOffset": 4700,
+      "charCount": 20,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "この胸を灼く悲しみを誰かに訴えたいのだ。"
+        }
+      ]
+    },
+    {
+      "sid": "s000151",
+      "globalOffset": 4720,
+      "charCount": 18,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "己は昨夕も、"
+        },
+        {
+          "type": "ruby",
+          "base": "彼処",
+          "ruby": "あそこ"
+        },
+        {
+          "type": "text",
+          "value": "で月に向って"
+        },
+        {
+          "type": "ruby",
+          "base": "咆",
+          "ruby": "ほ"
+        },
+        {
+          "type": "text",
+          "value": "えた。"
+        }
+      ]
+    },
+    {
+      "sid": "s000152",
+      "globalOffset": 4738,
+      "charCount": 19,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "誰かにこの苦しみが分って"
+        },
+        {
+          "type": "ruby",
+          "base": "貰",
+          "ruby": "もら"
+        },
+        {
+          "type": "text",
+          "value": "えないかと。"
+        }
+      ]
+    },
+    {
+      "sid": "s000153",
+      "globalOffset": 4757,
+      "charCount": 29,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "しかし、獣どもは己の声を聞いて、"
+        },
+        {
+          "type": "ruby",
+          "base": "唯",
+          "ruby": "ただ"
+        },
+        {
+          "type": "text",
+          "value": "、"
+        },
+        {
+          "type": "ruby",
+          "base": "懼",
+          "ruby": "おそ"
+        },
+        {
+          "type": "text",
+          "value": "れ、ひれ伏すばかり。"
+        }
+      ]
+    },
+    {
+      "sid": "s000154",
+      "globalOffset": 4786,
+      "charCount": 33,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "山も"
+        },
+        {
+          "type": "ruby",
+          "base": "樹",
+          "ruby": "き"
+        },
+        {
+          "type": "text",
+          "value": "も月も露も、一匹の虎が怒り狂って、"
+        },
+        {
+          "type": "ruby",
+          "base": "哮",
+          "ruby": "たけ"
+        },
+        {
+          "type": "text",
+          "value": "っているとしか考えない。"
+        }
+      ]
+    },
+    {
+      "sid": "s000155",
+      "globalOffset": 4819,
+      "charCount": 33,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "天に躍り地に伏して嘆いても、誰一人己の気持を分ってくれる者はない。"
+        }
+      ]
+    },
+    {
+      "sid": "s000156",
+      "globalOffset": 4852,
+      "charCount": 38,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "ちょうど、人間だった頃、己の傷つき"
+        },
+        {
+          "type": "ruby",
+          "base": "易",
+          "ruby": "やす"
+        },
+        {
+          "type": "text",
+          "value": "い内心を誰も理解してくれなかったように。"
+        }
+      ]
+    },
+    {
+      "sid": "s000157",
+      "globalOffset": 4890,
+      "charCount": 24,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "己の毛皮の"
+        },
+        {
+          "type": "ruby",
+          "base": "濡",
+          "ruby": "ぬ"
+        },
+        {
+          "type": "text",
+          "value": "れたのは、夜露のためばかりではない。"
+        }
+      ]
+    },
+    {
+      "sid": "s000158",
+      "globalOffset": 4914,
+      "charCount": 15,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "漸く"
+        },
+        {
+          "type": "ruby",
+          "base": "四辺",
+          "ruby": "あたり"
+        },
+        {
+          "type": "text",
+          "value": "の暗さが薄らいで来た。"
+        }
+      ]
+    },
+    {
+      "sid": "s000159",
+      "globalOffset": 4929,
+      "charCount": 27,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "木の間を伝って、"
+        },
+        {
+          "type": "ruby",
+          "base": "何処",
+          "ruby": "どこ"
+        },
+        {
+          "type": "text",
+          "value": "からか、"
+        },
+        {
+          "type": "ruby",
+          "base": "暁角",
+          "ruby": "ぎょうかく"
+        },
+        {
+          "type": "text",
+          "value": "が哀しげに響き始めた。"
+        }
+      ]
+    },
+    {
+      "sid": "s000160",
+      "globalOffset": 4956,
+      "charCount": 14,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "最早、別れを告げねばならぬ。"
+        }
+      ]
+    },
+    {
+      "sid": "s000161",
+      "globalOffset": 4970,
+      "charCount": 41,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "酔わねばならぬ時が、（虎に還らねばならぬ時が）近づいたから、と、李徴の声が言った。"
+        }
+      ]
+    },
+    {
+      "sid": "s000162",
+      "globalOffset": 5011,
+      "charCount": 20,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "だが、お別れする前にもう一つ頼みがある。"
+        }
+      ]
+    },
+    {
+      "sid": "s000163",
+      "globalOffset": 5031,
+      "charCount": 12,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "それは我が妻子のことだ。"
+        }
+      ]
+    },
+    {
+      "sid": "s000164",
+      "globalOffset": 5043,
+      "charCount": 10,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "ruby",
+          "base": "彼等",
+          "ruby": "かれら"
+        },
+        {
+          "type": "text",
+          "value": "は"
+        },
+        {
+          "type": "ruby",
+          "base": "未",
+          "ruby": "ま"
+        },
+        {
+          "type": "text",
+          "value": "だ"
+        },
+        {
+          "type": "ruby",
+          "base": "略",
+          "ruby": "かくりゃく"
+        },
+        {
+          "type": "text",
+          "value": "にいる。"
+        }
+      ]
+    },
+    {
+      "sid": "s000165",
+      "globalOffset": 5053,
+      "charCount": 20,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "固より、己の運命に就いては知る"
+        },
+        {
+          "type": "ruby",
+          "base": "筈",
+          "ruby": "はず"
+        },
+        {
+          "type": "text",
+          "value": "がない。"
+        }
+      ]
+    },
+    {
+      "sid": "s000166",
+      "globalOffset": 5073,
+      "charCount": 33,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "君が南から帰ったら、己は既に死んだと彼等に告げて貰えないだろうか。"
+        }
+      ]
+    },
+    {
+      "sid": "s000167",
+      "globalOffset": 5106,
+      "charCount": 21,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "決して今日のことだけは明かさないで欲しい。"
+        }
+      ]
+    },
+    {
+      "sid": "s000168",
+      "globalOffset": 5127,
+      "charCount": 72,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "厚かましいお願だが、彼等の孤弱を"
+        },
+        {
+          "type": "ruby",
+          "base": "憐",
+          "ruby": "あわ"
+        },
+        {
+          "type": "text",
+          "value": "れんで、今後とも"
+        },
+        {
+          "type": "ruby",
+          "base": "道塗",
+          "ruby": "どうと"
+        },
+        {
+          "type": "text",
+          "value": "に"
+        },
+        {
+          "type": "ruby",
+          "base": "飢凍",
+          "ruby": "きとう"
+        },
+        {
+          "type": "text",
+          "value": "することのないように計らって戴けるならば、自分にとって、"
+        },
+        {
+          "type": "ruby",
+          "base": "恩倖",
+          "ruby": "おんこう"
+        },
+        {
+          "type": "text",
+          "value": "、これに過ぎたるは"
+        },
+        {
+          "type": "ruby",
+          "base": "莫",
+          "ruby": "な"
+        },
+        {
+          "type": "text",
+          "value": "い。"
+        }
+      ]
+    },
+    {
+      "sid": "s000169",
+      "globalOffset": 5199,
+      "charCount": 18,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "言終って、叢中から"
+        },
+        {
+          "type": "ruby",
+          "base": "慟哭",
+          "ruby": "どうこく"
+        },
+        {
+          "type": "text",
+          "value": "の声が聞えた。"
+        }
+      ]
+    },
+    {
+      "sid": "s000170",
+      "globalOffset": 5217,
+      "charCount": 27,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "袁もまた涙を"
+        },
+        {
+          "type": "ruby",
+          "base": "泛",
+          "ruby": "うか"
+        },
+        {
+          "type": "text",
+          "value": "べ、"
+        },
+        {
+          "type": "ruby",
+          "base": "欣",
+          "ruby": "よろこ"
+        },
+        {
+          "type": "text",
+          "value": "んで李徴の意に"
+        },
+        {
+          "type": "ruby",
+          "base": "副",
+          "ruby": "そ"
+        },
+        {
+          "type": "text",
+          "value": "いたい"
+        },
+        {
+          "type": "ruby",
+          "base": "旨",
+          "ruby": "むね"
+        },
+        {
+          "type": "text",
+          "value": "を答えた。"
+        }
+      ]
+    },
+    {
+      "sid": "s000171",
+      "globalOffset": 5244,
+      "charCount": 29,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "李徴の声はしかし"
+        },
+        {
+          "type": "ruby",
+          "base": "忽",
+          "ruby": "たちま"
+        },
+        {
+          "type": "text",
+          "value": "ち又先刻の自嘲的な調子に"
+        },
+        {
+          "type": "ruby",
+          "base": "戻",
+          "ruby": "もど"
+        },
+        {
+          "type": "text",
+          "value": "って、言った。"
+        }
+      ]
+    },
+    {
+      "sid": "s000172",
+      "globalOffset": 5273,
+      "charCount": 37,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "本当は、"
+        },
+        {
+          "type": "ruby",
+          "base": "先",
+          "ruby": "ま"
+        },
+        {
+          "type": "text",
+          "value": "ず、この事の方を先にお願いすべきだったのだ、己が人間だったなら。"
+        }
+      ]
+    },
+    {
+      "sid": "s000173",
+      "globalOffset": 5310,
+      "charCount": 55,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "飢え凍えようとする妻子のことよりも、"
+        },
+        {
+          "type": "ruby",
+          "base": "己",
+          "ruby": "おのれ"
+        },
+        {
+          "type": "text",
+          "value": "の乏しい詩業の方を気にかけているような男だから、こんな獣に身を"
+        },
+        {
+          "type": "ruby",
+          "base": "堕",
+          "ruby": "おと"
+        },
+        {
+          "type": "text",
+          "value": "すのだ。"
+        }
+      ]
+    },
+    {
+      "sid": "s000174",
+      "globalOffset": 5365,
+      "charCount": 76,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "そうして、"
+        },
+        {
+          "type": "ruby",
+          "base": "附加",
+          "ruby": "つけくわ"
+        },
+        {
+          "type": "text",
+          "value": "えて言うことに、袁が嶺南からの帰途には決してこの"
+        },
+        {
+          "type": "ruby",
+          "base": "途",
+          "ruby": "みち"
+        },
+        {
+          "type": "text",
+          "value": "を通らないで欲しい、その時には自分が酔っていて"
+        },
+        {
+          "type": "ruby",
+          "base": "故人",
+          "ruby": "とも"
+        },
+        {
+          "type": "text",
+          "value": "を認めずに襲いかかるかも知れないから。"
+        }
+      ]
+    },
+    {
+      "sid": "s000175",
+      "globalOffset": 5441,
+      "charCount": 44,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "又、今別れてから、前方百歩の所にある、あの丘に上ったら、"
+        },
+        {
+          "type": "ruby",
+          "base": "此方",
+          "ruby": "こちら"
+        },
+        {
+          "type": "text",
+          "value": "を振りかえって見て貰いたい。"
+        }
+      ]
+    },
+    {
+      "sid": "s000176",
+      "globalOffset": 5485,
+      "charCount": 19,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "自分は今の姿をもう一度お目に掛けよう。"
+        }
+      ]
+    },
+    {
+      "sid": "s000177",
+      "globalOffset": 5504,
+      "charCount": 13,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "勇に誇ろうとしてではない。"
+        }
+      ]
+    },
+    {
+      "sid": "s000178",
+      "globalOffset": 5517,
+      "charCount": 46,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "我が醜悪な姿を示して、"
+        },
+        {
+          "type": "ruby",
+          "base": "以",
+          "ruby": "もっ"
+        },
+        {
+          "type": "text",
+          "value": "て、再び"
+        },
+        {
+          "type": "ruby",
+          "base": "此処",
+          "ruby": "ここ"
+        },
+        {
+          "type": "text",
+          "value": "を過ぎて自分に会おうとの気持を君に起させない為であると。"
+        }
+      ]
+    },
+    {
+      "sid": "s000179",
+      "globalOffset": 5563,
+      "charCount": 26,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "袁は叢に向って、"
+        },
+        {
+          "type": "ruby",
+          "base": "懇",
+          "ruby": "ねんご"
+        },
+        {
+          "type": "text",
+          "value": "ろに別れの言葉を述べ、馬に上った。"
+        }
+      ]
+    },
+    {
+      "sid": "s000180",
+      "globalOffset": 5589,
+      "charCount": 26,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "叢の中からは、又、"
+        },
+        {
+          "type": "ruby",
+          "base": "堪",
+          "ruby": "た"
+        },
+        {
+          "type": "text",
+          "value": "え得ざるが如き"
+        },
+        {
+          "type": "ruby",
+          "base": "悲泣",
+          "ruby": "ひきゅう"
+        },
+        {
+          "type": "text",
+          "value": "の声が"
+        },
+        {
+          "type": "ruby",
+          "base": "洩",
+          "ruby": "も"
+        },
+        {
+          "type": "text",
+          "value": "れた。"
+        }
+      ]
+    },
+    {
+      "sid": "s000181",
+      "globalOffset": 5615,
+      "charCount": 23,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "袁も幾度か叢を振返りながら、涙の中に出発した。"
+        }
+      ]
+    },
+    {
+      "sid": "s000182",
+      "globalOffset": 5638,
+      "charCount": 41,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "一行が丘の上についた時、彼等は、言われた通りに振返って、先程の林間の草地を"
+        },
+        {
+          "type": "ruby",
+          "base": "眺",
+          "ruby": "なが"
+        },
+        {
+          "type": "text",
+          "value": "めた。"
+        }
+      ]
+    },
+    {
+      "sid": "s000183",
+      "globalOffset": 5679,
+      "charCount": 30,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "忽ち、一匹の虎が草の茂みから道の上に躍り出たのを彼等は見た。"
+        }
+      ]
+    },
+    {
+      "sid": "s000184",
+      "globalOffset": 5709,
+      "charCount": 56,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "虎は、既に白く光を失った月を仰いで、二声三声"
+        },
+        {
+          "type": "ruby",
+          "base": "咆哮",
+          "ruby": "ほうこう"
+        },
+        {
+          "type": "text",
+          "value": "したかと思うと、又、元の叢に躍り入って、再びその姿を見なかった。"
+        }
+      ]
+    }
+  ]
+}

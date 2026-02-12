@@ -1,0 +1,1457 @@
+{
+  "version": "rb-content-1.1",
+  "generator": "converter 4.5",
+  "contentHash": "fbd44c86545dce629f50bfb6ba066770",
+  "id": "kumono_ito",
+  "title": "蜘蛛の糸",
+  "author": "芥川龍之介",
+  "charCount": 2848,
+  "readingTimeMinutes": 8,
+  "headings": [
+    {
+      "level": 2,
+      "title": "一",
+      "index": 0
+    },
+    {
+      "level": 2,
+      "title": "二",
+      "index": 16
+    },
+    {
+      "level": 2,
+      "title": "三",
+      "index": 56
+    }
+  ],
+  "source": {
+    "credits": "底本：「芥川龍之介全集2」ちくま文庫、筑摩書房\n　　　1986（昭和61）年10月28日第1刷発行\n　　　1996（平成8）年7月15日第11刷発行\n親本：筑摩全集類聚版芥川龍之介全集\n　　　1971（昭和46）年3月〜11月\n入力：平山誠、野口英司\n校正：もりみつじゅんじ\n1997年11月10日公開\n2011年1月28日修正\n青空文庫作成ファイル：\nこのファイルは、インターネットの図書館、青空文庫（http://www.aozora.gr.jp/）で作られました。入力、校正、制作にあたったのは、ボランティアの皆さんです。"
+  },
+  "sentences": [
+    {
+      "sid": "s000001",
+      "globalOffset": 0,
+      "charCount": 12,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "ある日の事でございます。"
+        }
+      ]
+    },
+    {
+      "sid": "s000002",
+      "globalOffset": 12,
+      "charCount": 39,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "ruby",
+          "base": "御釈迦様",
+          "ruby": "おしゃかさま"
+        },
+        {
+          "type": "text",
+          "value": "は極楽の"
+        },
+        {
+          "type": "ruby",
+          "base": "蓮池",
+          "ruby": "はすいけ"
+        },
+        {
+          "type": "text",
+          "value": "のふちを、独りでぶらぶら御歩きになっていらっしゃいました。"
+        }
+      ]
+    },
+    {
+      "sid": "s000003",
+      "globalOffset": 51,
+      "charCount": 71,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "池の中に咲いている"
+        },
+        {
+          "type": "ruby",
+          "base": "蓮",
+          "ruby": "はす"
+        },
+        {
+          "type": "text",
+          "value": "の花は、みんな玉のようにまっ白で、そのまん中にある"
+        },
+        {
+          "type": "ruby",
+          "base": "金色",
+          "ruby": "きんいろ"
+        },
+        {
+          "type": "text",
+          "value": "の"
+        },
+        {
+          "type": "ruby",
+          "base": "蕊",
+          "ruby": "ずい"
+        },
+        {
+          "type": "text",
+          "value": "からは、何とも云えない"
+        },
+        {
+          "type": "ruby",
+          "base": "好",
+          "ruby": "よ"
+        },
+        {
+          "type": "text",
+          "value": "い"
+        },
+        {
+          "type": "ruby",
+          "base": "匂",
+          "ruby": "におい"
+        },
+        {
+          "type": "text",
+          "value": "が、"
+        },
+        {
+          "type": "ruby",
+          "base": "絶間",
+          "ruby": "たえま"
+        },
+        {
+          "type": "text",
+          "value": "なくあたりへ"
+        },
+        {
+          "type": "ruby",
+          "base": "溢",
+          "ruby": "あふ"
+        },
+        {
+          "type": "text",
+          "value": "れて居ります。"
+        }
+      ]
+    },
+    {
+      "sid": "s000004",
+      "globalOffset": 122,
+      "charCount": 17,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "極楽は丁度朝なのでございましょう。"
+        }
+      ]
+    },
+    {
+      "sid": "s000005",
+      "globalOffset": 139,
+      "charCount": 56,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "やがて御釈迦様はその池のふちに"
+        },
+        {
+          "type": "ruby",
+          "base": "御佇",
+          "ruby": "おたたず"
+        },
+        {
+          "type": "text",
+          "value": "みになって、水の"
+        },
+        {
+          "type": "ruby",
+          "base": "面",
+          "ruby": "おもて"
+        },
+        {
+          "type": "text",
+          "value": "を"
+        },
+        {
+          "type": "ruby",
+          "base": "蔽",
+          "ruby": "おお"
+        },
+        {
+          "type": "text",
+          "value": "っている蓮の葉の間から、ふと下の"
+        },
+        {
+          "type": "ruby",
+          "base": "容子",
+          "ruby": "ようす"
+        },
+        {
+          "type": "text",
+          "value": "を御覧になりました。"
+        }
+      ]
+    },
+    {
+      "sid": "s000006",
+      "globalOffset": 195,
+      "charCount": 84,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "この極楽の蓮池の下は、丁度"
+        },
+        {
+          "type": "ruby",
+          "base": "地獄",
+          "ruby": "じごく"
+        },
+        {
+          "type": "text",
+          "value": "の底に当って居りますから、"
+        },
+        {
+          "type": "ruby",
+          "base": "水晶",
+          "ruby": "すいしよう"
+        },
+        {
+          "type": "text",
+          "value": "のような水を透き徹して、"
+        },
+        {
+          "type": "ruby",
+          "base": "三途",
+          "ruby": "さんず"
+        },
+        {
+          "type": "text",
+          "value": "の河や針の山の景色が、丁度"
+        },
+        {
+          "type": "ruby",
+          "base": "覗",
+          "ruby": "のぞ"
+        },
+        {
+          "type": "text",
+          "value": "き"
+        },
+        {
+          "type": "ruby",
+          "base": "眼鏡",
+          "ruby": "めがね"
+        },
+        {
+          "type": "text",
+          "value": "を見るように、はっきりと見えるのでございます。"
+        }
+      ]
+    },
+    {
+      "sid": "s000007",
+      "globalOffset": 279,
+      "charCount": 49,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "するとその地獄の底に、"
+        },
+        {
+          "type": "ruby",
+          "base": "陀多",
+          "ruby": "かんだた"
+        },
+        {
+          "type": "text",
+          "value": "と云う男が一人、ほかの罪人と一しょに"
+        },
+        {
+          "type": "ruby",
+          "base": "蠢",
+          "ruby": "うごめ"
+        },
+        {
+          "type": "text",
+          "value": "いている姿が、御眼に止まりました。"
+        }
+      ]
+    },
+    {
+      "sid": "s000008",
+      "globalOffset": 328,
+      "charCount": 72,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "この陀多と云う男は、人を殺したり家に火をつけたり、いろいろ悪事を働いた大泥坊でございますが、それでもたった一つ、善い事を致した覚えがございます。"
+        }
+      ]
+    },
+    {
+      "sid": "s000009",
+      "globalOffset": 400,
+      "charCount": 53,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "と申しますのは、ある時この男が深い林の中を通りますと、小さな"
+        },
+        {
+          "type": "ruby",
+          "base": "蜘蛛",
+          "ruby": "くも"
+        },
+        {
+          "type": "text",
+          "value": "が一匹、路ばたを"
+        },
+        {
+          "type": "ruby",
+          "base": "這",
+          "ruby": "は"
+        },
+        {
+          "type": "text",
+          "value": "って行くのが見えました。"
+        }
+      ]
+    },
+    {
+      "sid": "s000010",
+      "globalOffset": 453,
+      "charCount": 56,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "そこで陀多は早速足を挙げて、踏み殺そうと致しましたが、"
+        },
+        {
+          "type": "text",
+          "value": "「"
+        },
+        {
+          "type": "quote",
+          "value": [
+            {
+              "type": "text",
+              "value": "いや、いや、これも小さいながら、命のあるものに違いない。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sid": "s000011",
+      "globalOffset": 509,
+      "charCount": 28,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "quote",
+          "value": [
+            {
+              "type": "text",
+              "value": "その命を"
+            },
+            {
+              "type": "ruby",
+              "base": "無暗",
+              "ruby": "むやみ"
+            },
+            {
+              "type": "text",
+              "value": "にとると云う事は、いくら何でも可哀そうだ。"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "value": "」"
+        }
+      ]
+    },
+    {
+      "sid": "s000012",
+      "globalOffset": 537,
+      "charCount": 40,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "と、こう急に思い返して、とうとうその蜘蛛を殺さずに助けてやったからでございます。"
+        }
+      ]
+    },
+    {
+      "sid": "s000013",
+      "globalOffset": 577,
+      "charCount": 50,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "御釈迦様は地獄の容子を御覧になりながら、この陀多には蜘蛛を助けた事があるのを御思い出しになりました。"
+        }
+      ]
+    },
+    {
+      "sid": "s000014",
+      "globalOffset": 627,
+      "charCount": 52,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "そうしてそれだけの善い事をした"
+        },
+        {
+          "type": "ruby",
+          "base": "報",
+          "ruby": "むくい"
+        },
+        {
+          "type": "text",
+          "value": "には、出来るなら、この男を地獄から救い出してやろうと御考えになりました。"
+        }
+      ]
+    },
+    {
+      "sid": "s000015",
+      "globalOffset": 679,
+      "charCount": 52,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "幸い、側を見ますと、"
+        },
+        {
+          "type": "ruby",
+          "base": "翡翠",
+          "ruby": "ひすい"
+        },
+        {
+          "type": "text",
+          "value": "のような色をした蓮の葉の上に、極楽の蜘蛛が一匹、美しい銀色の糸をかけて居ります。"
+        }
+      ]
+    },
+    {
+      "sid": "s000016",
+      "globalOffset": 731,
+      "charCount": 68,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "御釈迦様はその蜘蛛の糸をそっと御手に御取りになって、玉のような"
+        },
+        {
+          "type": "ruby",
+          "base": "白蓮",
+          "ruby": "しらはす"
+        },
+        {
+          "type": "text",
+          "value": "の間から、遥か下にある地獄の底へ、まっすぐにそれを御"
+        },
+        {
+          "type": "ruby",
+          "base": "下",
+          "ruby": "おろ"
+        },
+        {
+          "type": "text",
+          "value": "しなさいました。"
+        }
+      ]
+    },
+    {
+      "sid": "s000017",
+      "globalOffset": 799,
+      "charCount": 46,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "こちらは地獄の底の血の池で、ほかの罪人と一しょに、浮いたり沈んだりしていた"
+        },
+        {
+          "type": "ruby",
+          "base": "陀多",
+          "ruby": "かんだた"
+        },
+        {
+          "type": "text",
+          "value": "でございます。"
+        }
+      ]
+    },
+    {
+      "sid": "s000018",
+      "globalOffset": 845,
+      "charCount": 90,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "何しろどちらを見ても、まっ暗で、たまにそのくら暗からぼんやり浮き上っているものがあると思いますと、それは恐しい針の山の針が光るのでございますから、その心細さと云ったらございません。"
+        }
+      ]
+    },
+    {
+      "sid": "s000019",
+      "globalOffset": 935,
+      "charCount": 59,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "その上あたりは墓の中のようにしんと静まり返って、たまに聞えるものと云っては、ただ罪人がつく"
+        },
+        {
+          "type": "ruby",
+          "base": "微",
+          "ruby": "かすか"
+        },
+        {
+          "type": "text",
+          "value": "な"
+        },
+        {
+          "type": "ruby",
+          "base": "嘆息",
+          "ruby": "たんそく"
+        },
+        {
+          "type": "text",
+          "value": "ばかりでございます。"
+        }
+      ]
+    },
+    {
+      "sid": "s000020",
+      "globalOffset": 994,
+      "charCount": 62,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "これはここへ落ちて来るほどの人間は、もうさまざまな地獄の"
+        },
+        {
+          "type": "ruby",
+          "base": "責苦",
+          "ruby": "せめく"
+        },
+        {
+          "type": "text",
+          "value": "に疲れはてて、泣声を出す力さえなくなっているのでございましょう。"
+        }
+      ]
+    },
+    {
+      "sid": "s000021",
+      "globalOffset": 1056,
+      "charCount": 60,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "ですからさすが大泥坊の陀多も、やはり血の池の血に"
+        },
+        {
+          "type": "ruby",
+          "base": "咽",
+          "ruby": "むせ"
+        },
+        {
+          "type": "text",
+          "value": "びながら、まるで死にかかった"
+        },
+        {
+          "type": "ruby",
+          "base": "蛙",
+          "ruby": "かわず"
+        },
+        {
+          "type": "text",
+          "value": "のように、ただもがいてばかり居りました。"
+        }
+      ]
+    },
+    {
+      "sid": "s000022",
+      "globalOffset": 1116,
+      "charCount": 16,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "ところがある時の事でございます。"
+        }
+      ]
+    },
+    {
+      "sid": "s000023",
+      "globalOffset": 1132,
+      "charCount": 112,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "ruby",
+          "base": "何気",
+          "ruby": "なにげ"
+        },
+        {
+          "type": "text",
+          "value": "なく陀多が頭を挙げて、血の池の空を眺めますと、そのひっそりとした暗の中を、遠い遠い天上から、銀色の"
+        },
+        {
+          "type": "ruby",
+          "base": "蜘蛛",
+          "ruby": "くも"
+        },
+        {
+          "type": "text",
+          "value": "の糸が、まるで人目にかかるのを恐れるように、一すじ細く光りながら、するすると自分の上へ垂れて参るのではございませんか。"
+        }
+      ]
+    },
+    {
+      "sid": "s000024",
+      "globalOffset": 1244,
+      "charCount": 24,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "陀多はこれを見ると、思わず手を"
+        },
+        {
+          "type": "ruby",
+          "base": "拍",
+          "ruby": "う"
+        },
+        {
+          "type": "text",
+          "value": "って喜びました。"
+        }
+      ]
+    },
+    {
+      "sid": "s000025",
+      "globalOffset": 1268,
+      "charCount": 46,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "この糸に"
+        },
+        {
+          "type": "ruby",
+          "base": "縋",
+          "ruby": "すが"
+        },
+        {
+          "type": "text",
+          "value": "りついて、どこまでものぼって行けば、きっと地獄からぬけ出せるのに相違ございません。"
+        }
+      ]
+    },
+    {
+      "sid": "s000026",
+      "globalOffset": 1314,
+      "charCount": 27,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "いや、うまく行くと、極楽へはいる事さえも出来ましょう。"
+        }
+      ]
+    },
+    {
+      "sid": "s000027",
+      "globalOffset": 1341,
+      "charCount": 49,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "そうすれば、もう針の山へ追い上げられる事もなくなれば、血の池に沈められる事もある筈はございません。"
+        }
+      ]
+    },
+    {
+      "sid": "s000028",
+      "globalOffset": 1390,
+      "charCount": 59,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "こう思いましたから"
+        },
+        {
+          "type": "ruby",
+          "base": "陀多",
+          "ruby": "かんだた"
+        },
+        {
+          "type": "text",
+          "value": "は、早速その蜘蛛の糸を両手でしっかりとつかみながら、一生懸命に上へ上へとたぐりのぼり始めました。"
+        }
+      ]
+    },
+    {
+      "sid": "s000029",
+      "globalOffset": 1449,
+      "charCount": 43,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "元より大泥坊の事でございますから、こう云う事には昔から、慣れ切っているのでございます。"
+        }
+      ]
+    },
+    {
+      "sid": "s000030",
+      "globalOffset": 1492,
+      "charCount": 51,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "しかし地獄と極楽との間は、何万里となくございますから、いくら"
+        },
+        {
+          "type": "ruby",
+          "base": "焦",
+          "ruby": "あせ"
+        },
+        {
+          "type": "text",
+          "value": "って見た所で、容易に上へは出られません。"
+        }
+      ]
+    },
+    {
+      "sid": "s000031",
+      "globalOffset": 1543,
+      "charCount": 52,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "ややしばらくのぼる"
+        },
+        {
+          "type": "ruby",
+          "base": "中",
+          "ruby": "うち"
+        },
+        {
+          "type": "text",
+          "value": "に、とうとう陀多もくたびれて、もう一たぐりも上の方へはのぼれなくなってしまいました。"
+        }
+      ]
+    },
+    {
+      "sid": "s000032",
+      "globalOffset": 1595,
+      "charCount": 54,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "そこで仕方がございませんから、まず一休み休むつもりで、糸の中途にぶら下りながら、遥かに目の下を見下しました。"
+        }
+      ]
+    },
+    {
+      "sid": "s000033",
+      "globalOffset": 1649,
+      "charCount": 59,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "すると、一生懸命にのぼった甲斐があって、さっきまで自分がいた血の池は、今ではもう暗の底にいつの間にかかくれて居ります。"
+        }
+      ]
+    },
+    {
+      "sid": "s000034",
+      "globalOffset": 1708,
+      "charCount": 37,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "それからあのぼんやり光っている恐しい針の山も、足の下になってしまいました。"
+        }
+      ]
+    },
+    {
+      "sid": "s000035",
+      "globalOffset": 1745,
+      "charCount": 38,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "この分でのぼって行けば、地獄からぬけ出すのも、存外わけがないかも知れません。"
+        }
+      ]
+    },
+    {
+      "sid": "s000036",
+      "globalOffset": 1783,
+      "charCount": 44,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "陀多は両手を蜘蛛の糸にからみながら、ここへ来てから何年にも出した事のない声で、"
+        },
+        {
+          "type": "text",
+          "value": "「"
+        },
+        {
+          "type": "quote",
+          "value": [
+            {
+              "type": "text",
+              "value": "しめた。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sid": "s000037",
+      "globalOffset": 1827,
+      "charCount": 5,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "quote",
+          "value": [
+            {
+              "type": "text",
+              "value": "しめた。"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "value": "」"
+        }
+      ]
+    },
+    {
+      "sid": "s000038",
+      "globalOffset": 1832,
+      "charCount": 7,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "と笑いました。"
+        }
+      ]
+    },
+    {
+      "sid": "s000039",
+      "globalOffset": 1839,
+      "charCount": 89,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "ところがふと気がつきますと、蜘蛛の糸の下の方には、"
+        },
+        {
+          "type": "ruby",
+          "base": "数限",
+          "ruby": "かずかぎり"
+        },
+        {
+          "type": "text",
+          "value": "もない罪人たちが、自分ののぼった後をつけて、まるで"
+        },
+        {
+          "type": "ruby",
+          "base": "蟻",
+          "ruby": "あり"
+        },
+        {
+          "type": "text",
+          "value": "の行列のように、やはり上へ上へ一心によじのぼって来るではございませんか。"
+        }
+      ]
+    },
+    {
+      "sid": "s000040",
+      "globalOffset": 1928,
+      "charCount": 61,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "陀多はこれを見ると、驚いたのと恐しいのとで、しばらくはただ、"
+        },
+        {
+          "type": "ruby",
+          "base": "莫迦",
+          "ruby": "ばか"
+        },
+        {
+          "type": "text",
+          "value": "のように大きな口を"
+        },
+        {
+          "type": "ruby",
+          "base": "開",
+          "ruby": "あ"
+        },
+        {
+          "type": "text",
+          "value": "いたまま、眼ばかり動かして居りました。"
+        }
+      ]
+    },
+    {
+      "sid": "s000041",
+      "globalOffset": 1989,
+      "charCount": 50,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "自分一人でさえ"
+        },
+        {
+          "type": "ruby",
+          "base": "断",
+          "ruby": "き"
+        },
+        {
+          "type": "text",
+          "value": "れそうな、この細い蜘蛛の糸が、どうしてあれだけの"
+        },
+        {
+          "type": "ruby",
+          "base": "人数",
+          "ruby": "にんず"
+        },
+        {
+          "type": "text",
+          "value": "の重みに堪える事が出来ましょう。"
+        }
+      ]
+    },
+    {
+      "sid": "s000042",
+      "globalOffset": 2039,
+      "charCount": 67,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "もし万一途中で"
+        },
+        {
+          "type": "ruby",
+          "base": "断",
+          "ruby": "き"
+        },
+        {
+          "type": "text",
+          "value": "れたと致しましたら、折角ここへまでのぼって来たこの"
+        },
+        {
+          "type": "ruby",
+          "base": "肝腎",
+          "ruby": "かんじん"
+        },
+        {
+          "type": "text",
+          "value": "な自分までも、元の地獄へ"
+        },
+        {
+          "type": "ruby",
+          "base": "逆落",
+          "ruby": "さかおと"
+        },
+        {
+          "type": "text",
+          "value": "しに落ちてしまわなければなりません。"
+        }
+      ]
+    },
+    {
+      "sid": "s000043",
+      "globalOffset": 2106,
+      "charCount": 19,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "そんな事があったら、大変でございます。"
+        }
+      ]
+    },
+    {
+      "sid": "s000044",
+      "globalOffset": 2125,
+      "charCount": 84,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "が、そう云う中にも、罪人たちは何百となく何千となく、まっ暗な血の池の底から、うようよと"
+        },
+        {
+          "type": "ruby",
+          "base": "這",
+          "ruby": "は"
+        },
+        {
+          "type": "text",
+          "value": "い上って、細く光っている蜘蛛の糸を、一列になりながら、せっせとのぼって参ります。"
+        }
+      ]
+    },
+    {
+      "sid": "s000045",
+      "globalOffset": 2209,
+      "charCount": 43,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "今の中にどうかしなければ、糸はまん中から二つに断れて、落ちてしまうのに違いありません。"
+        }
+      ]
+    },
+    {
+      "sid": "s000046",
+      "globalOffset": 2252,
+      "charCount": 24,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "そこで陀多は大きな声を出して、"
+        },
+        {
+          "type": "text",
+          "value": "「"
+        },
+        {
+          "type": "quote",
+          "value": [
+            {
+              "type": "text",
+              "value": "こら、罪人ども。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sid": "s000047",
+      "globalOffset": 2276,
+      "charCount": 14,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "quote",
+          "value": [
+            {
+              "type": "text",
+              "value": "この蜘蛛の糸は"
+            },
+            {
+              "type": "ruby",
+              "base": "己",
+              "ruby": "おれ"
+            },
+            {
+              "type": "text",
+              "value": "のものだぞ。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sid": "s000048",
+      "globalOffset": 2290,
+      "charCount": 20,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "quote",
+          "value": [
+            {
+              "type": "text",
+              "value": "お前たちは一体誰に"
+            },
+            {
+              "type": "ruby",
+              "base": "尋",
+              "ruby": "き"
+            },
+            {
+              "type": "text",
+              "value": "いて、のぼって来た。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sid": "s000049",
+      "globalOffset": 2310,
+      "charCount": 4,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "quote",
+          "value": [
+            {
+              "type": "text",
+              "value": "下りろ。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sid": "s000050",
+      "globalOffset": 2314,
+      "charCount": 5,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "quote",
+          "value": [
+            {
+              "type": "text",
+              "value": "下りろ。"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "value": "」"
+        }
+      ]
+    },
+    {
+      "sid": "s000051",
+      "globalOffset": 2319,
+      "charCount": 7,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "と"
+        },
+        {
+          "type": "ruby",
+          "base": "喚",
+          "ruby": "わめ"
+        },
+        {
+          "type": "text",
+          "value": "きました。"
+        }
+      ]
+    },
+    {
+      "sid": "s000052",
+      "globalOffset": 2326,
+      "charCount": 11,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "その途端でございます。"
+        }
+      ]
+    },
+    {
+      "sid": "s000053",
+      "globalOffset": 2337,
+      "charCount": 47,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "今まで何ともなかった蜘蛛の糸が、急に陀多のぶら下っている所から、ぷつりと音を立てて"
+        },
+        {
+          "type": "ruby",
+          "base": "断",
+          "ruby": "き"
+        },
+        {
+          "type": "text",
+          "value": "れました。"
+        }
+      ]
+    },
+    {
+      "sid": "s000054",
+      "globalOffset": 2384,
+      "charCount": 14,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "ですから陀多もたまりません。"
+        }
+      ]
+    },
+    {
+      "sid": "s000055",
+      "globalOffset": 2398,
+      "charCount": 60,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "あっと云う"
+        },
+        {
+          "type": "ruby",
+          "base": "間",
+          "ruby": "ま"
+        },
+        {
+          "type": "text",
+          "value": "もなく風を切って、"
+        },
+        {
+          "type": "ruby",
+          "base": "独楽",
+          "ruby": "こま"
+        },
+        {
+          "type": "text",
+          "value": "のようにくるくるまわりながら、見る見る中に暗の底へ、まっさかさまに落ちてしまいました。"
+        }
+      ]
+    },
+    {
+      "sid": "s000056",
+      "globalOffset": 2458,
+      "charCount": 56,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "後にはただ極楽の蜘蛛の糸が、きらきらと細く光りながら、月も星もない空の中途に、短く垂れているばかりでございます。"
+        }
+      ]
+    },
+    {
+      "sid": "s000057",
+      "globalOffset": 2514,
+      "charCount": 101,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "ruby",
+          "base": "御釈迦様",
+          "ruby": "おしゃかさま"
+        },
+        {
+          "type": "text",
+          "value": "は極楽の"
+        },
+        {
+          "type": "ruby",
+          "base": "蓮池",
+          "ruby": "はすいけ"
+        },
+        {
+          "type": "text",
+          "value": "のふちに立って、この一部"
+        },
+        {
+          "type": "ruby",
+          "base": "始終",
+          "ruby": "しじゅう"
+        },
+        {
+          "type": "text",
+          "value": "をじっと見ていらっしゃいましたが、やがて"
+        },
+        {
+          "type": "ruby",
+          "base": "陀多",
+          "ruby": "かんだた"
+        },
+        {
+          "type": "text",
+          "value": "が血の池の底へ石のように沈んでしまいますと、悲しそうな御顔をなさりながら、またぶらぶら御歩きになり始めました。"
+        }
+      ]
+    },
+    {
+      "sid": "s000058",
+      "globalOffset": 2615,
+      "charCount": 91,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "自分ばかり地獄からぬけ出そうとする、陀多の無慈悲な心が、そうしてその心相当な罰をうけて、元の地獄へ落ちてしまったのが、御釈迦様の御目から見ると、浅間しく思召されたのでございましょう。"
+        }
+      ]
+    },
+    {
+      "sid": "s000059",
+      "globalOffset": 2706,
+      "charCount": 29,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "しかし極楽の蓮池の蓮は、少しもそんな事には"
+        },
+        {
+          "type": "ruby",
+          "base": "頓着",
+          "ruby": "とんじゃく"
+        },
+        {
+          "type": "text",
+          "value": "致しません。"
+        }
+      ]
+    },
+    {
+      "sid": "s000060",
+      "globalOffset": 2735,
+      "charCount": 80,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "その玉のような白い花は、御釈迦様の"
+        },
+        {
+          "type": "ruby",
+          "base": "御足",
+          "ruby": "おみあし"
+        },
+        {
+          "type": "text",
+          "value": "のまわりに、ゆらゆら"
+        },
+        {
+          "type": "ruby",
+          "base": "萼",
+          "ruby": "うてな"
+        },
+        {
+          "type": "text",
+          "value": "を動かして、そのまん中にある金色の"
+        },
+        {
+          "type": "ruby",
+          "base": "蕊",
+          "ruby": "ずい"
+        },
+        {
+          "type": "text",
+          "value": "からは、何とも云えない"
+        },
+        {
+          "type": "ruby",
+          "base": "好",
+          "ruby": "よ"
+        },
+        {
+          "type": "text",
+          "value": "い匂が、"
+        },
+        {
+          "type": "ruby",
+          "base": "絶間",
+          "ruby": "たえま"
+        },
+        {
+          "type": "text",
+          "value": "なくあたりへ"
+        },
+        {
+          "type": "ruby",
+          "base": "溢",
+          "ruby": "あふ"
+        },
+        {
+          "type": "text",
+          "value": "れて居ります。"
+        }
+      ]
+    },
+    {
+      "sid": "s000061",
+      "globalOffset": 2815,
+      "charCount": 22,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "極楽ももう"
+        },
+        {
+          "type": "ruby",
+          "base": "午",
+          "ruby": "ひる"
+        },
+        {
+          "type": "text",
+          "value": "に近くなったのでございましょう。"
+        }
+      ]
+    },
+    {
+      "sid": "s000062",
+      "globalOffset": 2837,
+      "charCount": 11,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "（大正七年四月十六日）"
+        }
+      ]
+    }
+  ]
+}

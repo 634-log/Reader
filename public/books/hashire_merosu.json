@@ -1,0 +1,7891 @@
+{
+  "version": "rb-content-1.1",
+  "generator": "converter 4.5",
+  "contentHash": "0e802a49c12f5b10e5b92477add630f9",
+  "id": "hashire_merosu",
+  "title": "走れメロス",
+  "author": "太宰治",
+  "charCount": 9814,
+  "readingTimeMinutes": 25,
+  "headings": [],
+  "source": {
+    "credits": "底本：「太宰治全集3」ちくま文庫、筑摩書房\n　　　1988（昭和63）年10月25日初版発行\n　　　1998（平成10）年6月15日第2刷\n底本の親本：「筑摩全集類聚版太宰治全集」筑摩書房\n　　　1975（昭和50）年6月〜1976（昭和51）年6月\n入力：金川一之\n校正：高橋美奈子\n2000年12月4日公開\n2011年1月17日修正\n青空文庫作成ファイル：\nこのファイルは、インターネットの図書館、青空文庫（http://www.aozora.gr.jp/）で作られました。入力、校正、制作にあたったのは、ボランティアの皆さんです。"
+  },
+  "sentences": [
+    {
+      "sid": "s000001",
+      "globalOffset": 0,
+      "charCount": 9,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "メロスは激怒した。"
+        }
+      ]
+    },
+    {
+      "sid": "s000002",
+      "globalOffset": 9,
+      "charCount": 27,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "必ず、かの"
+        },
+        {
+          "type": "ruby",
+          "base": "邪智暴虐",
+          "ruby": "じゃちぼうぎゃく"
+        },
+        {
+          "type": "text",
+          "value": "の王を除かなければならぬと決意した。"
+        }
+      ]
+    },
+    {
+      "sid": "s000003",
+      "globalOffset": 36,
+      "charCount": 13,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "メロスには政治がわからぬ。"
+        }
+      ]
+    },
+    {
+      "sid": "s000004",
+      "globalOffset": 49,
+      "charCount": 13,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "メロスは、村の牧人である。"
+        }
+      ]
+    },
+    {
+      "sid": "s000005",
+      "globalOffset": 62,
+      "charCount": 16,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "笛を吹き、羊と遊んで暮して来た。"
+        }
+      ]
+    },
+    {
+      "sid": "s000006",
+      "globalOffset": 78,
+      "charCount": 23,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "けれども邪悪に対しては、人一倍に敏感であった。"
+        }
+      ]
+    },
+    {
+      "sid": "s000007",
+      "globalOffset": 101,
+      "charCount": 44,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "きょう未明メロスは村を出発し、野を越え山越え、十里はなれた"
+        },
+        {
+          "type": "ruby",
+          "base": "此",
+          "ruby": "こ"
+        },
+        {
+          "type": "text",
+          "value": "のシラクスの市にやって来た。"
+        }
+      ]
+    },
+    {
+      "sid": "s000008",
+      "globalOffset": 145,
+      "charCount": 13,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "メロスには父も、母も無い。"
+        }
+      ]
+    },
+    {
+      "sid": "s000009",
+      "globalOffset": 158,
+      "charCount": 6,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "女房も無い。"
+        }
+      ]
+    },
+    {
+      "sid": "s000010",
+      "globalOffset": 164,
+      "charCount": 15,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "十六の、内気な妹と二人暮しだ。"
+        }
+      ]
+    },
+    {
+      "sid": "s000011",
+      "globalOffset": 179,
+      "charCount": 36,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "この妹は、村の或る律気な一牧人を、近々、"
+        },
+        {
+          "type": "ruby",
+          "base": "花婿",
+          "ruby": "はなむこ"
+        },
+        {
+          "type": "text",
+          "value": "として迎える事になっていた。"
+        }
+      ]
+    },
+    {
+      "sid": "s000012",
+      "globalOffset": 215,
+      "charCount": 13,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "結婚式も間近かなのである。"
+        }
+      ]
+    },
+    {
+      "sid": "s000013",
+      "globalOffset": 228,
+      "charCount": 44,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "メロスは、それゆえ、花嫁の衣裳やら祝宴の御馳走やらを買いに、はるばる市にやって来たのだ。"
+        }
+      ]
+    },
+    {
+      "sid": "s000014",
+      "globalOffset": 272,
+      "charCount": 30,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "先ず、その品々を買い集め、それから都の大路をぶらぶら歩いた。"
+        }
+      ]
+    },
+    {
+      "sid": "s000015",
+      "globalOffset": 302,
+      "charCount": 14,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "メロスには竹馬の友があった。"
+        }
+      ]
+    },
+    {
+      "sid": "s000016",
+      "globalOffset": 316,
+      "charCount": 12,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "セリヌンティウスである。"
+        }
+      ]
+    },
+    {
+      "sid": "s000017",
+      "globalOffset": 328,
+      "charCount": 20,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "今は此のシラクスの市で、石工をしている。"
+        }
+      ]
+    },
+    {
+      "sid": "s000018",
+      "globalOffset": 348,
+      "charCount": 21,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "その友を、これから訪ねてみるつもりなのだ。"
+        }
+      ]
+    },
+    {
+      "sid": "s000019",
+      "globalOffset": 369,
+      "charCount": 28,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "久しく逢わなかったのだから、訪ねて行くのが楽しみである。"
+        }
+      ]
+    },
+    {
+      "sid": "s000020",
+      "globalOffset": 397,
+      "charCount": 26,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "歩いているうちにメロスは、まちの様子を怪しく思った。"
+        }
+      ]
+    },
+    {
+      "sid": "s000021",
+      "globalOffset": 423,
+      "charCount": 9,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "ひっそりしている。"
+        }
+      ]
+    },
+    {
+      "sid": "s000022",
+      "globalOffset": 432,
+      "charCount": 58,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "もう既に日も落ちて、まちの暗いのは当りまえだが、けれども、なんだか、夜のせいばかりでは無く、市全体が、やけに寂しい。"
+        }
+      ]
+    },
+    {
+      "sid": "s000023",
+      "globalOffset": 490,
+      "charCount": 22,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "のんきなメロスも、だんだん不安になって来た。"
+        }
+      ]
+    },
+    {
+      "sid": "s000024",
+      "globalOffset": 512,
+      "charCount": 70,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "路で逢った若い衆をつかまえて、何かあったのか、二年まえに此の市に来たときは、夜でも皆が歌をうたって、まちは賑やかであった"
+        },
+        {
+          "type": "ruby",
+          "base": "筈",
+          "ruby": "はず"
+        },
+        {
+          "type": "text",
+          "value": "だが、と質問した。"
+        }
+      ]
+    },
+    {
+      "sid": "s000025",
+      "globalOffset": 582,
+      "charCount": 17,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "若い衆は、首を振って答えなかった。"
+        }
+      ]
+    },
+    {
+      "sid": "s000026",
+      "globalOffset": 599,
+      "charCount": 33,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "しばらく歩いて"
+        },
+        {
+          "type": "ruby",
+          "base": "老爺",
+          "ruby": "ろうや"
+        },
+        {
+          "type": "text",
+          "value": "に逢い、こんどはもっと、語勢を強くして質問した。"
+        }
+      ]
+    },
+    {
+      "sid": "s000027",
+      "globalOffset": 632,
+      "charCount": 10,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "老爺は答えなかった。"
+        }
+      ]
+    },
+    {
+      "sid": "s000028",
+      "globalOffset": 642,
+      "charCount": 26,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "メロスは両手で老爺のからだをゆすぶって質問を重ねた。"
+        }
+      ]
+    },
+    {
+      "sid": "s000029",
+      "globalOffset": 668,
+      "charCount": 23,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "老爺は、あたりをはばかる低声で、わずか答えた。"
+        }
+      ]
+    },
+    {
+      "sid": "s000030",
+      "globalOffset": 691,
+      "charCount": 13,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "「"
+        },
+        {
+          "type": "quote",
+          "value": [
+            {
+              "type": "text",
+              "value": "王様は、人を殺します。"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "value": "」"
+        }
+      ]
+    },
+    {
+      "sid": "s000031",
+      "globalOffset": 704,
+      "charCount": 9,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "「"
+        },
+        {
+          "type": "quote",
+          "value": [
+            {
+              "type": "text",
+              "value": "なぜ殺すのだ。"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "value": "」"
+        }
+      ]
+    },
+    {
+      "sid": "s000032",
+      "globalOffset": 713,
+      "charCount": 38,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "「"
+        },
+        {
+          "type": "quote",
+          "value": [
+            {
+              "type": "text",
+              "value": "悪心を抱いている、というのですが、誰もそんな、悪心を持っては居りませぬ。"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "value": "」"
+        }
+      ]
+    },
+    {
+      "sid": "s000033",
+      "globalOffset": 751,
+      "charCount": 15,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "「"
+        },
+        {
+          "type": "quote",
+          "value": [
+            {
+              "type": "text",
+              "value": "たくさんの人を殺したのか。"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "value": "」"
+        }
+      ]
+    },
+    {
+      "sid": "s000034",
+      "globalOffset": 766,
+      "charCount": 17,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "「"
+        },
+        {
+          "type": "quote",
+          "value": [
+            {
+              "type": "text",
+              "value": "はい、はじめは王様の妹婿さまを。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sid": "s000035",
+      "globalOffset": 783,
+      "charCount": 14,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "quote",
+          "value": [
+            {
+              "type": "text",
+              "value": "それから、御自身のお"
+            },
+            {
+              "type": "ruby",
+              "base": "世嗣",
+              "ruby": "よつぎ"
+            },
+            {
+              "type": "text",
+              "value": "を。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sid": "s000036",
+      "globalOffset": 797,
+      "charCount": 10,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "quote",
+          "value": [
+            {
+              "type": "text",
+              "value": "それから、妹さまを。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sid": "s000037",
+      "globalOffset": 807,
+      "charCount": 15,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "quote",
+          "value": [
+            {
+              "type": "text",
+              "value": "それから、妹さまの御子さまを。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sid": "s000038",
+      "globalOffset": 822,
+      "charCount": 11,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "quote",
+          "value": [
+            {
+              "type": "text",
+              "value": "それから、皇后さまを。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sid": "s000039",
+      "globalOffset": 833,
+      "charCount": 16,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "quote",
+          "value": [
+            {
+              "type": "text",
+              "value": "それから、賢臣のアレキス様を。"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "value": "」"
+        }
+      ]
+    },
+    {
+      "sid": "s000040",
+      "globalOffset": 849,
+      "charCount": 7,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "「"
+        },
+        {
+          "type": "quote",
+          "value": [
+            {
+              "type": "text",
+              "value": "おどろいた。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sid": "s000041",
+      "globalOffset": 856,
+      "charCount": 8,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "quote",
+          "value": [
+            {
+              "type": "text",
+              "value": "国王は乱心か。"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "value": "」"
+        }
+      ]
+    },
+    {
+      "sid": "s000042",
+      "globalOffset": 864,
+      "charCount": 16,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "「"
+        },
+        {
+          "type": "quote",
+          "value": [
+            {
+              "type": "text",
+              "value": "いいえ、乱心ではございませぬ。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sid": "s000043",
+      "globalOffset": 880,
+      "charCount": 19,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "quote",
+          "value": [
+            {
+              "type": "text",
+              "value": "人を、信ずる事が出来ぬ、というのです。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sid": "s000044",
+      "globalOffset": 899,
+      "charCount": 59,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "quote",
+          "value": [
+            {
+              "type": "text",
+              "value": "このごろは、臣下の心をも、お疑いになり、少しく派手な暮しをしている者には、人質ひとりずつ差し出すことを命じて居ります。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sid": "s000045",
+      "globalOffset": 958,
+      "charCount": 23,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "quote",
+          "value": [
+            {
+              "type": "text",
+              "value": "御命令を拒めば十字架にかけられて、殺されます。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sid": "s000046",
+      "globalOffset": 981,
+      "charCount": 15,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "quote",
+          "value": [
+            {
+              "type": "text",
+              "value": "きょうは、六人殺されました。"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "value": "」"
+        }
+      ]
+    },
+    {
+      "sid": "s000047",
+      "globalOffset": 996,
+      "charCount": 13,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "聞いて、メロスは激怒した。"
+        }
+      ]
+    },
+    {
+      "sid": "s000048",
+      "globalOffset": 1009,
+      "charCount": 7,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "「"
+        },
+        {
+          "type": "quote",
+          "value": [
+            {
+              "type": "ruby",
+              "base": "呆",
+              "ruby": "あき"
+            },
+            {
+              "type": "text",
+              "value": "れた王だ。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sid": "s000049",
+      "globalOffset": 1016,
+      "charCount": 9,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "quote",
+          "value": [
+            {
+              "type": "text",
+              "value": "生かして置けぬ。"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "value": "」"
+        }
+      ]
+    },
+    {
+      "sid": "s000050",
+      "globalOffset": 1025,
+      "charCount": 14,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "メロスは、単純な男であった。"
+        }
+      ]
+    },
+    {
+      "sid": "s000051",
+      "globalOffset": 1039,
+      "charCount": 28,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "買い物を、背負ったままで、のそのそ王城にはいって行った。"
+        }
+      ]
+    },
+    {
+      "sid": "s000052",
+      "globalOffset": 1067,
+      "charCount": 19,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "たちまち彼は、"
+        },
+        {
+          "type": "ruby",
+          "base": "巡邏",
+          "ruby": "じゅんら"
+        },
+        {
+          "type": "text",
+          "value": "の警吏に捕縛された。"
+        }
+      ]
+    },
+    {
+      "sid": "s000053",
+      "globalOffset": 1086,
+      "charCount": 39,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "調べられて、メロスの懐中からは短剣が出て来たので、騒ぎが大きくなってしまった。"
+        }
+      ]
+    },
+    {
+      "sid": "s000054",
+      "globalOffset": 1125,
+      "charCount": 16,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "メロスは、王の前に引き出された。"
+        }
+      ]
+    },
+    {
+      "sid": "s000055",
+      "globalOffset": 1141,
+      "charCount": 19,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "「"
+        },
+        {
+          "type": "quote",
+          "value": [
+            {
+              "type": "text",
+              "value": "この短刀で何をするつもりであったか。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sid": "s000056",
+      "globalOffset": 1160,
+      "charCount": 4,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "quote",
+          "value": [
+            {
+              "type": "text",
+              "value": "言え！"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "value": "」"
+        }
+      ]
+    },
+    {
+      "sid": "s000057",
+      "globalOffset": 1164,
+      "charCount": 27,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "暴君ディオニスは静かに、けれども威厳を"
+        },
+        {
+          "type": "ruby",
+          "base": "以",
+          "ruby": "もっ"
+        },
+        {
+          "type": "text",
+          "value": "て問いつめた。"
+        }
+      ]
+    },
+    {
+      "sid": "s000058",
+      "globalOffset": 1191,
+      "charCount": 30,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "その王の顔は"
+        },
+        {
+          "type": "ruby",
+          "base": "蒼白",
+          "ruby": "そうはく"
+        },
+        {
+          "type": "text",
+          "value": "で、"
+        },
+        {
+          "type": "ruby",
+          "base": "眉間",
+          "ruby": "みけん"
+        },
+        {
+          "type": "text",
+          "value": "の"
+        },
+        {
+          "type": "ruby",
+          "base": "皺",
+          "ruby": "しわ"
+        },
+        {
+          "type": "text",
+          "value": "は、刻み込まれたように深かった。"
+        }
+      ]
+    },
+    {
+      "sid": "s000059",
+      "globalOffset": 1221,
+      "charCount": 15,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "「"
+        },
+        {
+          "type": "quote",
+          "value": [
+            {
+              "type": "text",
+              "value": "市を暴君の手から救うのだ。"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "value": "」"
+        }
+      ]
+    },
+    {
+      "sid": "s000060",
+      "globalOffset": 1236,
+      "charCount": 14,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "とメロスは悪びれずに答えた。"
+        }
+      ]
+    },
+    {
+      "sid": "s000061",
+      "globalOffset": 1250,
+      "charCount": 8,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "「"
+        },
+        {
+          "type": "quote",
+          "value": [
+            {
+              "type": "text",
+              "value": "おまえがか？"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "value": "」"
+        }
+      ]
+    },
+    {
+      "sid": "s000062",
+      "globalOffset": 1258,
+      "charCount": 8,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "王は、"
+        },
+        {
+          "type": "ruby",
+          "base": "憫笑",
+          "ruby": "びんしょう"
+        },
+        {
+          "type": "text",
+          "value": "した。"
+        }
+      ]
+    },
+    {
+      "sid": "s000063",
+      "globalOffset": 1266,
+      "charCount": 11,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "「"
+        },
+        {
+          "type": "quote",
+          "value": [
+            {
+              "type": "text",
+              "value": "仕方の無いやつじゃ。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sid": "s000064",
+      "globalOffset": 1277,
+      "charCount": 18,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "quote",
+          "value": [
+            {
+              "type": "text",
+              "value": "おまえには、わしの孤独がわからぬ。"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "value": "」"
+        }
+      ]
+    },
+    {
+      "sid": "s000065",
+      "globalOffset": 1295,
+      "charCount": 6,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "「"
+        },
+        {
+          "type": "quote",
+          "value": [
+            {
+              "type": "text",
+              "value": "言うな！"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "value": "」"
+        }
+      ]
+    },
+    {
+      "sid": "s000066",
+      "globalOffset": 1301,
+      "charCount": 17,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "とメロスは、いきり立って"
+        },
+        {
+          "type": "ruby",
+          "base": "反駁",
+          "ruby": "はんばく"
+        },
+        {
+          "type": "text",
+          "value": "した。"
+        }
+      ]
+    },
+    {
+      "sid": "s000067",
+      "globalOffset": 1318,
+      "charCount": 20,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "「"
+        },
+        {
+          "type": "quote",
+          "value": [
+            {
+              "type": "text",
+              "value": "人の心を疑うのは、最も恥ずべき悪徳だ。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sid": "s000068",
+      "globalOffset": 1338,
+      "charCount": 19,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "quote",
+          "value": [
+            {
+              "type": "text",
+              "value": "王は、民の忠誠をさえ疑って居られる。"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "value": "」"
+        }
+      ]
+    },
+    {
+      "sid": "s000069",
+      "globalOffset": 1357,
+      "charCount": 36,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "「"
+        },
+        {
+          "type": "quote",
+          "value": [
+            {
+              "type": "text",
+              "value": "疑うのが、正当の心構えなのだと、わしに教えてくれたのは、おまえたちだ。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sid": "s000070",
+      "globalOffset": 1393,
+      "charCount": 13,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "quote",
+          "value": [
+            {
+              "type": "text",
+              "value": "人の心は、あてにならない。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sid": "s000071",
+      "globalOffset": 1406,
+      "charCount": 17,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "quote",
+          "value": [
+            {
+              "type": "text",
+              "value": "人間は、もともと私慾のかたまりさ。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sid": "s000072",
+      "globalOffset": 1423,
+      "charCount": 10,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "quote",
+          "value": [
+            {
+              "type": "text",
+              "value": "信じては、ならぬ。"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "value": "」"
+        }
+      ]
+    },
+    {
+      "sid": "s000073",
+      "globalOffset": 1433,
+      "charCount": 20,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "暴君は落着いて"
+        },
+        {
+          "type": "ruby",
+          "base": "呟",
+          "ruby": "つぶや"
+        },
+        {
+          "type": "text",
+          "value": "き、ほっと"
+        },
+        {
+          "type": "ruby",
+          "base": "溜息",
+          "ruby": "ためいき"
+        },
+        {
+          "type": "text",
+          "value": "をついた。"
+        }
+      ]
+    },
+    {
+      "sid": "s000074",
+      "globalOffset": 1453,
+      "charCount": 20,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "「"
+        },
+        {
+          "type": "quote",
+          "value": [
+            {
+              "type": "text",
+              "value": "わしだって、平和を望んでいるのだが。"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "value": "」"
+        }
+      ]
+    },
+    {
+      "sid": "s000075",
+      "globalOffset": 1473,
+      "charCount": 10,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "「"
+        },
+        {
+          "type": "quote",
+          "value": [
+            {
+              "type": "text",
+              "value": "なんの為の平和だ。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sid": "s000076",
+      "globalOffset": 1483,
+      "charCount": 12,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "quote",
+          "value": [
+            {
+              "type": "text",
+              "value": "自分の地位を守る為か。"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "value": "」"
+        }
+      ]
+    },
+    {
+      "sid": "s000077",
+      "globalOffset": 1495,
+      "charCount": 13,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "こんどはメロスが嘲笑した。"
+        }
+      ]
+    },
+    {
+      "sid": "s000078",
+      "globalOffset": 1508,
+      "charCount": 18,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "「"
+        },
+        {
+          "type": "quote",
+          "value": [
+            {
+              "type": "text",
+              "value": "罪の無い人を殺して、何が平和だ。"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "value": "」"
+        }
+      ]
+    },
+    {
+      "sid": "s000079",
+      "globalOffset": 1526,
+      "charCount": 11,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "「"
+        },
+        {
+          "type": "quote",
+          "value": [
+            {
+              "type": "text",
+              "value": "だまれ、"
+            },
+            {
+              "type": "ruby",
+              "base": "下賤",
+              "ruby": "げせん"
+            },
+            {
+              "type": "text",
+              "value": "の者。"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "value": "」"
+        }
+      ]
+    },
+    {
+      "sid": "s000080",
+      "globalOffset": 1537,
+      "charCount": 15,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "王は、さっと顔を挙げて報いた。"
+        }
+      ]
+    },
+    {
+      "sid": "s000081",
+      "globalOffset": 1552,
+      "charCount": 19,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "「"
+        },
+        {
+          "type": "quote",
+          "value": [
+            {
+              "type": "text",
+              "value": "口では、どんな清らかな事でも言える。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sid": "s000082",
+      "globalOffset": 1571,
+      "charCount": 22,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "quote",
+          "value": [
+            {
+              "type": "text",
+              "value": "わしには、人の腹綿の奥底が見え透いてならぬ。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sid": "s000083",
+      "globalOffset": 1593,
+      "charCount": 33,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "quote",
+          "value": [
+            {
+              "type": "text",
+              "value": "おまえだって、いまに、"
+            },
+            {
+              "type": "ruby",
+              "base": "磔",
+              "ruby": "はりつけ"
+            },
+            {
+              "type": "text",
+              "value": "になってから、泣いて"
+            },
+            {
+              "type": "ruby",
+              "base": "詫",
+              "ruby": "わ"
+            },
+            {
+              "type": "text",
+              "value": "びたって聞かぬぞ。"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "value": "」"
+        }
+      ]
+    },
+    {
+      "sid": "s000084",
+      "globalOffset": 1626,
+      "charCount": 10,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "「"
+        },
+        {
+          "type": "quote",
+          "value": [
+            {
+              "type": "text",
+              "value": "ああ、王は"
+            },
+            {
+              "type": "ruby",
+              "base": "悧巧",
+              "ruby": "りこう"
+            },
+            {
+              "type": "text",
+              "value": "だ。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sid": "s000085",
+      "globalOffset": 1636,
+      "charCount": 10,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "quote",
+          "value": [
+            {
+              "type": "ruby",
+              "base": "自惚",
+              "ruby": "うぬぼ"
+            },
+            {
+              "type": "text",
+              "value": "れているがよい。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sid": "s000086",
+      "globalOffset": 1646,
+      "charCount": 18,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "quote",
+          "value": [
+            {
+              "type": "text",
+              "value": "私は、ちゃんと死ぬる覚悟で居るのに。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sid": "s000087",
+      "globalOffset": 1664,
+      "charCount": 12,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "quote",
+          "value": [
+            {
+              "type": "text",
+              "value": "命乞いなど決してしない。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sid": "s000088",
+      "globalOffset": 1676,
+      "charCount": 70,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "quote",
+          "value": [
+            {
+              "type": "text",
+              "value": "ただ、――"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "value": "」"
+        },
+        {
+          "type": "text",
+          "value": "と言いかけて、メロスは足もとに視線を落し瞬時ためらい、"
+        },
+        {
+          "type": "text",
+          "value": "「"
+        },
+        {
+          "type": "quote",
+          "value": [
+            {
+              "type": "text",
+              "value": "ただ、私に情をかけたいつもりなら、処刑までに三日間の日限を与えて下さい。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sid": "s000089",
+      "globalOffset": 1746,
+      "charCount": 24,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "quote",
+          "value": [
+            {
+              "type": "text",
+              "value": "たった一人の妹に、亭主を持たせてやりたいのです。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sid": "s000090",
+      "globalOffset": 1770,
+      "charCount": 34,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "quote",
+          "value": [
+            {
+              "type": "text",
+              "value": "三日のうちに、私は村で結婚式を挙げさせ、必ず、ここへ帰って来ます。"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "value": "」"
+        }
+      ]
+    },
+    {
+      "sid": "s000091",
+      "globalOffset": 1804,
+      "charCount": 6,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "「"
+        },
+        {
+          "type": "quote",
+          "value": [
+            {
+              "type": "text",
+              "value": "ばかな。"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "value": "」"
+        }
+      ]
+    },
+    {
+      "sid": "s000092",
+      "globalOffset": 1810,
+      "charCount": 16,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "と暴君は、"
+        },
+        {
+          "type": "ruby",
+          "base": "嗄",
+          "ruby": "しわが"
+        },
+        {
+          "type": "text",
+          "value": "れた声で低く笑った。"
+        }
+      ]
+    },
+    {
+      "sid": "s000093",
+      "globalOffset": 1826,
+      "charCount": 14,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "「"
+        },
+        {
+          "type": "quote",
+          "value": [
+            {
+              "type": "text",
+              "value": "とんでもない"
+            },
+            {
+              "type": "ruby",
+              "base": "嘘",
+              "ruby": "うそ"
+            },
+            {
+              "type": "text",
+              "value": "を言うわい。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sid": "s000094",
+      "globalOffset": 1840,
+      "charCount": 19,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "quote",
+          "value": [
+            {
+              "type": "text",
+              "value": "逃がした小鳥が帰って来るというのか。"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "value": "」"
+        }
+      ]
+    },
+    {
+      "sid": "s000095",
+      "globalOffset": 1859,
+      "charCount": 6,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "「"
+        },
+        {
+          "type": "quote",
+          "value": [
+            {
+              "type": "text",
+              "value": "そうです。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sid": "s000096",
+      "globalOffset": 1865,
+      "charCount": 10,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "quote",
+          "value": [
+            {
+              "type": "text",
+              "value": "帰って来るのです。"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "value": "」"
+        }
+      ]
+    },
+    {
+      "sid": "s000097",
+      "globalOffset": 1875,
+      "charCount": 13,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "メロスは必死で言い張った。"
+        }
+      ]
+    },
+    {
+      "sid": "s000098",
+      "globalOffset": 1888,
+      "charCount": 11,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "「"
+        },
+        {
+          "type": "quote",
+          "value": [
+            {
+              "type": "text",
+              "value": "私は約束を守ります。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sid": "s000099",
+      "globalOffset": 1899,
+      "charCount": 15,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "quote",
+          "value": [
+            {
+              "type": "text",
+              "value": "私を、三日間だけ許して下さい。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sid": "s000100",
+      "globalOffset": 1914,
+      "charCount": 16,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "quote",
+          "value": [
+            {
+              "type": "text",
+              "value": "妹が、私の帰りを待っているのだ。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sid": "s000101",
+      "globalOffset": 1930,
+      "charCount": 43,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "quote",
+          "value": [
+            {
+              "type": "text",
+              "value": "そんなに私を信じられないならば、よろしい、この市にセリヌンティウスという石工がいます。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sid": "s000102",
+      "globalOffset": 1973,
+      "charCount": 9,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "quote",
+          "value": [
+            {
+              "type": "text",
+              "value": "私の無二の友人だ。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sid": "s000103",
+      "globalOffset": 1982,
+      "charCount": 19,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "quote",
+          "value": [
+            {
+              "type": "text",
+              "value": "あれを、人質としてここに置いて行こう。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sid": "s000104",
+      "globalOffset": 2001,
+      "charCount": 46,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "quote",
+          "value": [
+            {
+              "type": "text",
+              "value": "私が逃げてしまって、三日目の日暮まで、ここに帰って来なかったら、あの友人を絞め殺して下さい。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sid": "s000105",
+      "globalOffset": 2047,
+      "charCount": 13,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "quote",
+          "value": [
+            {
+              "type": "text",
+              "value": "たのむ、そうして下さい。"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "value": "」"
+        }
+      ]
+    },
+    {
+      "sid": "s000106",
+      "globalOffset": 2060,
+      "charCount": 25,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "それを聞いて王は、残虐な気持で、そっと"
+        },
+        {
+          "type": "ruby",
+          "base": "北叟笑",
+          "ruby": "ほくそえ"
+        },
+        {
+          "type": "text",
+          "value": "んだ。"
+        }
+      ]
+    },
+    {
+      "sid": "s000107",
+      "globalOffset": 2085,
+      "charCount": 12,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "生意気なことを言うわい。"
+        }
+      ]
+    },
+    {
+      "sid": "s000108",
+      "globalOffset": 2097,
+      "charCount": 17,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "どうせ帰って来ないにきまっている。"
+        }
+      ]
+    },
+    {
+      "sid": "s000109",
+      "globalOffset": 2114,
+      "charCount": 26,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "この嘘つきに"
+        },
+        {
+          "type": "ruby",
+          "base": "騙",
+          "ruby": "だま"
+        },
+        {
+          "type": "text",
+          "value": "された振りして、放してやるのも面白い。"
+        }
+      ]
+    },
+    {
+      "sid": "s000110",
+      "globalOffset": 2140,
+      "charCount": 28,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "そうして身代りの男を、三日目に殺してやるのも気味がいい。"
+        }
+      ]
+    },
+    {
+      "sid": "s000111",
+      "globalOffset": 2168,
+      "charCount": 44,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "人は、これだから信じられぬと、わしは悲しい顔して、その身代りの男を磔刑に処してやるのだ。"
+        }
+      ]
+    },
+    {
+      "sid": "s000112",
+      "globalOffset": 2212,
+      "charCount": 31,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "世の中の、正直者とかいう"
+        },
+        {
+          "type": "ruby",
+          "base": "奴輩",
+          "ruby": "やつばら"
+        },
+        {
+          "type": "text",
+          "value": "にうんと見せつけてやりたいものさ。"
+        }
+      ]
+    },
+    {
+      "sid": "s000113",
+      "globalOffset": 2243,
+      "charCount": 9,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "「"
+        },
+        {
+          "type": "quote",
+          "value": [
+            {
+              "type": "text",
+              "value": "願いを、聞いた。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sid": "s000114",
+      "globalOffset": 2252,
+      "charCount": 12,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "quote",
+          "value": [
+            {
+              "type": "text",
+              "value": "その身代りを呼ぶがよい。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sid": "s000115",
+      "globalOffset": 2264,
+      "charCount": 16,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "quote",
+          "value": [
+            {
+              "type": "text",
+              "value": "三日目には日没までに帰って来い。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sid": "s000116",
+      "globalOffset": 2280,
+      "charCount": 20,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "quote",
+          "value": [
+            {
+              "type": "text",
+              "value": "おくれたら、その身代りを、きっと殺すぞ。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sid": "s000117",
+      "globalOffset": 2300,
+      "charCount": 14,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "quote",
+          "value": [
+            {
+              "type": "text",
+              "value": "ちょっとおくれて来るがいい。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sid": "s000118",
+      "globalOffset": 2314,
+      "charCount": 20,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "quote",
+          "value": [
+            {
+              "type": "text",
+              "value": "おまえの罪は、永遠にゆるしてやろうぞ。"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "value": "」"
+        }
+      ]
+    },
+    {
+      "sid": "s000119",
+      "globalOffset": 2334,
+      "charCount": 13,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "「"
+        },
+        {
+          "type": "quote",
+          "value": [
+            {
+              "type": "text",
+              "value": "なに、何をおっしゃる。"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "value": "」"
+        }
+      ]
+    },
+    {
+      "sid": "s000120",
+      "globalOffset": 2347,
+      "charCount": 4,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "「"
+        },
+        {
+          "type": "quote",
+          "value": [
+            {
+              "type": "text",
+              "value": "はは。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sid": "s000121",
+      "globalOffset": 2351,
+      "charCount": 18,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "quote",
+          "value": [
+            {
+              "type": "text",
+              "value": "いのちが大事だったら、おくれて来い。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sid": "s000122",
+      "globalOffset": 2369,
+      "charCount": 16,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "quote",
+          "value": [
+            {
+              "type": "text",
+              "value": "おまえの心は、わかっているぞ。"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "value": "」"
+        }
+      ]
+    },
+    {
+      "sid": "s000123",
+      "globalOffset": 2385,
+      "charCount": 16,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "メロスは口惜しく、"
+        },
+        {
+          "type": "ruby",
+          "base": "地団駄",
+          "ruby": "じだんだ"
+        },
+        {
+          "type": "text",
+          "value": "踏んだ。"
+        }
+      ]
+    },
+    {
+      "sid": "s000124",
+      "globalOffset": 2401,
+      "charCount": 13,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "ものも言いたくなくなった。"
+        }
+      ]
+    },
+    {
+      "sid": "s000125",
+      "globalOffset": 2414,
+      "charCount": 26,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "竹馬の友、セリヌンティウスは、深夜、王城に召された。"
+        }
+      ]
+    },
+    {
+      "sid": "s000126",
+      "globalOffset": 2440,
+      "charCount": 31,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "暴君ディオニスの面前で、"
+        },
+        {
+          "type": "ruby",
+          "base": "佳",
+          "ruby": "よ"
+        },
+        {
+          "type": "text",
+          "value": "き友と佳き友は、二年ぶりで相逢うた。"
+        }
+      ]
+    },
+    {
+      "sid": "s000127",
+      "globalOffset": 2471,
+      "charCount": 17,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "メロスは、友に一切の事情を語った。"
+        }
+      ]
+    },
+    {
+      "sid": "s000128",
+      "globalOffset": 2488,
+      "charCount": 29,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "セリヌンティウスは無言で"
+        },
+        {
+          "type": "ruby",
+          "base": "首肯",
+          "ruby": "うなず"
+        },
+        {
+          "type": "text",
+          "value": "き、メロスをひしと抱きしめた。"
+        }
+      ]
+    },
+    {
+      "sid": "s000129",
+      "globalOffset": 2517,
+      "charCount": 15,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "友と友の間は、それでよかった。"
+        }
+      ]
+    },
+    {
+      "sid": "s000130",
+      "globalOffset": 2532,
+      "charCount": 16,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "セリヌンティウスは、縄打たれた。"
+        }
+      ]
+    },
+    {
+      "sid": "s000131",
+      "globalOffset": 2548,
+      "charCount": 13,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "メロスは、すぐに出発した。"
+        }
+      ]
+    },
+    {
+      "sid": "s000132",
+      "globalOffset": 2561,
+      "charCount": 11,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "初夏、満天の星である。"
+        }
+      ]
+    },
+    {
+      "sid": "s000133",
+      "globalOffset": 2572,
+      "charCount": 70,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "メロスはその夜、一睡もせず十里の路を急ぎに急いで、村へ到着したのは、"
+        },
+        {
+          "type": "ruby",
+          "base": "翌",
+          "ruby": "あく"
+        },
+        {
+          "type": "text",
+          "value": "る日の午前、陽は既に高く昇って、村人たちは野に出て仕事をはじめていた。"
+        }
+      ]
+    },
+    {
+      "sid": "s000134",
+      "globalOffset": 2642,
+      "charCount": 29,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "メロスの十六の妹も、きょうは兄の代りに羊群の番をしていた。"
+        }
+      ]
+    },
+    {
+      "sid": "s000135",
+      "globalOffset": 2671,
+      "charCount": 28,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "よろめいて歩いて来る兄の、疲労"
+        },
+        {
+          "type": "ruby",
+          "base": "困憊",
+          "ruby": "こんぱい"
+        },
+        {
+          "type": "text",
+          "value": "の姿を見つけて驚いた。"
+        }
+      ]
+    },
+    {
+      "sid": "s000136",
+      "globalOffset": 2699,
+      "charCount": 19,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "そうして、うるさく兄に質問を浴びせた。"
+        }
+      ]
+    },
+    {
+      "sid": "s000137",
+      "globalOffset": 2718,
+      "charCount": 9,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "「"
+        },
+        {
+          "type": "quote",
+          "value": [
+            {
+              "type": "text",
+              "value": "なんでも無い。"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "value": "」"
+        }
+      ]
+    },
+    {
+      "sid": "s000138",
+      "globalOffset": 2727,
+      "charCount": 15,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "メロスは無理に笑おうと努めた。"
+        }
+      ]
+    },
+    {
+      "sid": "s000139",
+      "globalOffset": 2742,
+      "charCount": 12,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "「"
+        },
+        {
+          "type": "quote",
+          "value": [
+            {
+              "type": "text",
+              "value": "市に用事を残して来た。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sid": "s000140",
+      "globalOffset": 2754,
+      "charCount": 16,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "quote",
+          "value": [
+            {
+              "type": "text",
+              "value": "またすぐ市に行かなければならぬ。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sid": "s000141",
+      "globalOffset": 2770,
+      "charCount": 15,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "quote",
+          "value": [
+            {
+              "type": "text",
+              "value": "あす、おまえの結婚式を挙げる。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sid": "s000142",
+      "globalOffset": 2785,
+      "charCount": 11,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "quote",
+          "value": [
+            {
+              "type": "text",
+              "value": "早いほうがよかろう。"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "value": "」"
+        }
+      ]
+    },
+    {
+      "sid": "s000143",
+      "globalOffset": 2796,
+      "charCount": 10,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "妹は頬をあからめた。"
+        }
+      ]
+    },
+    {
+      "sid": "s000144",
+      "globalOffset": 2806,
+      "charCount": 7,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "「"
+        },
+        {
+          "type": "quote",
+          "value": [
+            {
+              "type": "text",
+              "value": "うれしいか。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sid": "s000145",
+      "globalOffset": 2813,
+      "charCount": 12,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "quote",
+          "value": [
+            {
+              "type": "ruby",
+              "base": "綺麗",
+              "ruby": "きれい"
+            },
+            {
+              "type": "text",
+              "value": "な衣裳も買って来た。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sid": "s000146",
+      "globalOffset": 2825,
+      "charCount": 24,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "quote",
+          "value": [
+            {
+              "type": "text",
+              "value": "さあ、これから行って、村の人たちに知らせて来い。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sid": "s000147",
+      "globalOffset": 2849,
+      "charCount": 11,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "quote",
+          "value": [
+            {
+              "type": "text",
+              "value": "結婚式は、あすだと。"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "value": "」"
+        }
+      ]
+    },
+    {
+      "sid": "s000148",
+      "globalOffset": 2860,
+      "charCount": 73,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "メロスは、また、よろよろと歩き出し、家へ帰って神々の祭壇を飾り、祝宴の席を調え、間もなく床に倒れ伏し、呼吸もせぬくらいの深い眠りに落ちてしまった。"
+        }
+      ]
+    },
+    {
+      "sid": "s000149",
+      "globalOffset": 2933,
+      "charCount": 12,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "眼が覚めたのは夜だった。"
+        }
+      ]
+    },
+    {
+      "sid": "s000150",
+      "globalOffset": 2945,
+      "charCount": 19,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "メロスは起きてすぐ、花婿の家を訪れた。"
+        }
+      ]
+    },
+    {
+      "sid": "s000151",
+      "globalOffset": 2964,
+      "charCount": 32,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "そうして、少し事情があるから、結婚式を明日にしてくれ、と頼んだ。"
+        }
+      ]
+    },
+    {
+      "sid": "s000152",
+      "globalOffset": 2996,
+      "charCount": 53,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "婿の牧人は驚き、それはいけない、こちらには未だ何の仕度も出来ていない、"
+        },
+        {
+          "type": "ruby",
+          "base": "葡萄",
+          "ruby": "ぶどう"
+        },
+        {
+          "type": "text",
+          "value": "の季節まで待ってくれ、と答えた。"
+        }
+      ]
+    },
+    {
+      "sid": "s000153",
+      "globalOffset": 3049,
+      "charCount": 38,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "メロスは、待つことは出来ぬ、どうか明日にしてくれ給え、と更に押してたのんだ。"
+        }
+      ]
+    },
+    {
+      "sid": "s000154",
+      "globalOffset": 3087,
+      "charCount": 12,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "婿の牧人も頑強であった。"
+        }
+      ]
+    },
+    {
+      "sid": "s000155",
+      "globalOffset": 3099,
+      "charCount": 13,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "なかなか承諾してくれない。"
+        }
+      ]
+    },
+    {
+      "sid": "s000156",
+      "globalOffset": 3112,
+      "charCount": 38,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "夜明けまで議論をつづけて、やっと、どうにか婿をなだめ、すかして、説き伏せた。"
+        }
+      ]
+    },
+    {
+      "sid": "s000157",
+      "globalOffset": 3150,
+      "charCount": 13,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "結婚式は、真昼に行われた。"
+        }
+      ]
+    },
+    {
+      "sid": "s000158",
+      "globalOffset": 3163,
+      "charCount": 58,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "新郎新婦の、神々への宣誓が済んだころ、黒雲が空を覆い、ぽつりぽつり雨が降り出し、やがて車軸を流すような大雨となった。"
+        }
+      ]
+    },
+    {
+      "sid": "s000159",
+      "globalOffset": 3221,
+      "charCount": 80,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "祝宴に列席していた村人たちは、何か不吉なものを感じたが、それでも、めいめい気持を引きたて、狭い家の中で、むんむん蒸し暑いのも"
+        },
+        {
+          "type": "ruby",
+          "base": "怺",
+          "ruby": "こら"
+        },
+        {
+          "type": "text",
+          "value": "え、陽気に歌をうたい、手を"
+        },
+        {
+          "type": "ruby",
+          "base": "拍",
+          "ruby": "う"
+        },
+        {
+          "type": "text",
+          "value": "った。"
+        }
+      ]
+    },
+    {
+      "sid": "s000160",
+      "globalOffset": 3301,
+      "charCount": 36,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "メロスも、満面に喜色を"
+        },
+        {
+          "type": "ruby",
+          "base": "湛",
+          "ruby": "たた"
+        },
+        {
+          "type": "text",
+          "value": "え、しばらくは、王とのあの約束をさえ忘れていた。"
+        }
+      ]
+    },
+    {
+      "sid": "s000161",
+      "globalOffset": 3337,
+      "charCount": 42,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "祝宴は、夜に入っていよいよ乱れ華やかになり、人々は、外の豪雨を全く気にしなくなった。"
+        }
+      ]
+    },
+    {
+      "sid": "s000162",
+      "globalOffset": 3379,
+      "charCount": 23,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "メロスは、一生このままここにいたい、と思った。"
+        }
+      ]
+    },
+    {
+      "sid": "s000163",
+      "globalOffset": 3402,
+      "charCount": 45,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "この佳い人たちと生涯暮して行きたいと願ったが、いまは、自分のからだで、自分のものでは無い。"
+        }
+      ]
+    },
+    {
+      "sid": "s000164",
+      "globalOffset": 3447,
+      "charCount": 10,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "ままならぬ事である。"
+        }
+      ]
+    },
+    {
+      "sid": "s000165",
+      "globalOffset": 3457,
+      "charCount": 24,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "メロスは、わが身に鞭打ち、ついに出発を決意した。"
+        }
+      ]
+    },
+    {
+      "sid": "s000166",
+      "globalOffset": 3481,
+      "charCount": 20,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "あすの日没までには、まだ十分の時が在る。"
+        }
+      ]
+    },
+    {
+      "sid": "s000167",
+      "globalOffset": 3501,
+      "charCount": 28,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "ちょっと一眠りして、それからすぐに出発しよう、と考えた。"
+        }
+      ]
+    },
+    {
+      "sid": "s000168",
+      "globalOffset": 3529,
+      "charCount": 19,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "その頃には、雨も小降りになっていよう。"
+        }
+      ]
+    },
+    {
+      "sid": "s000169",
+      "globalOffset": 3548,
+      "charCount": 25,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "少しでも永くこの家に愚図愚図とどまっていたかった。"
+        }
+      ]
+    },
+    {
+      "sid": "s000170",
+      "globalOffset": 3573,
+      "charCount": 26,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "メロスほどの男にも、やはり未練の情というものは在る。"
+        }
+      ]
+    },
+    {
+      "sid": "s000171",
+      "globalOffset": 3599,
+      "charCount": 23,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "今宵呆然、歓喜に酔っているらしい花嫁に近寄り、"
+        }
+      ]
+    },
+    {
+      "sid": "s000172",
+      "globalOffset": 3622,
+      "charCount": 7,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "「"
+        },
+        {
+          "type": "quote",
+          "value": [
+            {
+              "type": "text",
+              "value": "おめでとう。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sid": "s000173",
+      "globalOffset": 3629,
+      "charCount": 28,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "quote",
+          "value": [
+            {
+              "type": "text",
+              "value": "私は疲れてしまったから、ちょっとご免こうむって眠りたい。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sid": "s000174",
+      "globalOffset": 3657,
+      "charCount": 17,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "quote",
+          "value": [
+            {
+              "type": "text",
+              "value": "眼が覚めたら、すぐに市に出かける。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sid": "s000175",
+      "globalOffset": 3674,
+      "charCount": 11,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "quote",
+          "value": [
+            {
+              "type": "text",
+              "value": "大切な用事があるのだ。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sid": "s000176",
+      "globalOffset": 3685,
+      "charCount": 39,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "quote",
+          "value": [
+            {
+              "type": "text",
+              "value": "私がいなくても、もうおまえには優しい亭主があるのだから、決して寂しい事は無い。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sid": "s000177",
+      "globalOffset": 3724,
+      "charCount": 37,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "quote",
+          "value": [
+            {
+              "type": "text",
+              "value": "おまえの兄の、一ばんきらいなものは、人を疑う事と、それから、嘘をつく事だ。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sid": "s000178",
+      "globalOffset": 3761,
+      "charCount": 16,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "quote",
+          "value": [
+            {
+              "type": "text",
+              "value": "おまえも、それは、知っているね。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sid": "s000179",
+      "globalOffset": 3777,
+      "charCount": 22,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "quote",
+          "value": [
+            {
+              "type": "text",
+              "value": "亭主との間に、どんな秘密でも作ってはならぬ。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sid": "s000180",
+      "globalOffset": 3799,
+      "charCount": 17,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "quote",
+          "value": [
+            {
+              "type": "text",
+              "value": "おまえに言いたいのは、それだけだ。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sid": "s000181",
+      "globalOffset": 3816,
+      "charCount": 35,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "quote",
+          "value": [
+            {
+              "type": "text",
+              "value": "おまえの兄は、たぶん偉い男なのだから、おまえもその誇りを持っていろ。"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "value": "」"
+        }
+      ]
+    },
+    {
+      "sid": "s000182",
+      "globalOffset": 3851,
+      "charCount": 14,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "花嫁は、夢見心地で"
+        },
+        {
+          "type": "ruby",
+          "base": "首肯",
+          "ruby": "うなず"
+        },
+        {
+          "type": "text",
+          "value": "いた。"
+        }
+      ]
+    },
+    {
+      "sid": "s000183",
+      "globalOffset": 3865,
+      "charCount": 19,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "メロスは、それから花婿の肩をたたいて、"
+        }
+      ]
+    },
+    {
+      "sid": "s000184",
+      "globalOffset": 3884,
+      "charCount": 14,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "「"
+        },
+        {
+          "type": "quote",
+          "value": [
+            {
+              "type": "text",
+              "value": "仕度の無いのはお互さまさ。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sid": "s000185",
+      "globalOffset": 3898,
+      "charCount": 20,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "quote",
+          "value": [
+            {
+              "type": "text",
+              "value": "私の家にも、宝といっては、妹と羊だけだ。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sid": "s000186",
+      "globalOffset": 3918,
+      "charCount": 9,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "quote",
+          "value": [
+            {
+              "type": "text",
+              "value": "他には、何も無い。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sid": "s000187",
+      "globalOffset": 3927,
+      "charCount": 7,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "quote",
+          "value": [
+            {
+              "type": "text",
+              "value": "全部あげよう。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sid": "s000188",
+      "globalOffset": 3934,
+      "charCount": 24,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "quote",
+          "value": [
+            {
+              "type": "text",
+              "value": "もう一つ、メロスの弟になったことを誇ってくれ。"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "value": "」"
+        }
+      ]
+    },
+    {
+      "sid": "s000189",
+      "globalOffset": 3958,
+      "charCount": 15,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "花婿は"
+        },
+        {
+          "type": "ruby",
+          "base": "揉",
+          "ruby": "も"
+        },
+        {
+          "type": "text",
+          "value": "み手して、てれていた。"
+        }
+      ]
+    },
+    {
+      "sid": "s000190",
+      "globalOffset": 3973,
+      "charCount": 50,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "メロスは笑って村人たちにも"
+        },
+        {
+          "type": "ruby",
+          "base": "会釈",
+          "ruby": "えしゃく"
+        },
+        {
+          "type": "text",
+          "value": "して、宴席から立ち去り、羊小屋にもぐり込んで、死んだように深く眠った。"
+        }
+      ]
+    },
+    {
+      "sid": "s000191",
+      "globalOffset": 4023,
+      "charCount": 19,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "眼が覚めたのは翌る日の薄明の頃である。"
+        }
+      ]
+    },
+    {
+      "sid": "s000192",
+      "globalOffset": 4042,
+      "charCount": 59,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "メロスは跳ね起き、南無三、寝過したか、いや、まだまだ大丈夫、これからすぐに出発すれば、約束の刻限までには十分間に合う。"
+        }
+      ]
+    },
+    {
+      "sid": "s000193",
+      "globalOffset": 4101,
+      "charCount": 33,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "きょうは是非とも、あの王に、人の信実の存するところを見せてやろう。"
+        }
+      ]
+    },
+    {
+      "sid": "s000194",
+      "globalOffset": 4134,
+      "charCount": 17,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "そうして笑って磔の台に上ってやる。"
+        }
+      ]
+    },
+    {
+      "sid": "s000195",
+      "globalOffset": 4151,
+      "charCount": 17,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "メロスは、悠々と身仕度をはじめた。"
+        }
+      ]
+    },
+    {
+      "sid": "s000196",
+      "globalOffset": 4168,
+      "charCount": 22,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "雨も、いくぶん小降りになっている様子である。"
+        }
+      ]
+    },
+    {
+      "sid": "s000197",
+      "globalOffset": 4190,
+      "charCount": 8,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "身仕度は出来た。"
+        }
+      ]
+    },
+    {
+      "sid": "s000198",
+      "globalOffset": 4198,
+      "charCount": 34,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "さて、メロスは、ぶるんと両腕を大きく振って、雨中、矢の如く走り出た。"
+        }
+      ]
+    },
+    {
+      "sid": "s000199",
+      "globalOffset": 4232,
+      "charCount": 11,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "私は、今宵、殺される。"
+        }
+      ]
+    },
+    {
+      "sid": "s000200",
+      "globalOffset": 4243,
+      "charCount": 11,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "殺される為に走るのだ。"
+        }
+      ]
+    },
+    {
+      "sid": "s000201",
+      "globalOffset": 4254,
+      "charCount": 15,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "身代りの友を救う為に走るのだ。"
+        }
+      ]
+    },
+    {
+      "sid": "s000202",
+      "globalOffset": 4269,
+      "charCount": 18,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "王の"
+        },
+        {
+          "type": "ruby",
+          "base": "奸佞",
+          "ruby": "かんねい"
+        },
+        {
+          "type": "text",
+          "value": "邪智を打ち破る為に走るのだ。"
+        }
+      ]
+    },
+    {
+      "sid": "s000203",
+      "globalOffset": 4287,
+      "charCount": 10,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "走らなければならぬ。"
+        }
+      ]
+    },
+    {
+      "sid": "s000204",
+      "globalOffset": 4297,
+      "charCount": 12,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "そうして、私は殺される。"
+        }
+      ]
+    },
+    {
+      "sid": "s000205",
+      "globalOffset": 4309,
+      "charCount": 11,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "若い時から名誉を守れ。"
+        }
+      ]
+    },
+    {
+      "sid": "s000206",
+      "globalOffset": 4320,
+      "charCount": 9,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "さらば、ふるさと。"
+        }
+      ]
+    },
+    {
+      "sid": "s000207",
+      "globalOffset": 4329,
+      "charCount": 13,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "若いメロスは、つらかった。"
+        }
+      ]
+    },
+    {
+      "sid": "s000208",
+      "globalOffset": 4342,
+      "charCount": 16,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "幾度か、立ちどまりそうになった。"
+        }
+      ]
+    },
+    {
+      "sid": "s000209",
+      "globalOffset": 4358,
+      "charCount": 23,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "えい、えいと大声挙げて自身を叱りながら走った。"
+        }
+      ]
+    },
+    {
+      "sid": "s000210",
+      "globalOffset": 4381,
+      "charCount": 54,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "村を出て、野を横切り、森をくぐり抜け、隣村に着いた頃には、雨も"
+        },
+        {
+          "type": "ruby",
+          "base": "止",
+          "ruby": "や"
+        },
+        {
+          "type": "text",
+          "value": "み、日は高く昇って、そろそろ暑くなって来た。"
+        }
+      ]
+    },
+    {
+      "sid": "s000211",
+      "globalOffset": 4435,
+      "charCount": 39,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "メロスは"
+        },
+        {
+          "type": "ruby",
+          "base": "額",
+          "ruby": "ひたい"
+        },
+        {
+          "type": "text",
+          "value": "の汗をこぶしで払い、ここまで来れば大丈夫、もはや故郷への未練は無い。"
+        }
+      ]
+    },
+    {
+      "sid": "s000212",
+      "globalOffset": 4474,
+      "charCount": 19,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "妹たちは、きっと佳い夫婦になるだろう。"
+        }
+      ]
+    },
+    {
+      "sid": "s000213",
+      "globalOffset": 4493,
+      "charCount": 20,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "私には、いま、なんの気がかりも無い筈だ。"
+        }
+      ]
+    },
+    {
+      "sid": "s000214",
+      "globalOffset": 4513,
+      "charCount": 22,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "まっすぐに王城に行き着けば、それでよいのだ。"
+        }
+      ]
+    },
+    {
+      "sid": "s000215",
+      "globalOffset": 4535,
+      "charCount": 12,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "そんなに急ぐ必要も無い。"
+        }
+      ]
+    },
+    {
+      "sid": "s000216",
+      "globalOffset": 4547,
+      "charCount": 39,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "ゆっくり歩こう、と持ちまえの"
+        },
+        {
+          "type": "ruby",
+          "base": "呑気",
+          "ruby": "のんき"
+        },
+        {
+          "type": "text",
+          "value": "さを取り返し、好きな小歌をいい声で歌い出した。"
+        }
+      ]
+    },
+    {
+      "sid": "s000217",
+      "globalOffset": 4586,
+      "charCount": 58,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "ぶらぶら歩いて二里行き三里行き、そろそろ全里程の半ばに到達した頃、降って"
+        },
+        {
+          "type": "ruby",
+          "base": "湧",
+          "ruby": "わ"
+        },
+        {
+          "type": "text",
+          "value": "いた災難、メロスの足は、はたと、とまった。"
+        }
+      ]
+    },
+    {
+      "sid": "s000218",
+      "globalOffset": 4644,
+      "charCount": 9,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "見よ、前方の川を。"
+        }
+      ]
+    },
+    {
+      "sid": "s000219",
+      "globalOffset": 4653,
+      "charCount": 71,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "きのうの豪雨で山の水源地は"
+        },
+        {
+          "type": "ruby",
+          "base": "氾濫",
+          "ruby": "はんらん"
+        },
+        {
+          "type": "text",
+          "value": "し、濁流"
+        },
+        {
+          "type": "ruby",
+          "base": "滔々",
+          "ruby": "とうとう"
+        },
+        {
+          "type": "text",
+          "value": "と下流に集り、猛勢一挙に橋を破壊し、どうどうと響きをあげる激流が、"
+        },
+        {
+          "type": "ruby",
+          "base": "木葉微塵",
+          "ruby": "こっぱみじん"
+        },
+        {
+          "type": "text",
+          "value": "に"
+        },
+        {
+          "type": "ruby",
+          "base": "橋桁",
+          "ruby": "はしげた"
+        },
+        {
+          "type": "text",
+          "value": "を跳ね飛ばしていた。"
+        }
+      ]
+    },
+    {
+      "sid": "s000220",
+      "globalOffset": 4724,
+      "charCount": 13,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "彼は茫然と、立ちすくんだ。"
+        }
+      ]
+    },
+    {
+      "sid": "s000221",
+      "globalOffset": 4737,
+      "charCount": 55,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "あちこちと眺めまわし、また、声を限りに呼びたててみたが、"
+        },
+        {
+          "type": "ruby",
+          "base": "繋舟",
+          "ruby": "けいしゅう"
+        },
+        {
+          "type": "text",
+          "value": "は残らず浪に"
+        },
+        {
+          "type": "ruby",
+          "base": "浚",
+          "ruby": "さら"
+        },
+        {
+          "type": "text",
+          "value": "われて影なく、渡守りの姿も見えない。"
+        }
+      ]
+    },
+    {
+      "sid": "s000222",
+      "globalOffset": 4792,
+      "charCount": 25,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "流れはいよいよ、ふくれ上り、海のようになっている。"
+        }
+      ]
+    },
+    {
+      "sid": "s000223",
+      "globalOffset": 4817,
+      "charCount": 36,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "メロスは川岸にうずくまり、男泣きに泣きながらゼウスに手を挙げて哀願した。"
+        }
+      ]
+    },
+    {
+      "sid": "s000224",
+      "globalOffset": 4853,
+      "charCount": 18,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "「"
+        },
+        {
+          "type": "quote",
+          "value": [
+            {
+              "type": "text",
+              "value": "ああ、"
+            },
+            {
+              "type": "ruby",
+              "base": "鎮",
+              "ruby": "しず"
+            },
+            {
+              "type": "text",
+              "value": "めたまえ、荒れ狂う流れを！"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sid": "s000225",
+      "globalOffset": 4871,
+      "charCount": 14,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "quote",
+          "value": [
+            {
+              "type": "text",
+              "value": "　時は刻々に過ぎて行きます。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sid": "s000226",
+      "globalOffset": 4885,
+      "charCount": 11,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "quote",
+          "value": [
+            {
+              "type": "text",
+              "value": "太陽も既に真昼時です。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sid": "s000227",
+      "globalOffset": 4896,
+      "charCount": 52,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "quote",
+          "value": [
+            {
+              "type": "text",
+              "value": "あれが沈んでしまわぬうちに、王城に行き着くことが出来なかったら、あの佳い友達が、私のために死ぬのです。"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "value": "」"
+        }
+      ]
+    },
+    {
+      "sid": "s000228",
+      "globalOffset": 4948,
+      "charCount": 31,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "濁流は、メロスの叫びをせせら笑う如く、ますます激しく躍り狂う。"
+        }
+      ]
+    },
+    {
+      "sid": "s000229",
+      "globalOffset": 4979,
+      "charCount": 32,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "浪は浪を呑み、捲き、"
+        },
+        {
+          "type": "ruby",
+          "base": "煽",
+          "ruby": "あお"
+        },
+        {
+          "type": "text",
+          "value": "り立て、そうして時は、刻一刻と消えて行く。"
+        }
+      ]
+    },
+    {
+      "sid": "s000230",
+      "globalOffset": 5011,
+      "charCount": 11,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "今はメロスも覚悟した。"
+        }
+      ]
+    },
+    {
+      "sid": "s000231",
+      "globalOffset": 5022,
+      "charCount": 11,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "泳ぎ切るより他に無い。"
+        }
+      ]
+    },
+    {
+      "sid": "s000232",
+      "globalOffset": 5033,
+      "charCount": 11,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "ああ、神々も照覧あれ！"
+        }
+      ]
+    },
+    {
+      "sid": "s000233",
+      "globalOffset": 5044,
+      "charCount": 30,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "　濁流にも負けぬ愛と誠の偉大な力を、いまこそ発揮して見せる。"
+        }
+      ]
+    },
+    {
+      "sid": "s000234",
+      "globalOffset": 5074,
+      "charCount": 51,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "メロスは、ざんぶと流れに飛び込み、百匹の大蛇のようにのた打ち荒れ狂う浪を相手に、必死の闘争を開始した。"
+        }
+      ]
+    },
+    {
+      "sid": "s000235",
+      "globalOffset": 5125,
+      "charCount": 86,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "満身の力を腕にこめて、押し寄せ渦巻き引きずる流れを、なんのこれしきと"
+        },
+        {
+          "type": "ruby",
+          "base": "掻",
+          "ruby": "か"
+        },
+        {
+          "type": "text",
+          "value": "きわけ掻きわけ、めくらめっぽう獅子奮迅の人の子の姿には、神も哀れと思ったか、ついに"
+        },
+        {
+          "type": "ruby",
+          "base": "憐愍",
+          "ruby": "れんびん"
+        },
+        {
+          "type": "text",
+          "value": "を垂れてくれた。"
+        }
+      ]
+    },
+    {
+      "sid": "s000236",
+      "globalOffset": 5211,
+      "charCount": 36,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "押し流されつつも、見事、対岸の樹木の幹に、すがりつく事が出来たのである。"
+        }
+      ]
+    },
+    {
+      "sid": "s000237",
+      "globalOffset": 5247,
+      "charCount": 6,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "ありがたい。"
+        }
+      ]
+    },
+    {
+      "sid": "s000238",
+      "globalOffset": 5253,
+      "charCount": 33,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "メロスは馬のように大きな胴震いを一つして、すぐにまた先きを急いだ。"
+        }
+      ]
+    },
+    {
+      "sid": "s000239",
+      "globalOffset": 5286,
+      "charCount": 17,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "一刻といえども、むだには出来ない。"
+        }
+      ]
+    },
+    {
+      "sid": "s000240",
+      "globalOffset": 5303,
+      "charCount": 14,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "陽は既に西に傾きかけている。"
+        }
+      ]
+    },
+    {
+      "sid": "s000241",
+      "globalOffset": 5317,
+      "charCount": 51,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "ぜいぜい荒い呼吸をしながら峠をのぼり、のぼり切って、ほっとした時、突然、目の前に一隊の山賊が躍り出た。"
+        }
+      ]
+    },
+    {
+      "sid": "s000242",
+      "globalOffset": 5368,
+      "charCount": 5,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "「"
+        },
+        {
+          "type": "quote",
+          "value": [
+            {
+              "type": "text",
+              "value": "待て。"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "value": "」"
+        }
+      ]
+    },
+    {
+      "sid": "s000243",
+      "globalOffset": 5373,
+      "charCount": 8,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "「"
+        },
+        {
+          "type": "quote",
+          "value": [
+            {
+              "type": "text",
+              "value": "何をするのだ。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sid": "s000244",
+      "globalOffset": 5381,
+      "charCount": 23,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "quote",
+          "value": [
+            {
+              "type": "text",
+              "value": "私は陽の沈まぬうちに王城へ行かなければならぬ。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sid": "s000245",
+      "globalOffset": 5404,
+      "charCount": 4,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "quote",
+          "value": [
+            {
+              "type": "text",
+              "value": "放せ。"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "value": "」"
+        }
+      ]
+    },
+    {
+      "sid": "s000246",
+      "globalOffset": 5408,
+      "charCount": 9,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "「"
+        },
+        {
+          "type": "quote",
+          "value": [
+            {
+              "type": "text",
+              "value": "どっこい放さぬ。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sid": "s000247",
+      "globalOffset": 5417,
+      "charCount": 14,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "quote",
+          "value": [
+            {
+              "type": "text",
+              "value": "持ちもの全部を置いて行け。"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "value": "」"
+        }
+      ]
+    },
+    {
+      "sid": "s000248",
+      "globalOffset": 5431,
+      "charCount": 16,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "「"
+        },
+        {
+          "type": "quote",
+          "value": [
+            {
+              "type": "text",
+              "value": "私にはいのちの他には何も無い。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sid": "s000249",
+      "globalOffset": 5447,
+      "charCount": 27,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "quote",
+          "value": [
+            {
+              "type": "text",
+              "value": "その、たった一つの命も、これから王にくれてやるのだ。"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "value": "」"
+        }
+      ]
+    },
+    {
+      "sid": "s000250",
+      "globalOffset": 5474,
+      "charCount": 15,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "「"
+        },
+        {
+          "type": "quote",
+          "value": [
+            {
+              "type": "text",
+              "value": "その、いのちが欲しいのだ。"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "value": "」"
+        }
+      ]
+    },
+    {
+      "sid": "s000251",
+      "globalOffset": 5489,
+      "charCount": 29,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "「"
+        },
+        {
+          "type": "quote",
+          "value": [
+            {
+              "type": "text",
+              "value": "さては、王の命令で、ここで私を待ち伏せしていたのだな。"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "value": "」"
+        }
+      ]
+    },
+    {
+      "sid": "s000252",
+      "globalOffset": 5518,
+      "charCount": 24,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "山賊たちは、ものも言わず一斉に"
+        },
+        {
+          "type": "ruby",
+          "base": "棍棒",
+          "ruby": "こんぼう"
+        },
+        {
+          "type": "text",
+          "value": "を振り挙げた。"
+        }
+      ]
+    },
+    {
+      "sid": "s000253",
+      "globalOffset": 5542,
+      "charCount": 47,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "メロスはひょいと、からだを折り曲げ、飛鳥の如く身近かの一人に襲いかかり、その棍棒を奪い取って、"
+        }
+      ]
+    },
+    {
+      "sid": "s000254",
+      "globalOffset": 5589,
+      "charCount": 14,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "「"
+        },
+        {
+          "type": "quote",
+          "value": [
+            {
+              "type": "text",
+              "value": "気の毒だが正義のためだ！"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "value": "」"
+        }
+      ]
+    },
+    {
+      "sid": "s000255",
+      "globalOffset": 5603,
+      "charCount": 42,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "と猛然一撃、たちまち、三人を殴り倒し、残る者のひるむ"
+        },
+        {
+          "type": "ruby",
+          "base": "隙",
+          "ruby": "すき"
+        },
+        {
+          "type": "text",
+          "value": "に、さっさと走って峠を下った。"
+        }
+      ]
+    },
+    {
+      "sid": "s000256",
+      "globalOffset": 5645,
+      "charCount": 105,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "一気に峠を駈け降りたが、"
+        },
+        {
+          "type": "ruby",
+          "base": "流石",
+          "ruby": "さすが"
+        },
+        {
+          "type": "text",
+          "value": "に疲労し、折から午後の"
+        },
+        {
+          "type": "ruby",
+          "base": "灼熱",
+          "ruby": "しゃくねつ"
+        },
+        {
+          "type": "text",
+          "value": "の太陽がまともに、かっと照って来て、メロスは幾度となく"
+        },
+        {
+          "type": "ruby",
+          "base": "眩暈",
+          "ruby": "めまい"
+        },
+        {
+          "type": "text",
+          "value": "を感じ、これではならぬ、と気を取り直しては、よろよろ二、三歩あるいて、ついに、がくりと膝を折った。"
+        }
+      ]
+    },
+    {
+      "sid": "s000257",
+      "globalOffset": 5750,
+      "charCount": 12,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "立ち上る事が出来ぬのだ。"
+        }
+      ]
+    },
+    {
+      "sid": "s000258",
+      "globalOffset": 5762,
+      "charCount": 18,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "天を仰いで、くやし泣きに泣き出した。"
+        }
+      ]
+    },
+    {
+      "sid": "s000259",
+      "globalOffset": 5780,
+      "charCount": 42,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "ああ、あ、濁流を泳ぎ切り、山賊を三人も撃ち倒し"
+        },
+        {
+          "type": "ruby",
+          "base": "韋駄天",
+          "ruby": "いだてん"
+        },
+        {
+          "type": "text",
+          "value": "、ここまで突破して来たメロスよ。"
+        }
+      ]
+    },
+    {
+      "sid": "s000260",
+      "globalOffset": 5822,
+      "charCount": 10,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "真の勇者、メロスよ。"
+        }
+      ]
+    },
+    {
+      "sid": "s000261",
+      "globalOffset": 5832,
+      "charCount": 23,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "今、ここで、疲れ切って動けなくなるとは情無い。"
+        }
+      ]
+    },
+    {
+      "sid": "s000262",
+      "globalOffset": 5855,
+      "charCount": 32,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "愛する友は、おまえを信じたばかりに、やがて殺されなければならぬ。"
+        }
+      ]
+    },
+    {
+      "sid": "s000263",
+      "globalOffset": 5887,
+      "charCount": 61,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "おまえは、"
+        },
+        {
+          "type": "ruby",
+          "base": "稀代",
+          "ruby": "きたい"
+        },
+        {
+          "type": "text",
+          "value": "の不信の人間、まさしく王の思う"
+        },
+        {
+          "type": "ruby",
+          "base": "壺",
+          "ruby": "つぼ"
+        },
+        {
+          "type": "text",
+          "value": "だぞ、と自分を叱ってみるのだが、全身"
+        },
+        {
+          "type": "ruby",
+          "base": "萎",
+          "ruby": "な"
+        },
+        {
+          "type": "text",
+          "value": "えて、もはや"
+        },
+        {
+          "type": "ruby",
+          "base": "芋虫",
+          "ruby": "いもむし"
+        },
+        {
+          "type": "text",
+          "value": "ほどにも前進かなわぬ。"
+        }
+      ]
+    },
+    {
+      "sid": "s000264",
+      "globalOffset": 5948,
+      "charCount": 17,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "路傍の草原にごろりと寝ころがった。"
+        }
+      ]
+    },
+    {
+      "sid": "s000265",
+      "globalOffset": 5965,
+      "charCount": 18,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "身体疲労すれば、精神も共にやられる。"
+        }
+      ]
+    },
+    {
+      "sid": "s000266",
+      "globalOffset": 5983,
+      "charCount": 39,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "もう、どうでもいいという、勇者に不似合いな"
+        },
+        {
+          "type": "ruby",
+          "base": "不貞腐",
+          "ruby": "ふてくさ"
+        },
+        {
+          "type": "text",
+          "value": "れた根性が、心の隅に巣喰った。"
+        }
+      ]
+    },
+    {
+      "sid": "s000267",
+      "globalOffset": 6022,
+      "charCount": 14,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "私は、これほど努力したのだ。"
+        }
+      ]
+    },
+    {
+      "sid": "s000268",
+      "globalOffset": 6036,
+      "charCount": 17,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "約束を破る心は、みじんも無かった。"
+        }
+      ]
+    },
+    {
+      "sid": "s000269",
+      "globalOffset": 6053,
+      "charCount": 20,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "神も照覧、私は精一ぱいに努めて来たのだ。"
+        }
+      ]
+    },
+    {
+      "sid": "s000270",
+      "globalOffset": 6073,
+      "charCount": 16,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "動けなくなるまで走って来たのだ。"
+        }
+      ]
+    },
+    {
+      "sid": "s000271",
+      "globalOffset": 6089,
+      "charCount": 11,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "私は不信の徒では無い。"
+        }
+      ]
+    },
+    {
+      "sid": "s000272",
+      "globalOffset": 6100,
+      "charCount": 33,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "ああ、できる事なら私の胸を"
+        },
+        {
+          "type": "ruby",
+          "base": "截",
+          "ruby": "た"
+        },
+        {
+          "type": "text",
+          "value": "ち割って、真紅の心臓をお目に掛けたい。"
+        }
+      ]
+    },
+    {
+      "sid": "s000273",
+      "globalOffset": 6133,
+      "charCount": 28,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "愛と信実の血液だけで動いているこの心臓を見せてやりたい。"
+        }
+      ]
+    },
+    {
+      "sid": "s000274",
+      "globalOffset": 6161,
+      "charCount": 25,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "けれども私は、この大事な時に、精も根も尽きたのだ。"
+        }
+      ]
+    },
+    {
+      "sid": "s000275",
+      "globalOffset": 6186,
+      "charCount": 13,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "私は、よくよく不幸な男だ。"
+        }
+      ]
+    },
+    {
+      "sid": "s000276",
+      "globalOffset": 6199,
+      "charCount": 11,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "私は、きっと笑われる。"
+        }
+      ]
+    },
+    {
+      "sid": "s000277",
+      "globalOffset": 6210,
+      "charCount": 10,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "私の一家も笑われる。"
+        }
+      ]
+    },
+    {
+      "sid": "s000278",
+      "globalOffset": 6220,
+      "charCount": 8,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "私は友を"
+        },
+        {
+          "type": "ruby",
+          "base": "欺",
+          "ruby": "あざむ"
+        },
+        {
+          "type": "text",
+          "value": "いた。"
+        }
+      ]
+    },
+    {
+      "sid": "s000279",
+      "globalOffset": 6228,
+      "charCount": 26,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "中途で倒れるのは、はじめから何もしないのと同じ事だ。"
+        }
+      ]
+    },
+    {
+      "sid": "s000280",
+      "globalOffset": 6254,
+      "charCount": 13,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "ああ、もう、どうでもいい。"
+        }
+      ]
+    },
+    {
+      "sid": "s000281",
+      "globalOffset": 6267,
+      "charCount": 20,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "これが、私の定った運命なのかも知れない。"
+        }
+      ]
+    },
+    {
+      "sid": "s000282",
+      "globalOffset": 6287,
+      "charCount": 17,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "セリヌンティウスよ、ゆるしてくれ。"
+        }
+      ]
+    },
+    {
+      "sid": "s000283",
+      "globalOffset": 6304,
+      "charCount": 13,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "君は、いつでも私を信じた。"
+        }
+      ]
+    },
+    {
+      "sid": "s000284",
+      "globalOffset": 6317,
+      "charCount": 12,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "私も君を、欺かなかった。"
+        }
+      ]
+    },
+    {
+      "sid": "s000285",
+      "globalOffset": 6329,
+      "charCount": 20,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "私たちは、本当に佳い友と友であったのだ。"
+        }
+      ]
+    },
+    {
+      "sid": "s000286",
+      "globalOffset": 6349,
+      "charCount": 31,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "いちどだって、暗い疑惑の雲を、お互い胸に宿したことは無かった。"
+        }
+      ]
+    },
+    {
+      "sid": "s000287",
+      "globalOffset": 6380,
+      "charCount": 22,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "いまだって、君は私を無心に待っているだろう。"
+        }
+      ]
+    },
+    {
+      "sid": "s000288",
+      "globalOffset": 6402,
+      "charCount": 12,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "ああ、待っているだろう。"
+        }
+      ]
+    },
+    {
+      "sid": "s000289",
+      "globalOffset": 6414,
+      "charCount": 15,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "ありがとう、セリヌンティウス。"
+        }
+      ]
+    },
+    {
+      "sid": "s000290",
+      "globalOffset": 6429,
+      "charCount": 12,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "よくも私を信じてくれた。"
+        }
+      ]
+    },
+    {
+      "sid": "s000291",
+      "globalOffset": 6441,
+      "charCount": 13,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "それを思えば、たまらない。"
+        }
+      ]
+    },
+    {
+      "sid": "s000292",
+      "globalOffset": 6454,
+      "charCount": 29,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "友と友の間の信実は、この世で一ばん誇るべき宝なのだからな。"
+        }
+      ]
+    },
+    {
+      "sid": "s000293",
+      "globalOffset": 6483,
+      "charCount": 17,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "セリヌンティウス、私は走ったのだ。"
+        }
+      ]
+    },
+    {
+      "sid": "s000294",
+      "globalOffset": 6500,
+      "charCount": 18,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "君を欺くつもりは、みじんも無かった。"
+        }
+      ]
+    },
+    {
+      "sid": "s000295",
+      "globalOffset": 6518,
+      "charCount": 6,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "信じてくれ！"
+        }
+      ]
+    },
+    {
+      "sid": "s000296",
+      "globalOffset": 6524,
+      "charCount": 18,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "　私は急ぎに急いでここまで来たのだ。"
+        }
+      ]
+    },
+    {
+      "sid": "s000297",
+      "globalOffset": 6542,
+      "charCount": 8,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "濁流を突破した。"
+        }
+      ]
+    },
+    {
+      "sid": "s000298",
+      "globalOffset": 6550,
+      "charCount": 31,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "山賊の囲みからも、するりと抜けて一気に峠を駈け降りて来たのだ。"
+        }
+      ]
+    },
+    {
+      "sid": "s000299",
+      "globalOffset": 6581,
+      "charCount": 12,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "私だから、出来たのだよ。"
+        }
+      ]
+    },
+    {
+      "sid": "s000300",
+      "globalOffset": 6593,
+      "charCount": 15,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "ああ、この上、私に望み給うな。"
+        }
+      ]
+    },
+    {
+      "sid": "s000301",
+      "globalOffset": 6608,
+      "charCount": 9,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "放って置いてくれ。"
+        }
+      ]
+    },
+    {
+      "sid": "s000302",
+      "globalOffset": 6617,
+      "charCount": 10,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "どうでも、いいのだ。"
+        }
+      ]
+    },
+    {
+      "sid": "s000303",
+      "globalOffset": 6627,
+      "charCount": 8,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "私は負けたのだ。"
+        }
+      ]
+    },
+    {
+      "sid": "s000304",
+      "globalOffset": 6635,
+      "charCount": 7,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "だらしが無い。"
+        }
+      ]
+    },
+    {
+      "sid": "s000305",
+      "globalOffset": 6642,
+      "charCount": 6,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "笑ってくれ。"
+        }
+      ]
+    },
+    {
+      "sid": "s000306",
+      "globalOffset": 6648,
+      "charCount": 23,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "王は私に、ちょっとおくれて来い、と耳打ちした。"
+        }
+      ]
+    },
+    {
+      "sid": "s000307",
+      "globalOffset": 6671,
+      "charCount": 28,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "おくれたら、身代りを殺して、私を助けてくれると約束した。"
+        }
+      ]
+    },
+    {
+      "sid": "s000308",
+      "globalOffset": 6699,
+      "charCount": 11,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "私は王の卑劣を憎んだ。"
+        }
+      ]
+    },
+    {
+      "sid": "s000309",
+      "globalOffset": 6710,
+      "charCount": 29,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "けれども、今になってみると、私は王の言うままになっている。"
+        }
+      ]
+    },
+    {
+      "sid": "s000310",
+      "globalOffset": 6739,
+      "charCount": 13,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "私は、おくれて行くだろう。"
+        }
+      ]
+    },
+    {
+      "sid": "s000311",
+      "globalOffset": 6752,
+      "charCount": 33,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "王は、ひとり合点して私を笑い、そうして事も無く私を放免するだろう。"
+        }
+      ]
+    },
+    {
+      "sid": "s000312",
+      "globalOffset": 6785,
+      "charCount": 18,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "そうなったら、私は、死ぬよりつらい。"
+        }
+      ]
+    },
+    {
+      "sid": "s000313",
+      "globalOffset": 6803,
+      "charCount": 11,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "私は、永遠に裏切者だ。"
+        }
+      ]
+    },
+    {
+      "sid": "s000314",
+      "globalOffset": 6814,
+      "charCount": 14,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "地上で最も、不名誉の人種だ。"
+        }
+      ]
+    },
+    {
+      "sid": "s000315",
+      "globalOffset": 6828,
+      "charCount": 16,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "セリヌンティウスよ、私も死ぬぞ。"
+        }
+      ]
+    },
+    {
+      "sid": "s000316",
+      "globalOffset": 6844,
+      "charCount": 12,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "君と一緒に死なせてくれ。"
+        }
+      ]
+    },
+    {
+      "sid": "s000317",
+      "globalOffset": 6856,
+      "charCount": 19,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "君だけは私を信じてくれるにちがい無い。"
+        }
+      ]
+    },
+    {
+      "sid": "s000318",
+      "globalOffset": 6875,
+      "charCount": 17,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "いや、それも私の、ひとりよがりか？"
+        }
+      ]
+    },
+    {
+      "sid": "s000319",
+      "globalOffset": 6892,
+      "charCount": 26,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "　ああ、もういっそ、悪徳者として生き伸びてやろうか。"
+        }
+      ]
+    },
+    {
+      "sid": "s000320",
+      "globalOffset": 6918,
+      "charCount": 10,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "村には私の家が在る。"
+        }
+      ]
+    },
+    {
+      "sid": "s000321",
+      "globalOffset": 6928,
+      "charCount": 5,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "羊も居る。"
+        }
+      ]
+    },
+    {
+      "sid": "s000322",
+      "globalOffset": 6933,
+      "charCount": 29,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "妹夫婦は、まさか私を村から追い出すような事はしないだろう。"
+        }
+      ]
+    },
+    {
+      "sid": "s000323",
+      "globalOffset": 6962,
+      "charCount": 27,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "正義だの、信実だの、愛だの、考えてみれば、くだらない。"
+        }
+      ]
+    },
+    {
+      "sid": "s000324",
+      "globalOffset": 6989,
+      "charCount": 12,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "人を殺して自分が生きる。"
+        }
+      ]
+    },
+    {
+      "sid": "s000325",
+      "globalOffset": 7001,
+      "charCount": 18,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "それが人間世界の定法ではなかったか。"
+        }
+      ]
+    },
+    {
+      "sid": "s000326",
+      "globalOffset": 7019,
+      "charCount": 15,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "ああ、何もかも、ばかばかしい。"
+        }
+      ]
+    },
+    {
+      "sid": "s000327",
+      "globalOffset": 7034,
+      "charCount": 11,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "私は、醜い裏切り者だ。"
+        }
+      ]
+    },
+    {
+      "sid": "s000328",
+      "globalOffset": 7045,
+      "charCount": 14,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "どうとも、勝手にするがよい。"
+        }
+      ]
+    },
+    {
+      "sid": "s000329",
+      "globalOffset": 7059,
+      "charCount": 6,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "やんぬる"
+        },
+        {
+          "type": "ruby",
+          "base": "哉",
+          "ruby": "かな"
+        },
+        {
+          "type": "text",
+          "value": "。"
+        }
+      ]
+    },
+    {
+      "sid": "s000330",
+      "globalOffset": 7065,
+      "charCount": 26,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "――四肢を投げ出して、うとうと、まどろんでしまった。"
+        }
+      ]
+    },
+    {
+      "sid": "s000331",
+      "globalOffset": 7091,
+      "charCount": 19,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "ふと耳に、"
+        },
+        {
+          "type": "ruby",
+          "base": "潺々",
+          "ruby": "せんせん"
+        },
+        {
+          "type": "text",
+          "value": "、水の流れる音が聞えた。"
+        }
+      ]
+    },
+    {
+      "sid": "s000332",
+      "globalOffset": 7110,
+      "charCount": 21,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "そっと頭をもたげ、息を呑んで耳をすました。"
+        }
+      ]
+    },
+    {
+      "sid": "s000333",
+      "globalOffset": 7131,
+      "charCount": 18,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "すぐ足もとで、水が流れているらしい。"
+        }
+      ]
+    },
+    {
+      "sid": "s000334",
+      "globalOffset": 7149,
+      "charCount": 48,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "よろよろ起き上って、見ると、岩の裂目から"
+        },
+        {
+          "type": "ruby",
+          "base": "滾々",
+          "ruby": "こんこん"
+        },
+        {
+          "type": "text",
+          "value": "と、何か小さく"
+        },
+        {
+          "type": "ruby",
+          "base": "囁",
+          "ruby": "ささや"
+        },
+        {
+          "type": "text",
+          "value": "きながら清水が湧き出ているのである。"
+        }
+      ]
+    },
+    {
+      "sid": "s000335",
+      "globalOffset": 7197,
+      "charCount": 24,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "その泉に吸い込まれるようにメロスは身をかがめた。"
+        }
+      ]
+    },
+    {
+      "sid": "s000336",
+      "globalOffset": 7221,
+      "charCount": 16,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "水を両手で"
+        },
+        {
+          "type": "ruby",
+          "base": "掬",
+          "ruby": "すく"
+        },
+        {
+          "type": "text",
+          "value": "って、一くち飲んだ。"
+        }
+      ]
+    },
+    {
+      "sid": "s000337",
+      "globalOffset": 7237,
+      "charCount": 25,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "ほうと長い溜息が出て、夢から覚めたような気がした。"
+        }
+      ]
+    },
+    {
+      "sid": "s000338",
+      "globalOffset": 7262,
+      "charCount": 4,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "歩ける。"
+        }
+      ]
+    },
+    {
+      "sid": "s000339",
+      "globalOffset": 7266,
+      "charCount": 4,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "行こう。"
+        }
+      ]
+    },
+    {
+      "sid": "s000340",
+      "globalOffset": 7270,
+      "charCount": 24,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "肉体の疲労"
+        },
+        {
+          "type": "ruby",
+          "base": "恢復",
+          "ruby": "かいふく"
+        },
+        {
+          "type": "text",
+          "value": "と共に、わずかながら希望が生れた。"
+        }
+      ]
+    },
+    {
+      "sid": "s000341",
+      "globalOffset": 7294,
+      "charCount": 11,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "義務遂行の希望である。"
+        }
+      ]
+    },
+    {
+      "sid": "s000342",
+      "globalOffset": 7305,
+      "charCount": 19,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "わが身を殺して、名誉を守る希望である。"
+        }
+      ]
+    },
+    {
+      "sid": "s000343",
+      "globalOffset": 7324,
+      "charCount": 33,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "斜陽は赤い光を、樹々の葉に投じ、葉も枝も燃えるばかりに輝いている。"
+        }
+      ]
+    },
+    {
+      "sid": "s000344",
+      "globalOffset": 7357,
+      "charCount": 14,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "日没までには、まだ間がある。"
+        }
+      ]
+    },
+    {
+      "sid": "s000345",
+      "globalOffset": 7371,
+      "charCount": 15,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "私を、待っている人があるのだ。"
+        }
+      ]
+    },
+    {
+      "sid": "s000346",
+      "globalOffset": 7386,
+      "charCount": 26,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "少しも疑わず、静かに期待してくれている人があるのだ。"
+        }
+      ]
+    },
+    {
+      "sid": "s000347",
+      "globalOffset": 7412,
+      "charCount": 11,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "私は、信じられている。"
+        }
+      ]
+    },
+    {
+      "sid": "s000348",
+      "globalOffset": 7423,
+      "charCount": 14,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "私の命なぞは、問題ではない。"
+        }
+      ]
+    },
+    {
+      "sid": "s000349",
+      "globalOffset": 7437,
+      "charCount": 24,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "死んでお詫び、などと気のいい事は言って居られぬ。"
+        }
+      ]
+    },
+    {
+      "sid": "s000350",
+      "globalOffset": 7461,
+      "charCount": 16,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "私は、信頼に報いなければならぬ。"
+        }
+      ]
+    },
+    {
+      "sid": "s000351",
+      "globalOffset": 7477,
+      "charCount": 11,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "いまはただその一事だ。"
+        }
+      ]
+    },
+    {
+      "sid": "s000352",
+      "globalOffset": 7488,
+      "charCount": 3,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "走れ！"
+        }
+      ]
+    },
+    {
+      "sid": "s000353",
+      "globalOffset": 7491,
+      "charCount": 5,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "　メロス。"
+        }
+      ]
+    },
+    {
+      "sid": "s000354",
+      "globalOffset": 7496,
+      "charCount": 10,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "私は信頼されている。"
+        }
+      ]
+    },
+    {
+      "sid": "s000355",
+      "globalOffset": 7506,
+      "charCount": 10,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "私は信頼されている。"
+        }
+      ]
+    },
+    {
+      "sid": "s000356",
+      "globalOffset": 7516,
+      "charCount": 19,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "先刻の、あの悪魔の囁きは、あれは夢だ。"
+        }
+      ]
+    },
+    {
+      "sid": "s000357",
+      "globalOffset": 7535,
+      "charCount": 5,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "悪い夢だ。"
+        }
+      ]
+    },
+    {
+      "sid": "s000358",
+      "globalOffset": 7540,
+      "charCount": 7,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "忘れてしまえ。"
+        }
+      ]
+    },
+    {
+      "sid": "s000359",
+      "globalOffset": 7547,
+      "charCount": 28,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "五臓が疲れているときは、ふいとあんな悪い夢を見るものだ。"
+        }
+      ]
+    },
+    {
+      "sid": "s000360",
+      "globalOffset": 7575,
+      "charCount": 14,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "メロス、おまえの恥ではない。"
+        }
+      ]
+    },
+    {
+      "sid": "s000361",
+      "globalOffset": 7589,
+      "charCount": 14,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "やはり、おまえは真の勇者だ。"
+        }
+      ]
+    },
+    {
+      "sid": "s000362",
+      "globalOffset": 7603,
+      "charCount": 20,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "再び立って走れるようになったではないか。"
+        }
+      ]
+    },
+    {
+      "sid": "s000363",
+      "globalOffset": 7623,
+      "charCount": 6,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "ありがたい！"
+        }
+      ]
+    },
+    {
+      "sid": "s000364",
+      "globalOffset": 7629,
+      "charCount": 20,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "　私は、正義の士として死ぬ事が出来るぞ。"
+        }
+      ]
+    },
+    {
+      "sid": "s000365",
+      "globalOffset": 7649,
+      "charCount": 8,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "ああ、陽が沈む。"
+        }
+      ]
+    },
+    {
+      "sid": "s000366",
+      "globalOffset": 7657,
+      "charCount": 7,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "ずんずん沈む。"
+        }
+      ]
+    },
+    {
+      "sid": "s000367",
+      "globalOffset": 7664,
+      "charCount": 11,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "待ってくれ、ゼウスよ。"
+        }
+      ]
+    },
+    {
+      "sid": "s000368",
+      "globalOffset": 7675,
+      "charCount": 17,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "私は生れた時から正直な男であった。"
+        }
+      ]
+    },
+    {
+      "sid": "s000369",
+      "globalOffset": 7692,
+      "charCount": 18,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "正直な男のままにして死なせて下さい。"
+        }
+      ]
+    },
+    {
+      "sid": "s000370",
+      "globalOffset": 7710,
+      "charCount": 31,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "路行く人を押しのけ、"
+        },
+        {
+          "type": "ruby",
+          "base": "跳",
+          "ruby": "は"
+        },
+        {
+          "type": "text",
+          "value": "ねとばし、メロスは黒い風のように走った。"
+        }
+      ]
+    },
+    {
+      "sid": "s000371",
+      "globalOffset": 7741,
+      "charCount": 72,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "野原で酒宴の、その宴席のまっただ中を駈け抜け、酒宴の人たちを仰天させ、犬を"
+        },
+        {
+          "type": "ruby",
+          "base": "蹴",
+          "ruby": "け"
+        },
+        {
+          "type": "text",
+          "value": "とばし、小川を飛び越え、少しずつ沈んでゆく太陽の、十倍も早く走った。"
+        }
+      ]
+    },
+    {
+      "sid": "s000372",
+      "globalOffset": 7813,
+      "charCount": 32,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "一団の旅人と"
+        },
+        {
+          "type": "ruby",
+          "base": "颯",
+          "ruby": "さ"
+        },
+        {
+          "type": "text",
+          "value": "っとすれちがった瞬間、不吉な会話を小耳にはさんだ。"
+        }
+      ]
+    },
+    {
+      "sid": "s000373",
+      "globalOffset": 7845,
+      "charCount": 23,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "「"
+        },
+        {
+          "type": "quote",
+          "value": [
+            {
+              "type": "text",
+              "value": "いまごろは、あの男も、磔にかかっているよ。"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "value": "」"
+        }
+      ]
+    },
+    {
+      "sid": "s000374",
+      "globalOffset": 7868,
+      "charCount": 31,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "ああ、その男、その男のために私は、いまこんなに走っているのだ。"
+        }
+      ]
+    },
+    {
+      "sid": "s000375",
+      "globalOffset": 7899,
+      "charCount": 14,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "その男を死なせてはならない。"
+        }
+      ]
+    },
+    {
+      "sid": "s000376",
+      "globalOffset": 7913,
+      "charCount": 7,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "急げ、メロス。"
+        }
+      ]
+    },
+    {
+      "sid": "s000377",
+      "globalOffset": 7920,
+      "charCount": 9,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "おくれてはならぬ。"
+        }
+      ]
+    },
+    {
+      "sid": "s000378",
+      "globalOffset": 7929,
+      "charCount": 21,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "愛と誠の力を、いまこそ知らせてやるがよい。"
+        }
+      ]
+    },
+    {
+      "sid": "s000379",
+      "globalOffset": 7950,
+      "charCount": 14,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "風態なんかは、どうでもいい。"
+        }
+      ]
+    },
+    {
+      "sid": "s000380",
+      "globalOffset": 7964,
+      "charCount": 21,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "メロスは、いまは、ほとんど全裸体であった。"
+        }
+      ]
+    },
+    {
+      "sid": "s000381",
+      "globalOffset": 7985,
+      "charCount": 23,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "呼吸も出来ず、二度、三度、口から血が噴き出た。"
+        }
+      ]
+    },
+    {
+      "sid": "s000382",
+      "globalOffset": 8008,
+      "charCount": 4,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "見える。"
+        }
+      ]
+    },
+    {
+      "sid": "s000383",
+      "globalOffset": 8012,
+      "charCount": 24,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "はるか向うに小さく、シラクスの市の塔楼が見える。"
+        }
+      ]
+    },
+    {
+      "sid": "s000384",
+      "globalOffset": 8036,
+      "charCount": 20,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "塔楼は、夕陽を受けてきらきら光っている。"
+        }
+      ]
+    },
+    {
+      "sid": "s000385",
+      "globalOffset": 8056,
+      "charCount": 10,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "「"
+        },
+        {
+          "type": "quote",
+          "value": [
+            {
+              "type": "text",
+              "value": "ああ、メロス様。"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "value": "」"
+        }
+      ]
+    },
+    {
+      "sid": "s000386",
+      "globalOffset": 8066,
+      "charCount": 17,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "うめくような声が、風と共に聞えた。"
+        }
+      ]
+    },
+    {
+      "sid": "s000387",
+      "globalOffset": 8083,
+      "charCount": 5,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "「"
+        },
+        {
+          "type": "quote",
+          "value": [
+            {
+              "type": "text",
+              "value": "誰だ。"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "value": "」"
+        }
+      ]
+    },
+    {
+      "sid": "s000388",
+      "globalOffset": 8088,
+      "charCount": 13,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "メロスは走りながら尋ねた。"
+        }
+      ]
+    },
+    {
+      "sid": "s000389",
+      "globalOffset": 8101,
+      "charCount": 16,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "「"
+        },
+        {
+          "type": "quote",
+          "value": [
+            {
+              "type": "text",
+              "value": "フィロストラトスでございます。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sid": "s000390",
+      "globalOffset": 8117,
+      "charCount": 26,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "quote",
+          "value": [
+            {
+              "type": "text",
+              "value": "貴方のお友達セリヌンティウス様の弟子でございます。"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "value": "」"
+        }
+      ]
+    },
+    {
+      "sid": "s000391",
+      "globalOffset": 8143,
+      "charCount": 26,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "その若い石工も、メロスの後について走りながら叫んだ。"
+        }
+      ]
+    },
+    {
+      "sid": "s000392",
+      "globalOffset": 8169,
+      "charCount": 13,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "「"
+        },
+        {
+          "type": "quote",
+          "value": [
+            {
+              "type": "text",
+              "value": "もう、駄目でございます。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sid": "s000393",
+      "globalOffset": 8182,
+      "charCount": 9,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "quote",
+          "value": [
+            {
+              "type": "text",
+              "value": "むだでございます。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sid": "s000394",
+      "globalOffset": 8191,
+      "charCount": 12,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "quote",
+          "value": [
+            {
+              "type": "text",
+              "value": "走るのは、やめて下さい。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sid": "s000395",
+      "globalOffset": 8203,
+      "charCount": 23,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "quote",
+          "value": [
+            {
+              "type": "text",
+              "value": "もう、あの"
+            },
+            {
+              "type": "ruby",
+              "base": "方",
+              "ruby": "かた"
+            },
+            {
+              "type": "text",
+              "value": "をお助けになることは出来ません。"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "value": "」"
+        }
+      ]
+    },
+    {
+      "sid": "s000396",
+      "globalOffset": 8226,
+      "charCount": 13,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "「"
+        },
+        {
+          "type": "quote",
+          "value": [
+            {
+              "type": "text",
+              "value": "いや、まだ陽は沈まぬ。"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "value": "」"
+        }
+      ]
+    },
+    {
+      "sid": "s000397",
+      "globalOffset": 8239,
+      "charCount": 22,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "「"
+        },
+        {
+          "type": "quote",
+          "value": [
+            {
+              "type": "text",
+              "value": "ちょうど今、あの方が死刑になるところです。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sid": "s000398",
+      "globalOffset": 8261,
+      "charCount": 12,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "quote",
+          "value": [
+            {
+              "type": "text",
+              "value": "ああ、あなたは遅かった。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sid": "s000399",
+      "globalOffset": 8273,
+      "charCount": 9,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "quote",
+          "value": [
+            {
+              "type": "text",
+              "value": "おうらみ申します。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sid": "s000400",
+      "globalOffset": 8282,
+      "charCount": 23,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "quote",
+          "value": [
+            {
+              "type": "text",
+              "value": "ほんの少し、もうちょっとでも、早かったなら！"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "value": "」"
+        }
+      ]
+    },
+    {
+      "sid": "s000401",
+      "globalOffset": 8305,
+      "charCount": 13,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "「"
+        },
+        {
+          "type": "quote",
+          "value": [
+            {
+              "type": "text",
+              "value": "いや、まだ陽は沈まぬ。"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "value": "」"
+        }
+      ]
+    },
+    {
+      "sid": "s000402",
+      "globalOffset": 8318,
+      "charCount": 33,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "メロスは胸の張り裂ける思いで、赤く大きい夕陽ばかりを見つめていた。"
+        }
+      ]
+    },
+    {
+      "sid": "s000403",
+      "globalOffset": 8351,
+      "charCount": 9,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "走るより他は無い。"
+        }
+      ]
+    },
+    {
+      "sid": "s000404",
+      "globalOffset": 8360,
+      "charCount": 8,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "「"
+        },
+        {
+          "type": "quote",
+          "value": [
+            {
+              "type": "text",
+              "value": "やめて下さい。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sid": "s000405",
+      "globalOffset": 8368,
+      "charCount": 12,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "quote",
+          "value": [
+            {
+              "type": "text",
+              "value": "走るのは、やめて下さい。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sid": "s000406",
+      "globalOffset": 8380,
+      "charCount": 15,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "quote",
+          "value": [
+            {
+              "type": "text",
+              "value": "いまはご自分のお命が大事です。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sid": "s000407",
+      "globalOffset": 8395,
+      "charCount": 18,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "quote",
+          "value": [
+            {
+              "type": "text",
+              "value": "あの方は、あなたを信じて居りました。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sid": "s000408",
+      "globalOffset": 8413,
+      "charCount": 19,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "quote",
+          "value": [
+            {
+              "type": "text",
+              "value": "刑場に引き出されても、平気でいました。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sid": "s000409",
+      "globalOffset": 8432,
+      "charCount": 57,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "quote",
+          "value": [
+            {
+              "type": "text",
+              "value": "王様が、さんざんあの方をからかっても、メロスは来ます、とだけ答え、強い信念を持ちつづけている様子でございました。"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "value": "」"
+        }
+      ]
+    },
+    {
+      "sid": "s000410",
+      "globalOffset": 8489,
+      "charCount": 12,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "「"
+        },
+        {
+          "type": "quote",
+          "value": [
+            {
+              "type": "text",
+              "value": "それだから、走るのだ。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sid": "s000411",
+      "globalOffset": 8501,
+      "charCount": 14,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "quote",
+          "value": [
+            {
+              "type": "text",
+              "value": "信じられているから走るのだ。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sid": "s000412",
+      "globalOffset": 8515,
+      "charCount": 19,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "quote",
+          "value": [
+            {
+              "type": "text",
+              "value": "間に合う、間に合わぬは問題でないのだ。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sid": "s000413",
+      "globalOffset": 8534,
+      "charCount": 12,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "quote",
+          "value": [
+            {
+              "type": "text",
+              "value": "人の命も問題でないのだ。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sid": "s000414",
+      "globalOffset": 8546,
+      "charCount": 31,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "quote",
+          "value": [
+            {
+              "type": "text",
+              "value": "私は、なんだか、もっと恐ろしく大きいものの為に走っているのだ。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sid": "s000415",
+      "globalOffset": 8577,
+      "charCount": 6,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "quote",
+          "value": [
+            {
+              "type": "text",
+              "value": "ついて来い！"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sid": "s000416",
+      "globalOffset": 8583,
+      "charCount": 11,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "quote",
+          "value": [
+            {
+              "type": "text",
+              "value": "　フィロストラトス。"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "value": "」"
+        }
+      ]
+    },
+    {
+      "sid": "s000417",
+      "globalOffset": 8594,
+      "charCount": 15,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "「"
+        },
+        {
+          "type": "quote",
+          "value": [
+            {
+              "type": "text",
+              "value": "ああ、あなたは気が狂ったか。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sid": "s000418",
+      "globalOffset": 8609,
+      "charCount": 14,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "quote",
+          "value": [
+            {
+              "type": "text",
+              "value": "それでは、うんと走るがいい。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sid": "s000419",
+      "globalOffset": 8623,
+      "charCount": 20,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "quote",
+          "value": [
+            {
+              "type": "text",
+              "value": "ひょっとしたら、間に合わぬものでもない。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sid": "s000420",
+      "globalOffset": 8643,
+      "charCount": 7,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "quote",
+          "value": [
+            {
+              "type": "text",
+              "value": "走るがいい。"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "value": "」"
+        }
+      ]
+    },
+    {
+      "sid": "s000421",
+      "globalOffset": 8650,
+      "charCount": 7,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "言うにや及ぶ。"
+        }
+      ]
+    },
+    {
+      "sid": "s000422",
+      "globalOffset": 8657,
+      "charCount": 8,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "まだ陽は沈まぬ。"
+        }
+      ]
+    },
+    {
+      "sid": "s000423",
+      "globalOffset": 8665,
+      "charCount": 18,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "最後の死力を尽して、メロスは走った。"
+        }
+      ]
+    },
+    {
+      "sid": "s000424",
+      "globalOffset": 8683,
+      "charCount": 13,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "メロスの頭は、からっぽだ。"
+        }
+      ]
+    },
+    {
+      "sid": "s000425",
+      "globalOffset": 8696,
+      "charCount": 10,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "何一つ考えていない。"
+        }
+      ]
+    },
+    {
+      "sid": "s000426",
+      "globalOffset": 8706,
+      "charCount": 25,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "ただ、わけのわからぬ大きな力にひきずられて走った。"
+        }
+      ]
+    },
+    {
+      "sid": "s000427",
+      "globalOffset": 8731,
+      "charCount": 53,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "陽は、ゆらゆら地平線に没し、まさに最後の一片の残光も、消えようとした時、メロスは疾風の如く刑場に突入した。"
+        }
+      ]
+    },
+    {
+      "sid": "s000428",
+      "globalOffset": 8784,
+      "charCount": 6,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "間に合った。"
+        }
+      ]
+    },
+    {
+      "sid": "s000429",
+      "globalOffset": 8790,
+      "charCount": 4,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "「"
+        },
+        {
+          "type": "quote",
+          "value": [
+            {
+              "type": "text",
+              "value": "待て。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sid": "s000430",
+      "globalOffset": 8794,
+      "charCount": 12,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "quote",
+          "value": [
+            {
+              "type": "text",
+              "value": "その人を殺してはならぬ。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sid": "s000431",
+      "globalOffset": 8806,
+      "charCount": 10,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "quote",
+          "value": [
+            {
+              "type": "text",
+              "value": "メロスが帰って来た。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sid": "s000432",
+      "globalOffset": 8816,
+      "charCount": 17,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "quote",
+          "value": [
+            {
+              "type": "text",
+              "value": "約束のとおり、いま、帰って来た。"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "value": "」"
+        }
+      ]
+    },
+    {
+      "sid": "s000433",
+      "globalOffset": 8833,
+      "charCount": 68,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "と大声で刑場の群衆にむかって叫んだつもりであったが、"
+        },
+        {
+          "type": "ruby",
+          "base": "喉",
+          "ruby": "のど"
+        },
+        {
+          "type": "text",
+          "value": "がつぶれて"
+        },
+        {
+          "type": "ruby",
+          "base": "嗄",
+          "ruby": "しわが"
+        },
+        {
+          "type": "text",
+          "value": "れた声が"
+        },
+        {
+          "type": "ruby",
+          "base": "幽",
+          "ruby": "かす"
+        },
+        {
+          "type": "text",
+          "value": "かに出たばかり、群衆は、ひとりとして彼の到着に気がつかない。"
+        }
+      ]
+    },
+    {
+      "sid": "s000434",
+      "globalOffset": 8901,
+      "charCount": 44,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "すでに磔の柱が高々と立てられ、縄を打たれたセリヌンティウスは、徐々に釣り上げられてゆく。"
+        }
+      ]
+    },
+    {
+      "sid": "s000435",
+      "globalOffset": 8945,
+      "charCount": 41,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "メロスはそれを目撃して最後の勇、先刻、濁流を泳いだように群衆を掻きわけ、掻きわけ、"
+        }
+      ]
+    },
+    {
+      "sid": "s000436",
+      "globalOffset": 8986,
+      "charCount": 7,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "「"
+        },
+        {
+          "type": "quote",
+          "value": [
+            {
+              "type": "text",
+              "value": "私だ、刑吏！"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sid": "s000437",
+      "globalOffset": 8993,
+      "charCount": 11,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "quote",
+          "value": [
+            {
+              "type": "text",
+              "value": "　殺されるのは、私だ。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sid": "s000438",
+      "globalOffset": 9004,
+      "charCount": 5,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "quote",
+          "value": [
+            {
+              "type": "text",
+              "value": "メロスだ。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sid": "s000439",
+      "globalOffset": 9009,
+      "charCount": 17,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "quote",
+          "value": [
+            {
+              "type": "text",
+              "value": "彼を人質にした私は、ここにいる！"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "value": "」"
+        }
+      ]
+    },
+    {
+      "sid": "s000440",
+      "globalOffset": 9026,
+      "charCount": 49,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "と、かすれた声で精一ぱいに叫びながら、ついに磔台に昇り、釣り上げられてゆく友の両足に、"
+        },
+        {
+          "type": "ruby",
+          "base": "齧",
+          "ruby": "かじ"
+        },
+        {
+          "type": "text",
+          "value": "りついた。"
+        }
+      ]
+    },
+    {
+      "sid": "s000441",
+      "globalOffset": 9075,
+      "charCount": 10,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "群衆は、どよめいた。"
+        }
+      ]
+    },
+    {
+      "sid": "s000442",
+      "globalOffset": 9085,
+      "charCount": 5,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "あっぱれ。"
+        }
+      ]
+    },
+    {
+      "sid": "s000443",
+      "globalOffset": 9090,
+      "charCount": 13,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "ゆるせ、と口々にわめいた。"
+        }
+      ]
+    },
+    {
+      "sid": "s000444",
+      "globalOffset": 9103,
+      "charCount": 22,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "セリヌンティウスの縄は、ほどかれたのである。"
+        }
+      ]
+    },
+    {
+      "sid": "s000445",
+      "globalOffset": 9125,
+      "charCount": 11,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "「"
+        },
+        {
+          "type": "quote",
+          "value": [
+            {
+              "type": "text",
+              "value": "セリヌンティウス。"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "value": "」"
+        }
+      ]
+    },
+    {
+      "sid": "s000446",
+      "globalOffset": 9136,
+      "charCount": 15,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "メロスは眼に涙を浮べて言った。"
+        }
+      ]
+    },
+    {
+      "sid": "s000447",
+      "globalOffset": 9151,
+      "charCount": 6,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "「"
+        },
+        {
+          "type": "quote",
+          "value": [
+            {
+              "type": "text",
+              "value": "私を殴れ。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sid": "s000448",
+      "globalOffset": 9157,
+      "charCount": 12,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "quote",
+          "value": [
+            {
+              "type": "text",
+              "value": "ちから一ぱいに頬を殴れ。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sid": "s000449",
+      "globalOffset": 9169,
+      "charCount": 16,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "quote",
+          "value": [
+            {
+              "type": "text",
+              "value": "私は、途中で一度、悪い夢を見た。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sid": "s000450",
+      "globalOffset": 9185,
+      "charCount": 34,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "quote",
+          "value": [
+            {
+              "type": "text",
+              "value": "君が"
+            },
+            {
+              "type": "ruby",
+              "base": "若",
+              "ruby": "も"
+            },
+            {
+              "type": "text",
+              "value": "し私を殴ってくれなかったら、私は君と抱擁する資格さえ無いのだ。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sid": "s000451",
+      "globalOffset": 9219,
+      "charCount": 4,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "quote",
+          "value": [
+            {
+              "type": "text",
+              "value": "殴れ。"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "value": "」"
+        }
+      ]
+    },
+    {
+      "sid": "s000452",
+      "globalOffset": 9223,
+      "charCount": 50,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "セリヌンティウスは、すべてを察した様子で"
+        },
+        {
+          "type": "ruby",
+          "base": "首肯",
+          "ruby": "うなず"
+        },
+        {
+          "type": "text",
+          "value": "き、刑場一ぱいに鳴り響くほど音高くメロスの右頬を殴った。"
+        }
+      ]
+    },
+    {
+      "sid": "s000453",
+      "globalOffset": 9273,
+      "charCount": 12,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "殴ってから優しく"
+        },
+        {
+          "type": "ruby",
+          "base": "微笑",
+          "ruby": "ほほえ"
+        },
+        {
+          "type": "text",
+          "value": "み、"
+        }
+      ]
+    },
+    {
+      "sid": "s000454",
+      "globalOffset": 9285,
+      "charCount": 10,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "「"
+        },
+        {
+          "type": "quote",
+          "value": [
+            {
+              "type": "text",
+              "value": "メロス、私を殴れ。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sid": "s000455",
+      "globalOffset": 9295,
+      "charCount": 15,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "quote",
+          "value": [
+            {
+              "type": "text",
+              "value": "同じくらい音高く私の頬を殴れ。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sid": "s000456",
+      "globalOffset": 9310,
+      "charCount": 26,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "quote",
+          "value": [
+            {
+              "type": "text",
+              "value": "私はこの三日の間、たった一度だけ、ちらと君を疑った。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sid": "s000457",
+      "globalOffset": 9336,
+      "charCount": 14,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "quote",
+          "value": [
+            {
+              "type": "text",
+              "value": "生れて、はじめて君を疑った。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sid": "s000458",
+      "globalOffset": 9350,
+      "charCount": 26,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "quote",
+          "value": [
+            {
+              "type": "text",
+              "value": "君が私を殴ってくれなければ、私は君と抱擁できない。"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "value": "」"
+        }
+      ]
+    },
+    {
+      "sid": "s000459",
+      "globalOffset": 9376,
+      "charCount": 27,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "メロスは腕に"
+        },
+        {
+          "type": "ruby",
+          "base": "唸",
+          "ruby": "うな"
+        },
+        {
+          "type": "text",
+          "value": "りをつけてセリヌンティウスの頬を殴った。"
+        }
+      ]
+    },
+    {
+      "sid": "s000460",
+      "globalOffset": 9403,
+      "charCount": 11,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "「"
+        },
+        {
+          "type": "quote",
+          "value": [
+            {
+              "type": "text",
+              "value": "ありがとう、友よ。"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "value": "」"
+        }
+      ]
+    },
+    {
+      "sid": "s000461",
+      "globalOffset": 9414,
+      "charCount": 38,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "二人同時に言い、ひしと抱き合い、それから嬉し泣きにおいおい声を放って泣いた。"
+        }
+      ]
+    },
+    {
+      "sid": "s000462",
+      "globalOffset": 9452,
+      "charCount": 17,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "群衆の中からも、"
+        },
+        {
+          "type": "ruby",
+          "base": "歔欷",
+          "ruby": "きょき"
+        },
+        {
+          "type": "text",
+          "value": "の声が聞えた。"
+        }
+      ]
+    },
+    {
+      "sid": "s000463",
+      "globalOffset": 9469,
+      "charCount": 62,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "暴君ディオニスは、群衆の背後から二人の様を、まじまじと見つめていたが、やがて静かに二人に近づき、顔をあからめて、こう言った。"
+        }
+      ]
+    },
+    {
+      "sid": "s000464",
+      "globalOffset": 9531,
+      "charCount": 14,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "「"
+        },
+        {
+          "type": "quote",
+          "value": [
+            {
+              "type": "text",
+              "value": "おまえらの望みは"
+            },
+            {
+              "type": "ruby",
+              "base": "叶",
+              "ruby": "かな"
+            },
+            {
+              "type": "text",
+              "value": "ったぞ。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sid": "s000465",
+      "globalOffset": 9545,
+      "charCount": 17,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "quote",
+          "value": [
+            {
+              "type": "text",
+              "value": "おまえらは、わしの心に勝ったのだ。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sid": "s000466",
+      "globalOffset": 9562,
+      "charCount": 20,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "quote",
+          "value": [
+            {
+              "type": "text",
+              "value": "信実とは、決して空虚な妄想ではなかった。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sid": "s000467",
+      "globalOffset": 9582,
+      "charCount": 20,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "quote",
+          "value": [
+            {
+              "type": "text",
+              "value": "どうか、わしをも仲間に入れてくれまいか。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sid": "s000468",
+      "globalOffset": 9602,
+      "charCount": 34,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "quote",
+          "value": [
+            {
+              "type": "text",
+              "value": "どうか、わしの願いを聞き入れて、おまえらの仲間の一人にしてほしい。"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "value": "」"
+        }
+      ]
+    },
+    {
+      "sid": "s000469",
+      "globalOffset": 9636,
+      "charCount": 16,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "どっと群衆の間に、歓声が起った。"
+        }
+      ]
+    },
+    {
+      "sid": "s000470",
+      "globalOffset": 9652,
+      "charCount": 10,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "「"
+        },
+        {
+          "type": "quote",
+          "value": [
+            {
+              "type": "text",
+              "value": "万歳、王様万歳。"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "value": "」"
+        }
+      ]
+    },
+    {
+      "sid": "s000471",
+      "globalOffset": 9662,
+      "charCount": 22,
+      "hasRuby": true,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "ひとりの少女が、"
+        },
+        {
+          "type": "ruby",
+          "base": "緋",
+          "ruby": "ひ"
+        },
+        {
+          "type": "text",
+          "value": "のマントをメロスに捧げた。"
+        }
+      ]
+    },
+    {
+      "sid": "s000472",
+      "globalOffset": 9684,
+      "charCount": 11,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "メロスは、まごついた。"
+        }
+      ]
+    },
+    {
+      "sid": "s000473",
+      "globalOffset": 9695,
+      "charCount": 18,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "佳き友は、気をきかせて教えてやった。"
+        }
+      ]
+    },
+    {
+      "sid": "s000474",
+      "globalOffset": 9713,
+      "charCount": 19,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "「"
+        },
+        {
+          "type": "quote",
+          "value": [
+            {
+              "type": "text",
+              "value": "メロス、君は、まっぱだかじゃないか。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sid": "s000475",
+      "globalOffset": 9732,
+      "charCount": 14,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "quote",
+          "value": [
+            {
+              "type": "text",
+              "value": "早くそのマントを着るがいい。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sid": "s000476",
+      "globalOffset": 9746,
+      "charCount": 40,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "quote",
+          "value": [
+            {
+              "type": "text",
+              "value": "この可愛い娘さんは、メロスの裸体を、皆に見られるのが、たまらなく口惜しいのだ。"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "value": "」"
+        }
+      ]
+    },
+    {
+      "sid": "s000477",
+      "globalOffset": 9786,
+      "charCount": 12,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "勇者は、ひどく赤面した。"
+        }
+      ]
+    },
+    {
+      "sid": "s000478",
+      "globalOffset": 9798,
+      "charCount": 16,
+      "hasRuby": false,
+      "tokens": [
+        {
+          "type": "text",
+          "value": "（古伝説と、シルレルの詩から。）"
+        }
+      ]
+    }
+  ]
+}

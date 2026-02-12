@@ -1,0 +1,159 @@
+{
+  "version": "books-index-1.0",
+  "generatedAt": "2025-09-20T09:18:24Z",
+  "count": 8,
+  "items": [
+    {
+      "id": "hashire_merosu",
+      "title": "走れメロス",
+      "author": "太宰治",
+      "opening": "メロスは激怒した。必ず、かの邪智暴虐の王を除かなければならぬと決意した。",
+      "readingTimeMinutes": 25,
+      "durationTag": "30分以内",
+      "charCount": 9818,
+      "categories": [
+        "文豪クラシック"
+      ],
+      "tags": [],
+      "popularityRank": 7,
+      "hasRuby": true,
+      "headingsCount": 0,
+      "source": {
+        "href": "/books/hashire_merosu.json"
+      }
+    },
+    {
+      "id": "wagahaiwa_nekodearu",
+      "title": "吾輩は猫である",
+      "author": "夏目漱石",
+      "opening": "吾輩は猫である。名前はまだ無い。",
+      "readingTimeMinutes": 798,
+      "durationTag": "1時間以上",
+      "charCount": 318827,
+      "categories": [
+        "文豪クラシック"
+      ],
+      "tags": [],
+      "popularityRank": 1,
+      "hasRuby": true,
+      "headingsCount": 12,
+      "source": {
+        "href": "/books/wagahaiwa_nekodearu.json"
+      }
+    },
+    {
+      "id": "kumono_ito",
+      "title": "蜘蛛の糸",
+      "author": "芥川龍之介",
+      "opening": "ある日の事でございます。御釈迦様は極楽の蓮池のふちを、独りでぶらぶら御歩きになっていらっしゃいました。",
+      "readingTimeMinutes": 8,
+      "durationTag": "10分以内",
+      "charCount": 2852,
+      "categories": [
+        "文豪クラシック"
+      ],
+      "tags": [],
+      "popularityRank": 8,
+      "hasRuby": true,
+      "headingsCount": 3,
+      "source": {
+        "href": "/books/kumono_ito.json"
+      }
+    },
+    {
+      "id": "kokoro",
+      "title": "こころ",
+      "author": "夏目漱石",
+      "opening": "私はその人を常に先生と呼んでいた。だからここでもただ先生と書くだけで本名は打ち明けない。",
+      "readingTimeMinutes": 401,
+      "durationTag": "1時間以上",
+      "charCount": 160136,
+      "categories": [
+        "文豪クラシック"
+      ],
+      "tags": [],
+      "popularityRank": 2,
+      "hasRuby": true,
+      "headingsCount": 113,
+      "source": {
+        "href": "/books/kokoro.json"
+      }
+    },
+    {
+      "id": "ningen_shikkaku",
+      "title": "人間失格",
+      "author": "太宰治",
+      "opening": "私は、その男の写真を三葉、見たことがある。一葉は、その男の、幼年時代、とでも言うべきであろうか、十歳前後かと推定される頃の写真であって、その子供が大勢の女のひとに取りかこまれ、（それは、その子供の姉たち、妹たち、それから、従姉妹たちかと想像される）庭園の池のほとりに、荒い縞の袴をはいて立ち、首を三十度ほど左に傾け、醜く笑っている写真である。",
+      "readingTimeMinutes": 182,
+      "durationTag": "1時間以上",
+      "charCount": 72557,
+      "categories": [
+        "文豪クラシック"
+      ],
+      "tags": [],
+      "popularityRank": 3,
+      "hasRuby": true,
+      "headingsCount": 7,
+      "source": {
+        "href": "/books/ningen_shikkaku.json"
+      }
+    },
+    {
+      "id": "bocchan",
+      "title": "坊っちゃん",
+      "author": "夏目漱石",
+      "opening": "親譲りの無鉄砲で小供の時から損ばかりしている。小学校に居る時分学校の二階から飛び降りて一週間ほど腰を抜かした事がある。",
+      "readingTimeMinutes": 221,
+      "durationTag": "1時間以上",
+      "charCount": 88398,
+      "categories": [
+        "文豪クラシック"
+      ],
+      "tags": [],
+      "popularityRank": 4,
+      "hasRuby": true,
+      "headingsCount": 11,
+      "source": {
+        "href": "/books/bocchan.json"
+      }
+    },
+    {
+      "id": "rashomon",
+      "title": "羅生門",
+      "author": "芥川龍之介",
+      "opening": "ある日の暮方の事である。一人の下人が、羅生門の下で雨やみを待っていた。",
+      "readingTimeMinutes": 15,
+      "durationTag": "20分以内",
+      "charCount": 5695,
+      "categories": [
+        "文豪クラシック"
+      ],
+      "tags": [],
+      "popularityRank": 5,
+      "hasRuby": true,
+      "headingsCount": 0,
+      "source": {
+        "href": "/books/rashomon.json"
+      }
+    },
+    {
+      "id": "sangetsuki",
+      "title": "山月記",
+      "author": "中島敦",
+      "opening": "隴西の李徴は博学｜才穎、天宝の末年、若くして名を虎榜に連ね、ついで江南尉に補せられたが、性、狷介、自ら恃むところ頗る厚く、賤吏に甘んずるを潔しとしなかった。いくばくもなく官を退いた後は、故山、略に帰臥し、人と交を絶って、ひたすら詩作に耽った。",
+      "readingTimeMinutes": 15,
+      "durationTag": "20分以内",
+      "charCount": 5775,
+      "categories": [
+        "文豪クラシック"
+      ],
+      "tags": [],
+      "popularityRank": 6,
+      "hasRuby": true,
+      "headingsCount": 0,
+      "source": {
+        "href": "/books/sangetsuki.json"
+      }
+    }
+  ]
+}
