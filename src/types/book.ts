@@ -14,13 +14,10 @@ export interface Book {
   isFavorite?: boolean;
 }
 
-export interface Token {
-  type: 'text' | 'ruby' | 'quote';
-  value?: string;
-  base?: string;
-  ruby?: string;
-  countKuten?: boolean;
-}
+export type Token =
+  | { type: 'text'; value: string }
+  | { type: 'ruby'; base: string; ruby: string }
+  | { type: 'quote'; value: Token[]; countKuten?: boolean };
 
 export interface Sentence {
   offset: number;

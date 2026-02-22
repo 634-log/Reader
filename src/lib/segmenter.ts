@@ -1,13 +1,10 @@
 // segmenter.ts
 
 // ========= Types =========
-export interface Token {
-  type: 'text' | 'ruby' | 'quote';
-  value?: string;            // text 用
-  base?: string;             // ruby 用
-  ruby?: string;             // ruby 用
-  countKuten?: boolean;      // quote ピースの末尾だけ true（句点カウント用）
-}
+export type Token =
+  | { type: 'text'; value: string }
+  | { type: 'ruby'; base: string; ruby: string }
+  | { type: 'quote'; value: Token[]; countKuten?: boolean };
 
 export interface Mode {
   kutenTarget: number; // 目標句点数
@@ -26,12 +23,11 @@ let currentMode: Mode = MODES.default;
 // ========= 可視長 =========
 function visibleLengthOfToken(tok: Token): number {
   if (!tok) return 0;
-  if (tok.type === 'ruby') return Array.from(tok.base || '').length;
+  if (tok.type === 'ruby') return Array.from(tok.base).length;
   if (tok.type === 'quote') {
-    const arr = (tok as unknown as { value: Token[] }).value || [];
-    return visibleLengthOfTokens(arr);
+    return visibleLengthOfTokens(tok.value);
   }
-  return Array.from(tok.value || '').length;
+  return Array.from(tok.value).length;
 }
 function visibleLengthOfTokens(tokens: Token[]): number {
   return tokens.reduce((n, t) => n + visibleLengthOfToken(t), 0);
@@ -42,14 +38,14 @@ function escapeHTML(s: string): string {
   return s.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');
 }
 function isOpenQuote(t: Token): boolean {
-  return t.type === 'text' && typeof t.value === 'string' && t.value.includes('「');
+  return t.type === 'text' && t.value.includes('「');
 }
 function isCloseQuote(t: Token): boolean {
-  return t.type === 'text' && typeof t.value === 'string' && t.value.includes('」');
+  return t.type === 'text' && t.value.includes('」');
 }
 function splitTextByComma(t: Token): Token[] {
   if (t.type !== 'text') return [t];
-  const txt = t.value || '';
+  const txt = t.value;
   if (!txt.includes('、')) return [t];
   const parts = txt.split('、');
   return parts
@@ -58,7 +54,7 @@ function splitTextByComma(t: Token): Token[] {
 }
 function splitTextByKuten(t: Token): Token[] {
   if (t.type !== 'text') return [t];
-  const txt = t.value || '';
+  const txt = t.value;
   if (!txt.includes('。')) return [t];
   const raw = txt.split('。');
   return raw
@@ -66,7 +62,7 @@ function splitTextByKuten(t: Token): Token[] {
     .filter(x => x.value !== '');
 }
 function forceCutTextToken(tok: Token, room: number): { head: Token[]; rest: Token | null } {
-  const s = tok.value || '';
+  const s = tok.type === 'text' ? tok.value : '';
   const arr = Array.from(s);
   if (arr.length <= room) return { head: [tok], rest: null };
   const head = arr.slice(0, room).join('');
@@ -95,8 +91,7 @@ function normalizeQuoteRunsAcrossSentences(sentencesTokens: Token[][]): Token[] 
 
   const flushRun = (closed: boolean) => {
     if (buf.length === 0) return;
-    const q: Token = { type: 'quote', countKuten: closed } as Token;
-    (q as unknown as { value: Token[] }).value = buf;
+    const q: Token = { type: 'quote', value: buf, countKuten: closed };
     out.push(q);
     buf = [];
     inRun = false;
@@ -119,9 +114,7 @@ function normalizeQuoteRunsAcrossSentences(sentencesTokens: Token[][]): Token[] 
           // まれなケース: 括弧トークンが欠落していて、内容だけが来た場合
           // そのまま地の文として扱うのではなく、ランとして扱う（括弧は無いまま）
           inRun = true;
-          // 旧 quote の中身をフラットに取り込む
-          const inner = (tok as unknown as { value: Token[] }).value || [];
-          buf.push(...inner);
+          buf.push(...tok.value);
           continue;
         }
         out.push(tok);
@@ -137,9 +130,7 @@ function normalizeQuoteRunsAcrossSentences(sentencesTokens: Token[][]): Token[] 
       }
 
       if (tok.type === 'quote') {
-        // 旧 quote は中身をフラットに
-        const inner = (tok as unknown as { value: Token[] }).value || [];
-        buf.push(...inner);
+        buf.push(...tok.value);
         continue;
       }
 
@@ -156,7 +147,8 @@ function normalizeQuoteRunsAcrossSentences(sentencesTokens: Token[][]): Token[] 
 
 // ========= quote 超過時の cap 分割 =========
 function breakLongQuote(quoteTok: Token, cap: number): Token[] {
-  const original = (quoteTok as unknown as { value: Token[] }).value || [];
+  if (quoteTok.type !== 'quote') return [];
+  const original = quoteTok.value;
   const hadOpen = original.some(t => isOpenQuote(t));
   const hadClose = original.some(t => isCloseQuote(t));
 
@@ -226,9 +218,7 @@ function breakLongQuote(quoteTok: Token, cap: number): Token[] {
     v.push(...arr);
     if (idx === pieces.length - 1 && hadClose) v.push({ type: 'text', value: '」' });
 
-    const q: Token = { type: 'quote', countKuten: idx === pieces.length - 1 } as Token;
-    (q as unknown as { value: Token[] }).value = v;
-    return q;
+    return { type: 'quote', value: v, countKuten: idx === pieces.length - 1 } as Token;
   });
 
   return out;
@@ -292,8 +282,7 @@ function paginateSentences(sentencesTokens: Token[][], modeNameOrObj?: ModeName 
 
     // 句点カウント
     if (tok.type === 'text') {
-      const v = tok.value || '';
-      if (/[。！？]$/.test(v)) kutenCount++;
+      if (/[。！？]$/.test(tok.value)) kutenCount++;
     } else if (tok.type === 'quote') {
       if (tok.countKuten !== false) kutenCount++;
     }
@@ -310,12 +299,11 @@ function tokensToHTML(tokens: Token[]): string {
   return tokens
     .map(tok => {
       if (tok.type === 'ruby') {
-        return `<ruby>${escapeHTML(tok.base || '')}<rt>${escapeHTML(tok.ruby || '')}</rt></ruby>`;
+        return `<ruby>${escapeHTML(tok.base)}<rt>${escapeHTML(tok.ruby)}</rt></ruby>`;
       } else if (tok.type === 'quote') {
-        const arr = (tok as unknown as { value: Token[] }).value || [];
-        return tokensToHTML(arr); // 再帰
+        return tokensToHTML(tok.value);
       } else {
-        return escapeHTML(tok.value || '');
+        return escapeHTML(tok.value);
       }
     })
     .join('');

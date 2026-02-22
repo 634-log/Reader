@@ -80,12 +80,10 @@ const END_PUNC_RE = /[。！？]$/;
 /** quote 内側の"最後の見える text"を後ろから探す */
 function getLastInnerVisibleText(quoteTok: Token | undefined): string | undefined {
   if (!quoteTok || quoteTok.type !== 'quote') return undefined;
-  const quoteTokens = (quoteTok as any).value as Token[] | undefined;
-  if (!Array.isArray(quoteTokens)) return undefined;
-  for (let k = quoteTokens.length - 1; k >= 0; k--) {
-    const it = quoteTokens[k];
+  for (let k = quoteTok.value.length - 1; k >= 0; k--) {
+    const it = quoteTok.value[k];
     if (it?.type === 'text') {
-      const v = (it.value || '').trim();
+      const v = it.value.trim();
       if (v) return v;
     }
   }
@@ -152,11 +150,10 @@ function renderSentence(tokens: Token[] | string) {
         if (lastInner && lastInner.endsWith('」')) breakBefore = true;
       }
 
-      const quoteInner = (tok as any).value as Token[] | undefined;
       return (
         <span key={`q-${i}`} className="quote">
           {breakBefore && <br />}
-          {renderSentence(quoteInner || [])} {/* 括弧は追加しない／中身だけ描画 */}
+          {renderSentence(tok.value)}
         </span>
       );
     }
@@ -222,9 +219,6 @@ function renderSentence(tokens: Token[] | string) {
       // 通常テキスト
       return <span key={`t-${i}`}>{v}</span>;
     }
-
-    // fallback
-    return <span key={`f-${i}`}>{(tok as any)?.value ?? ''}</span>;
   });
 }
 
@@ -287,11 +281,9 @@ export default function ReaderPage({ params }: PageProps) {
       setPageOffsets(pOffsets);
 
       // JSONのクレジットがあれば末尾に追加（文字列想定）
-      const creditText =
-        (bookContent as any)?.source?.credits ??
-        (bookContent as any)?.source?.credit ??
-        (bookContent as any)?.credits ??
-        (bookContent as any)?.credit;
+      const creditText = 'source' in bookContent
+        ? ((bookContent.source as any)?.credits ?? (bookContent.source as any)?.credit)
+        : ((bookContent as any)?.credits ?? (bookContent as any)?.credit);
       if (typeof creditText === 'string' && creditText.trim().length > 0) {
         paginatedPages.push([{ type: 'text', value: creditText }]);
       }
@@ -447,11 +439,9 @@ export default function ReaderPage({ params }: PageProps) {
   }
 
   // クレジット判定（末尾ページを横書き・小さめ・左寄せで描画する）
-  const creditTextValue =
-    (bookContent as any)?.source?.credits ??
-    (bookContent as any)?.source?.credit ??
-    (bookContent as any)?.credits ??
-    (bookContent as any)?.credit;
+  const creditTextValue = 'source' in bookContent
+    ? ((bookContent.source as any)?.credits ?? (bookContent.source as any)?.credit)
+    : ((bookContent as any)?.credits ?? (bookContent as any)?.credit);
   const hasCredit =
     typeof creditTextValue === 'string' && creditTextValue.trim().length > 0;
   const isCreditPage = hasCredit && pages.length > 0 && (currentPage === pages.length - 1);
